@@ -1,0 +1,300 @@
+go .	가다 .
+hi .	안녕 .
+run !	달리다 !
+who ?	WHO ?
+wow !	우와 !
+fire !	불 !
+help !	돕다 !
+jump .	점프 .
+stop !	멈추다 !
+wait !	기다리다 !
+go on .	계속하세요 .
+hello !	안녕하세요 !
+i see .	알겠어요 .
+i try .	나는 노력한다 .
+i won !	내가 이겼어 !
+i won .	내가 이겼다 .
+oh no !	안 돼 !
+attack !	공격 !
+cheers !	건배 !
+get up .	일어나다 .
+go now .	지금 가세요 .
+got it !	알았어요 !
+got it ?	알았어요 ?
+hop in .	타세요 .
+hug me .	나를 안아주세요 .
+i fell .	나는 떨어졌다 .
+i know .	알아요 .
+i left .	나는 떠났다 .
+i lost .	나는 졌다 .
+i paid .	나는 지불했다 .
+i'm 19 .	나는 19 살입니다 .
+i'm ok .	난 괜찮아 .
+listen .	듣다 .
+no way !	안 돼요 !
+really ?	정말 ?
+thanks .	감사해요 .
+we try .	우리는 노력합니다 .
+we won .	우리가 이겼어요 .
+ask tom .	톰에게 물어보세요 .
+awesome !	엄청난 !
+be calm .	침착해라 .
+be cool .	침착해라 .
+be fair .	공정해라 .
+be kind .	친절하세요 .
+be nice .	친절해라 .
+beat it .	그것을 이길 .
+call me .	나에게 전화해 .
+call us .	우리에게 전화하세요 .
+come in .	들어오세요 .
+come on !	어서 해봐요 !
+come on .	어서 해봐요 .
+drop it !	버려라 !
+get tom .	톰을 잡아라 .
+get out !	나가세요 !
+get out .	나가세요 .
+go away !	저리 가요 !
+go away .	저리 가요 .
+go home .	집에 가세요 .
+go slow .	천천히 가세요 .
+goodbye !	안녕히 가세요 !
+hang on !	잠깐만요 !
+hang on .	잠깐만요 .
+he quit .	그는 그만뒀다 .
+he runs .	그는 달린다 .
+help me !	도와주세요 !
+help me .	도와주세요 .
+help us .	우리를 도와주세요 .
+hold it !	잡아 !
+hold on .	기다리다 .
+hug tom .	톰 안아줘 .
+i agree .	나는 동의한다 .
+i cried .	나는 울었다 .
+i dozed .	나는 졸았다 .
+i drive .	나는 운전한다 .
+i smoke .	나는 담배를 피운다 .
+i snore .	나는 코를 고는다 .
+i stink .	냄새가 나 .
+i stood .	나는 섰다 .
+i swore .	나는 맹세했다 .
+i tried .	나는 노력했다 .
+i waved .	나는 손을 흔들었다 .
+i'll go .	내가 갈게 .
+i'm tom .	나는 톰이에요 .
+i'm fat .	나는 뚱뚱해 .
+i'm fit .	나는 건강하다 .
+i'm hit !	나 맞았어 !
+i'm ill .	나 아파요 .
+i'm sad .	나는 슬프다 .
+i'm shy .	난 부끄러워요 .
+i'm wet .	나 젖었어 .
+it's me !	나야 !
+join us .	우리와 함께 하세요 .
+keep it .	그것을 유지하십시오 .
+kiss me .	나에게 키스해줘 .
+me , too .	저도요 .
+open up .	열어라 .
+perfect !	완벽한 !
+see you .	또 봐요 .
+show me .	나에게 보여줘 .
+shut up !	입 다물어 !
+so long .	너무 오래 .
+take it .	가져가세요 .
+tell me .	말해 주세요 .
+tom won .	톰이 이겼어요 .
+wake up !	깨우다 !
+wake up .	깨우다 .
+wash up .	씻어라 .
+we know .	우리는 알고 있습니다 .
+we lost .	우리는졌다 .
+welcome .	환영 .
+who won ?	누가 이겼어 ?
+you run .	당신은 달린다 .
+am i fat ?	나 뚱뚱해 ?
+ask them .	그들에게 물어보세요 .
+back off !	물러서라 !
+back off .	물러서라 .
+be a man .	남자가 되십시오 .
+be still .	가만히 있어라 .
+beats me .	나를 이겼다 .
+call tom .	톰에게 전화해 .
+cheer up !	기운을 내다 !
+cool off !	진정해 !
+cuff him .	그에게 수갑을 채워라 .
+drive on .	운전하다 .
+find tom .	톰을 찾아요 .
+fix this .	이것을 고쳐라 .
+get down !	내려와 !
+get down .	내려와 .
+get lost !	길을 잃다 !
+get real !	진짜가 되다 !
+go ahead .	어서 가세요 .
+good job !	잘했어요 !
+grab him .	그를 잡아라 .
+have fun .	재미있게 보내세요 .
+he tries .	그는 시도합니다 .
+he's wet .	그 사람은 젖었어 .
+help tom .	톰 도와줘 .
+hi , guys .	안녕, 얘들아 .
+how cute !	얼마나 귀엽습니까 !
+how deep ?	얼마나 깊어 ?
+how nice !	정말 좋아요 !
+humor me .	나한테 유머를 줘 .
+hurry up .	서둘러요 .
+i am fat .	나는 뚱뚱하다 .
+i did ok .	난 괜찮아 .
+i did it .	내가 해냈어 .
+i failed .	나는 실패했다 .
+i forgot .	나는 잊었다 .
+i get it .	나는 그것을 이해한다 .
+i got it .	알겠어요 .
+i helped .	내가 도와줬어 .
+i jumped .	나는 뛰어내렸다 .
+i looked .	나는 보았다 .
+i moaned .	나는 신음했다 .
+i nodded .	나는 고개를 끄덕였다 .
+i obeyed .	나는 순종했다 .
+i phoned .	내가 전화했어요 .
+i refuse .	나는 거절한다 .
+i rested .	나는 쉬었다 .
+i saw it .	나는 그것을 보았다 .
+i sighed .	나는 한숨을 쉬었다 .
+i stayed .	나는 머물렀다 .
+i talked .	나는 말했다 .
+i use it .	나는 그것을 사용합니다 .
+i'll pay .	내가 지불할게 .
+i'll try .	내가 노력할게 .
+i'm back .	나는 돌아왔다 .
+i'm bald .	나는 대머리입니다 .
+i'm busy .	나는 바빠요 .
+i'm calm .	나는 침착하다 .
+i'm cold .	나는 추워요 .
+i'm cool .	난 괜찮아 .
+i'm deaf .	나는 귀머거리입니다 .
+i'm done .	난 끝났어 .
+i'm fair .	나는 공정하다 .
+i'm fast .	나는 빠르다 .
+i'm fine .	잘 지내요 .
+i'm free !	난 자유야 !
+i'm free .	난 시간이 있어 .
+i'm full .	난 꽉 찼어 .
+i'm game .	나는 게임이다 .
+i'm glad .	기쁘다 .
+i'm home .	나는 집에있다 .
+i'm late .	나 늦었어 .
+i'm lazy .	나는 게으르다 .
+i'm okay .	난 괜찮아 .
+i'm rich .	나는 부자입니다 .
+i'm safe .	나는 안전해요 .
+i'm sick .	나 아파요 .
+i'm sure .	나는 확신한다 .
+i'm tall .	나는 키가 크다 .
+i'm thin .	나는 말랐다 .
+i'm tidy .	나는 깔끔해요 .
+i'm ugly .	나는 못생겼다 .
+i'm weak .	나는 약해요 .
+i'm well .	나는 괜찮아 .
+i've won .	내가 이겼어 .
+it helps .	그것은 도움이됩니다 .
+it hurts .	아파요 .
+it works .	그것은 작동합니다 .
+it's tom .	톰이에요 .
+it's fun .	재미있어요 .
+it's his .	그것은 그의 것입니다 .
+it's new .	그것은 새로운 것입니다 .
+it's odd .	이상해요 .
+it's red .	그것은 빨간색입니다 .
+it's sad .	슬프다 .
+keep out !	비켜라 !
+keep out .	밖으로 나가십시오 .
+kiss tom .	톰에게 키스해줘 .
+leave it .	그것을 남겨주세요 .
+leave me .	나를 떠나라 .
+leave us .	우리를 떠나세요 .
+let's go !	갑시다 !
+let's go .	갑시다 .
+look out !	조심해 !
+marry me .	나랑 결혼해 줘 .
+may i go ?	내가 가도 될까 ?
+save tom .	톰을 구해줘 .
+she came .	그녀가 왔어 .
+she died .	그녀는 죽었습니다 .
+she runs .	그녀는 달린다 .
+sit down !	앉아 !
+sit down .	앉으세요 .
+sit here .	여기 앉아 .
+speak up !	말하다 !
+stop tom .	톰 그만해 .
+taste it .	맛보세요 .
+tell tom .	톰에게 말해줘 .
+terrific !	훌륭해요 !
+they won .	그들은 이겼다 .
+tom came .	톰이 왔어요 .
+tom died .	톰이 죽었어 .
+tom knew .	톰은 알고 있었어요 .
+tom left .	톰이 떠났다 .
+tom lied .	톰은 거짓말을 했어요 .
+tom lies .	톰은 거짓말을 해요 .
+tom lost .	톰이 졌어요 .
+tom paid .	톰이 지불했어요 .
+too late .	너무 늦었어 .
+trust me .	나를 믿어라 .
+try hard .	열심히 노력해 보세요 .
+try some .	좀 시도해 보세요 .
+try this .	이것을 시도하십시오 .
+use this .	이것을 사용하십시오 .
+warn tom .	톰에게 경고해요 .
+watch me .	나를 조심해 .
+watch us .	우리를 조심해 .
+we agree .	우리는 동의합니다 .
+we'll go .	우리는 갈 것이다 .
+what for ?	무엇을 위해 ?
+what fun !	정말 재미있어요 !
+who came ?	누가 왔어 ?
+who died ?	누가 죽었나요 ?
+who fell ?	누가 떨어졌어 ?
+who quit ?	누가 그만뒀어 ?
+who's he ?	그 사람은 누구야 ?
+write me .	나에게 편지를 보내주세요 .
+you lost .	당신은 잃었습니다 .
+after you .	당신 후에 .
+aim . fire !	목표 . 불 !
+am i late ?	나 늦었어 ?
+answer me .	대답해 줘 .
+be seated .	앉으세요 .
+birds fly .	새들은 날아간다 .
+bless you .	축복합니다 .
+call home !	집에 전화해 !
+calm down !	진정하다 !
+calm down .	진정하다 .
+can we go ?	우리 갈 수 있어 ?
+catch tom .	톰을 잡아라 .
+catch him .	그를 잡아라 .
+come back .	돌아와 .
+come here .	이리 오세요 .
+come over !	이리와 !
+come over .	이리와 .
+come soon .	곧 오세요 .
+cool down .	진정해 .
+did i win ?	내가 이겼어 ?
+do it now .	지금 하세요 .
+dogs bark .	개들이 짖는다 .
+don't ask .	묻지 마세요 .
+don't cry .	울지 마세요 .
+don't die .	죽지 마세요 .
+don't lie .	거짓말하지 마세요 .
+don't run .	뛰지 마세요 .
+excuse me .	실례합니다 .
+fantastic !	환상적이다 !
+feel this .	이것을 느껴라 .
+follow me .	나를 따르라 .
+follow us .	우리를 따르십시오 .
+forget it !	잊어 버려 !
+forget it .	잊어 버려 .
+get a job .	취직 .
+get ready .	준비하세요 .
+go get it .	가서 가져와 .
+go inside .	안으로 들어가세요 .
+go to bed .	자러 가세요 .
+good luck .	행운을 빌어요 .
+grab that .	그거 잡아 .

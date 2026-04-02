@@ -1,0 +1,5000 @@
+go .	行く 。
+hi .	こんにちは 。
+run !	走る ！
+who ?	誰が ？
+wow !	おお ！
+fire !	火 ！
+help !	ヘルプ ！
+jump .	ジャンプ 。
+stop !	停止 ！
+wait !	待って ！
+go on .	続けてください 。
+hello !	こんにちは ！
+i see .	なるほど 。
+i try .	試してみます 。
+i won !	私は勝ちました ！
+i won .	私が勝ちました 。
+oh no !	なんてこった ！
+attack !	攻撃 ！
+cheers !	乾杯 ！
+get up .	起きる 。
+go now .	今すぐ行きましょう 。
+got it !	わかった ！
+got it ?	わかった ？
+hop in .	飛び込みます 。
+hug me .	私を抱きしめて 。
+i fell .	私は落ちた 。
+i know .	知っている 。
+i left .	私は去った 。
+i lost .	負けました 。
+i paid .	支払いました 。
+i'm 19 .	私は19歳です 。
+i'm ok .	私は大丈夫 。
+listen .	聞く 。
+no way !	とんでもない ！
+really ?	本当に ？
+thanks .	ありがとう 。
+we try .	試してみます 。
+we won .	私たちは勝ちました 。
+ask tom .	トムに聞いてください 。
+awesome !	素晴らしい ！
+be calm .	落ち着いてください 。
+be cool .	クールであってください 。
+be fair .	公平であること 。
+be kind .	親切にしてください 。
+be nice .	よろしくね 。
+beat it .	失せろ 。
+call me .	電話してね 。
+call us .	お電話ください 。
+come in .	お入りください 。
+come on !	来て ！
+come on .	来て 。
+drop it !	落としてください ！
+get tom .	トムを入手します 。
+get out !	出て行け ！
+get out .	出て行け 。
+go away !	どこかに行って ！
+go away .	どこかに行って 。
+go home .	家に帰れ 。
+go slow .	ゆっくり行ってください 。
+goodbye !	さようなら ！
+hang on !	ちょっとまって ！
+hang on .	ちょっとまって 。
+he quit .	彼は辞めた 。
+he runs .	彼は走ります 。
+help me !	助けて ！
+help me .	助けて 。
+help us .	助けてください 。
+hold it !	待ってください ！
+hold on .	持続する 。
+hug tom .	トムを抱きしめて 。
+i agree .	同意します 。
+i cried .	私は泣いた 。
+i dozed .	居眠りしてしまいました 。
+i drive .	私は運転します 。
+i smoke .	私は喫煙します 。
+i snore .	いびきをかきます 。
+i stink .	臭いです 。
+i stood .	私は立っていた 。
+i swore .	私は誓った 。
+i tried .	私は試した 。
+i waved .	私は手を振った 。
+i'll go .	行きます 。
+i'm tom .	私はトムです 。
+i'm fat .	私は太っています 。
+i'm fit .	私は元気です 。
+i'm hit !	当たってるよ ！
+i'm ill .	私は病気です 。
+i'm sad .	私は悲しいです 。
+i'm shy .	恥ずかしいです 。
+i'm wet .	濡れています 。
+it's me !	それは私です ！
+join us .	参加しませんか 。
+keep it .	そのままにしておいてください 。
+kiss me .	キスして 。
+me , too .	私も 。
+open up .	開けてください 。
+perfect !	完璧 ！
+see you .	またね 。
+show me .	見せて 。
+shut up !	黙れ ！
+so long .	さよなら 。
+take it .	それを取ってください 。
+tell me .	教えて 。
+tom won .	トムが勝った 。
+wake up !	起きろ ！
+wake up .	起きろ 。
+wash up .	洗います 。
+we know .	私たちは知っています 。
+we lost .	私たちは負けました 。
+welcome .	いらっしゃいませ 。
+who won ?	誰が勝ったの ？
+you run .	あなたは走ります 。
+am i fat ?	私は太っていますか ？
+ask them .	彼らに尋ねてください 。
+back off !	下がってください ！
+back off .	後退してください 。
+be a man .	男になりなさい 。
+be still .	じっとしていてください 。
+beats me .	私を殴ります 。
+call tom .	トムに電話してください 。
+cheer up !	元気づける ！
+cool off !	クールダウン ！
+cuff him .	彼に手錠をかける 。
+drive on .	ドライブオン 。
+find tom .	トムを見つけてください 。
+fix this .	これを修正してください 。
+get down !	降りてください ！
+get down .	降りてください 。
+get lost !	迷子になる ！
+get real !	本物になる ！
+go ahead .	どうぞ 。
+good job !	よくやった ！
+grab him .	彼を捕まえてください 。
+have fun .	楽しむ 。
+he tries .	彼は試みます 。
+he's wet .	彼は濡れています 。
+help tom .	トムを助けて 。
+hi , guys .	こんにちは、みんな 。
+how cute !	なんて可愛いんだろう ！
+how deep ?	どのくらい深いですか ？
+how nice !	なんと素敵なことでしょう ！
+humor me .	ユーモア私 。
+hurry up .	急いで 。
+i am fat .	私は太っている 。
+i did ok .	大丈夫でした 。
+i did it .	やったよ 。
+i failed .	失敗しました 。
+i forgot .	忘れた 。
+i get it .	わかった 。
+i got it .	わかった 。
+i helped .	私は助けました 。
+i jumped .	飛び降りた 。
+i looked .	見ました 。
+i moaned .	私はうめきました 。
+i nodded .	私はうなずいた 。
+i obeyed .	私は従った 。
+i phoned .	電話しました 。
+i refuse .	お断りします 。
+i rested .	休みました 。
+i saw it .	見ました 。
+i sighed .	私はため息をつきました 。
+i stayed .	私は滞在しました 。
+i talked .	話しました 。
+i use it .	私はそれを使っています 。
+i'll pay .	私が支払います 。
+i'll try .	私が試してみます 。
+i'm back .	戻ってきました 。
+i'm bald .	私はハゲています 。
+i'm busy .	私は忙しいです 。
+i'm calm .	私は落ち着いています 。
+i'm cold .	寒いです 。
+i'm cool .	私はかっこいいです 。
+i'm deaf .	私は耳が聞こえません 。
+i'm done .	私は終わった 。
+i'm fair .	私は公正です 。
+i'm fast .	私は速いです 。
+i'm fine .	元気です 。
+i'm free !	私は自由だ ！
+i'm free .	私は自由だ 。
+i'm full .	お腹いっぱいです 。
+i'm game .	私はゲームです 。
+i'm glad .	私は嬉しい 。
+i'm home .	ただいま 。
+i'm late .	遅刻だ 。
+i'm lazy .	私は怠け者です 。
+i'm okay .	大丈夫です 。
+i'm rich .	私は金持ちです 。
+i'm safe .	私は安全です 。
+i'm sick .	私は病気です 。
+i'm sure .	私は確信しています 。
+i'm tall .	私は背が高いです 。
+i'm thin .	私は痩せています 。
+i'm tidy .	私はきちんとしています 。
+i'm ugly .	私は醜いです 。
+i'm weak .	私は弱いです 。
+i'm well .	私は元気です 。
+i've won .	私は勝ちました 。
+it helps .	それは助けになります 。
+it hurts .	それは痛い 。
+it works .	それは動作します 。
+it's tom .	トムです 。
+it's fun .	楽しいです 。
+it's his .	それは彼のです 。
+it's new .	新しいです 。
+it's odd .	それは奇妙です 。
+it's red .	赤です 。
+it's sad .	悲しいです 。
+keep out !	近づかないでください ！
+keep out .	近づかないでください 。
+kiss tom .	トムにキスして 。
+leave it .	放置してください 。
+leave me .	私に任せてください 。
+leave us .	私たちにお任せください 。
+let's go !	さあ行こう ！
+let's go .	さあ行こう 。
+look out !	外を見る ！
+marry me .	結婚してください 。
+may i go ?	行ってもいいですか ？
+save tom .	トムを救ってください 。
+she came .	彼女は来ました 。
+she died .	彼女は亡くなりました 。
+she runs .	彼女は走ります 。
+sit down !	座って下さい ！
+sit down .	座って下さい 。
+sit here .	ここに座ってください 。
+speak up !	話してください ！
+stop tom .	トムを止めてください 。
+taste it .	味わってください 。
+tell tom .	トムに伝えてください 。
+terrific !	素晴らしい ！
+they won .	彼らは勝ちました 。
+tom came .	トムが来た 。
+tom died .	トムが亡くなりました 。
+tom knew .	トムは知っていた 。
+tom left .	トム左 。
+tom lied .	トムは嘘をつきました 。
+tom lies .	トムは嘘をつく 。
+tom lost .	トムがいなくなった 。
+tom paid .	トムが支払いました 。
+too late .	遅すぎる 。
+trust me .	私を信じて 。
+try hard .	頑張ってください 。
+try some .	いくつか試してみてください 。
+try this .	これを試してみてください 。
+use this .	これを使用してください 。
+warn tom .	トムに警告してください 。
+watch me .	私を見てください 。
+watch us .	私たちを見守ってください 。
+we agree .	同意します 。
+we'll go .	行きます 。
+what for ?	何のために ？
+what fun !	なんて楽しいんだ ！
+who came ?	誰が来たの ？
+who died ?	誰が死んだの ？
+who fell ?	誰が落ちたの ？
+who quit ?	誰が辞めたの ？
+who's he ?	彼は誰ですか ？
+write me .	書いてください 。
+you lost .	あなたは負けました 。
+after you .	お先にどうぞ 。
+aim . fire !	標的 。火 ！
+am i late ?	私は遅れていますか ？
+answer me .	答えて下さい 。
+be seated .	座ってください 。
+birds fly .	鳥が飛びます 。
+bless you .	お大事に 。
+call home !	家に電話してください ！
+calm down !	落ち着け ！
+calm down .	落ち着け 。
+can we go ?	行ってもいいですか ？
+catch tom .	トムを捕まえる 。
+catch him .	彼を捕まえてください 。
+come back .	戻ってくる 。
+come here .	ここに来て 。
+come over !	やって来る ！
+come over .	やって来る 。
+come soon .	すぐに来てください 。
+cool down .	クールダウン 。
+did i win ?	私が勝ったんですか ？
+do it now .	今すぐやってください 。
+dogs bark .	犬が吠える 。
+don't ask .	質問しないでください 。
+don't cry .	泣かないで 。
+don't die .	死なないでください 。
+don't lie .	嘘をつかないでください 。
+don't run .	走らないでください 。
+excuse me .	すみません 。
+fantastic !	素晴らしい ！
+feel this .	これを感じてください 。
+follow me .	私に従ってください 。
+follow us .	私たちに従ってください 。
+forget it !	忘れて ！
+forget it .	忘れて 。
+get a job .	仕事を得る 。
+get ready .	準備をしてください 。
+go get it .	取りに行ってください 。
+go inside .	中に入ります 。
+go to bed .	寝る 。
+good luck .	幸運を 。
+grab that .	それを掴んでください 。
+grab this .	これをつかんでください 。
+hands off .	手を離してください 。
+he is ill .	彼は病気です 。
+he is old .	彼は年寄りです 。
+he's a dj .	彼はDJです 。
+he's good .	彼は良いよ 。
+he's lazy .	彼は怠け者だ 。
+he's rich .	彼は金持ちだ 。
+he's sexy .	彼はセクシーだ 。
+here i am .	ここにいるよ 。
+here's $5 .	こちらは5ドルです 。
+hold fire .	火を止めてください 。
+hold this .	これを持ってください 。
+how awful !	なんとひどいことでしょう ！
+how weird !	なんと奇妙なことでしょう ！
+how's tom ?	トムはどうですか ？
+i am busy .	私は忙しいです 。
+i am calm .	私は落ち着いています 。
+i am cold .	寒いです 。
+i am fine .	私は元気です 。
+i am good .	私は元気です 。
+i am here .	私はここにいます 。
+i am lazy .	私は怠け者です 。
+i am okay .	私は大丈夫です 。
+i am sick .	私は病気です 。
+i am sure .	私は確信しています 。
+i am weak .	私は弱いです 。
+i beg you .	お願いです 。
+i can run .	走れます 。
+i can ski .	スキーができます 。
+i cringed .	私は身をすくめた 。
+i exhaled .	私は息を吐きました 。
+i gave up .	諦めました 。
+i give in .	私は譲ります 。
+i give up .	私はあきらめます 。
+i got hot .	暑くなってきた 。
+i had fun .	楽しかったです 。
+i hate it .	私はそれが嫌いです 。
+i have it .	持っています 。
+i hit tom .	私はトムを殴った 。
+i hope so .	そうだといい 。
+i hurried .	私は急いだ 。
+i inhaled .	吸い込んだ 。
+i knew it .	私はそれを知っていた 。
+i like it .	私はそれが好きです 。
+i lost it .	紛失してしまいました 。
+i love it !	大好きです ！
+i love it .	大好きです 。
+i mean it !	私は真剣です ！
+i mean it .	私は真剣です 。
+i must go .	私は行かなければなりません 。
+i need it .	私はそれが必要です 。
+i noticed .	私は気づきました 。
+i prepaid .	私は前払いしました 。
+i promise .	約束します 。
+i relaxed .	リラックスしました 。
+i retired .	私は退職しました 。
+i said no .	私はノーと言った 。
+i said so .	そう言いました 。
+i saw him .	私は彼を見ました 。
+i saw one .	一つ見ました 。
+i saw you .	あなたを見かけました 。
+i see tom .	トムに会ったよ 。
+i shouted .	私は叫びました 。
+i tripped .	つまずいてしまいました 。
+i want it .	私はそれが欲しい 。
+i was new .	私は新人でした 。
+i will go .	私が行きます 。
+i woke up .	私は目が覚めた 。
+i'd agree .	私も同意します 。
+i'd leave .	私は去ります 。
+i'll call .	電話します 。
+i'll cook .	私が料理します 。
+i'll help .	私が手伝います 。
+i'll live .	私は生きます 。
+i'll obey .	私は従うよ 。
+i'll pack .	梱包します 。
+i'll pass .	私はパスします 。
+i'll quit .	辞めます 。
+i'll sing .	歌います 。
+i'll stop .	やめます 。
+i'll swim .	泳ぎます 。
+i'll talk .	話します 。
+i'll wait .	待ちます 。
+i'll walk .	歩きます 。
+i'll work .	仕事します 。
+i'm a cop .	私は警官です 。
+i'm a man .	私は男です 。
+i'm alive .	私は生きている 。
+i'm alone .	私は一人です 。
+i'm angry .	私は怒っています 。
+i'm armed .	私は武装しています 。
+i'm awake .	私は起きています 。
+i'm blind .	私は盲目です 。
+i'm broke .	私は一文無しです 。
+i'm clean .	私はきれいです 。
+i'm crazy .	私は夢中だ 。
+i'm cured .	私は治りました 。
+i'm dizzy .	めまいがする 。
+i'm drunk .	酔ってます 。
+i'm dying .	私は死にかけている 。
+i'm early .	私は早いです 。
+i'm first .	私が最初です 。
+i'm fussy .	私はうるさいです 。
+i'm going .	私は行きます 。
+i'm loyal .	私は忠実です 。
+i'm lucky .	私は幸運です 。
+i'm lying .	嘘をついています 。
+i'm naked .	私は裸です 。
+i'm quiet .	私は静かです 。
+i'm ready !	準備できました ！
+i'm ready .	準備できました 。
+i'm right .	私は正しいです 。
+i'm sober .	私は地味です 。
+i'm sorry .	ごめんなさい 。
+i'm stuck .	行き詰まってしまいました 。
+i'm timid .	私は臆病です 。
+i'm tired .	私は疲れている 。
+i'm tough .	私は厳しいです 。
+i'm yours .	私はあなたのものです 。
+i've lost .	負けてしまいました 。
+is tom ok ?	トムは大丈夫ですか ？
+is it bad ?	悪いですか ？
+is it far ?	遠いですか ？
+is it hot ?	暑いですか ？
+is it you ?	あなたですか ？
+it failed .	失敗しました 。
+it is new .	新品です 。
+it snowed .	雪が降りました 。
+it stinks .	臭いです 。
+it was ok .	大丈夫でした 。
+it worked .	それはうまくいきました 。
+it's 3:30 .	3時30分です 。
+it's 8:30 .	8時半です 。
+it's a tv .	それはテレビです 。
+it's cold .	寒いです 。
+it's dark .	暗いです 。
+it's dead .	それは死んでいる 。
+it's done .	完了しました 。
+it's easy .	簡単です 。
+it's food .	それは食べ物です 。
+it's free .	無料です 。
+it's here .	ここにあります 。
+it's hers .	それは彼女のものです 。
+it's late .	遅いです 。
+it's lost .	それは失われた 。
+it's mine .	それは私のです 。
+it's open .	開いています 。
+it's ours .	それは私たちのものです 。
+it's sand .	それは砂です 。
+it's time .	時間です 。
+it's true !	それは本当です ！
+it's work .	それは仕事です 。
+keep that .	それを保管してください 。
+keep this .	これを保管してください 。
+let it be .	なるがままに 。
+let me go !	行かせてください ！
+let me go .	行かせてください 。
+let me in .	中に入れてください 。
+let's ask .	聞いてみましょう 。
+let's eat .	食べましょう 。
+let's see .	見てみましょう 。
+lie still .	じっと横たわってください 。
+look back !	振り返って ！
+look here .	ここを見てください 。
+loosen up .	緩めます 。
+move over .	上に移動します 。
+nice shot !	ナイスショット ！
+of course !	もちろん ！
+of course .	もちろん 。
+oh please !	ああ、お願いします ！
+pardon me ?	ごめんなさい ？
+read this .	これを読んでください 。
+say hello .	こんにちは 。
+see above .	上記を参照してください 。
+see below .	以下を参照してください 。
+seize him !	彼を捕まえてください ！
+seriously ?	真剣に ？
+she cried .	彼女は泣きました 。
+she tried .	彼女は試してみた 。
+she walks .	彼女は歩きます 。
+she's hot .	彼女は暑いです 。
+sign here .	ここに署名してください 。
+sign this .	これに署名してください 。
+slow down .	減速する 。
+stay back .	戻ってください 。
+stay calm .	落ち着いてください 。
+stay down !	下がってください ！
+stay down .	そのままでいてください 。
+stay here .	ここにいてください 。
+stay thin .	痩せたまま 。
+step back .	一歩下がってください 。
+stop that !	それはやめてください ！
+stop that .	それはやめてください 。
+stop them .	彼らを止めてください 。
+take care !	気をつけて ！
+take care .	気をつけて 。
+take mine .	私のものを取ってください 。
+take this .	これを取ってください 。
+thank you .	ありがとう 。
+that's ok .	それで大丈夫です 。
+that's it .	それでおしまい 。
+they fell .	彼らは落ちた 。
+they left .	彼らは去りました 。
+they lied .	彼らは嘘をつきました 。
+they lost .	彼らは負けた 。
+they swam .	彼らは泳ぎました 。
+time's up .	時間切れです 。
+tom cooks .	トム・クックス 。
+tom cried .	トムは泣きました 。
+tom is ok .	トムは大丈夫です 。
+tom knits .	トムニット 。
+tom knows .	トムは知っています 。
+tom rocks .	トム・ロックス 。
+tom spoke .	トム・スポーク 。
+tom walks .	トム・ウォークス 。
+tom waved .	トムは手を振った 。
+tom works .	トムワークス 。
+tom's fat .	トムの太った 。
+tom's mad .	トムは怒っている 。
+tom's sad .	トムは悲しい 。
+trust tom .	トムを信頼してください 。
+try again .	もう一度やり直してください 。
+try it on .	試着してみてください 。
+turn left .	左折してください 。
+wait here .	ここで待っててください 。
+watch out !	気をつけて ！
+we agreed .	私たちは同意しました 。
+we did it !	やった ！
+we did it .	私たちがやりました 。
+we forgot .	私たちは忘れていました 。
+we saw it .	私たちはそれを見ました 。
+we smiled .	私たちは微笑みました 。
+we talked .	私たちは話しました 。
+we waited .	待っていました 。
+we'll try .	試してみます 。
+we'll win .	私たちは勝ちます 。
+we're hot .	私たちは暑いです 。
+we're sad .	私たちは悲しいです 。
+we're shy .	私たちは恥ずかしがり屋です 。
+well done !	よくやった ！
+what else ?	ほかに何か ？
+what's up ?	どうしたの ？
+who cares ?	誰が気にする ？
+who is he ?	彼は誰ですか ？
+who is it ?	誰だ ？
+who knows ?	知るか ？
+who spoke ?	誰が話しましたか ？
+who'll go ?	誰が行きますか ？
+who's tom ?	トムは誰ですか ？
+who's ill ?	誰が病気ですか ？
+wonderful !	素晴らしい ！
+write tom .	トムと書きます 。
+you drive .	あなたが運転します 。
+you idiot !	馬鹿野郎 ！
+you start .	あなたが始めます 。
+you tried .	あなたは試しました 。
+all aboard !	全員乗ってください ！
+am i clear ?	私ははっきりしていますか ？
+am i dying ?	私は死んでいるのでしょうか ？
+am i early ?	私は早いですか ？
+am i fired ?	私は解雇ですか ？
+am i first ?	私が最初ですか ？
+am i hired ?	私は雇われていますか ？
+am i right ?	私は正しいですか ？
+am i wrong ?	私は間違っていますか ？
+answer tom .	トムに答えてください 。
+are you ok ?	大丈夫ですか ？
+are you up ?	起きていますか ？
+ask anyone .	誰にでも聞いてください 。
+ask around .	周りに聞いてください 。
+be careful !	気をつけて ！
+be careful .	気をつけて 。
+be content .	内容が異なる場合がございます 。
+be on time .	時間通りに来てください 。
+be serious .	真剣になってください 。
+birds sing .	鳥が歌います 。
+bottoms up !	ボトムアップ ！
+bring food .	食べ物を持ってきてください 。
+bring wine .	ワインを持ってきてください 。
+can i come ?	来てもいいですか ？
+can i help ?	手伝ってもいいですか ？
+can i stay ?	泊まってもいいですか ？
+carry this .	これを持ち歩きます 。
+check that .	それを確認してください 。
+check this .	これをチェックしてください 。
+choose one .	1つ選択してください 。
+come alone .	一人で来てください 。
+come along .	来てください 。
+come on in !	さあ、入ってください ！
+come on in .	さあ入ってください 。
+come quick !	早く来てください ！
+come to me .	うちにおいで 。
+come to us .	私たちに来てください 。
+cut it out !	切り取ってください ！
+cut it out .	切り取ってください 。
+did we win ?	私たちは勝ったのですか ？
+dig faster .	より速く掘れます 。
+do i stink ?	私は臭いですか ？
+do men cry ?	男性は泣くのですか ？
+don't fret .	心配しないでください 。
+don't jump !	ジャンプしないでください ！
+don't move !	動かないで下さい ！
+don't move .	動かないで下さい 。
+don't rush .	急がないでください 。
+don't sing .	歌わないでください 。
+don't talk !	話さないでください ！
+don't talk .	話さないでください 。
+don't wait .	待ってはいけません 。
+duty calls .	任務の呼び出し 。
+face facts !	事実に直面してください ！
+fill it up .	埋めてください 。
+find a job .	仕事を見つけてください 。
+follow tom .	トムをフォローしてください 。
+follow him .	彼に従ってください 。
+forget tom .	トムのことは忘れてください 。
+forget him .	彼のことは忘れてください 。
+forgive me .	私を許して 。
+forgive us .	ご容赦ください 。
+get a life !	命を手に入れよう ！
+get to bed .	寝なさい 。
+give it up .	あきらめてください 。
+go outside .	外に出てください 。
+go warm up .	ウォーミングアップに行きます 。
+he gave in .	彼は屈服した 。
+he hung up .	彼は電話を切りました 。
+he is a dj .	彼はDJです 。
+he is busy .	彼は忙しいです 。
+he is here !	彼はここにいるよ ！
+he is kind .	彼は親切です 。
+he is late .	彼は遅刻しています 。
+he is lazy .	彼は怠け者だ 。
+he is poor .	彼は貧しいです 。
+he is sick .	彼は病気です 。
+he made it .	彼はそれを作りました 。
+he's swiss .	彼はスイス人です 。
+he's broke .	彼は一文無しだ 。
+he's drunk .	彼は酔っている 。
+he's smart .	彼は賢いです 。
+head north .	北へ向かいます 。
+here he is !	彼はここにいます ！
+here it is .	ここにあります 。
+here we go .	さぁ行こう 。
+hold still .	じっとしてください 。
+how is tom ?	トムはどうですか ？
+how lovely !	なんと素敵なことでしょう ！
+how's work ?	仕事はどうですか ？
+hurry home .	急いで家に帰りなさい 。
+i admit it .	それは認めます 。
+i am a man .	私は男です 。
+i am going .	私は行きます 。
+i am human .	私は人間です 。
+i am ready .	私は準備ができています 。
+i am right .	私は正しいです 。
+i am sorry .	ごめんなさい 。
+i am tired .	私は疲れました 。
+i broke it .	壊してしまいました 。
+i built it .	私が作りました 。
+i can come .	来られます 。
+i can cook .	私は料理ができます 。
+i can jump .	ジャンプできます 。
+i can read .	読めます 。
+i can sing .	私は歌うことができます 。
+i can stay .	滞在できます 。
+i can swim .	私は泳ぐことができます 。
+i can wait .	待ってますよ 。
+i can walk .	歩けます 。
+i can't go .	行けません 。
+i canceled .	キャンセルしました 。
+i did that .	私はそれをしました 。
+i disagree .	私は同意しません 。
+i do worry .	心配です 。
+i doubt it .	私はそれを疑う 。
+i eat here .	ここで食べます 。
+i envy tom .	トムがうらやましいです 。
+i envy her .	彼女がうらやましいです 。
+i envy him .	彼がうらやましいです 。
+i envy you .	私はあなたがうらやましい 。
+i exercise .	私は運動します 。
+i feel bad .	申し訳ありません 。
+i feel old .	老けた気がする 。
+i felt bad .	気分が悪かった 。
+i felt ill .	気分が悪くなった 。
+i felt sad .	悲しくなりました 。
+i fixed it .	修正しました 。
+i found it .	見つけた 。
+i got busy .	忙しくなりました 。
+i got hurt .	怪我をしました 。
+i got lost .	道に迷ってしまいました 。
+i got sick .	病気になりました 。
+i guess so .	私はそう思います 。
+i had help .	助けてもらいました 。
+i hate you .	あなたが嫌い​​です 。
+i have one .	私は1つ持っています 。
+i have won .	私は勝ちました 。
+i hear you .	聞こえますよ 。
+i help him .	私は彼を助けます 。
+i hope not .	そうでなければいいのですが 。
+i know cpr .	私は心肺蘇生法を知っています 。
+i know her .	私は彼女を知っています 。
+i know him .	私は彼を知っています 。
+i like tom .	私はトムが好きです 。
+i like art .	私はアートが好きです 。
+i like him .	私は彼が好きです 。
+i like tea .	私はお茶が好きです 。
+i like you .	私はあなたが好きです 。
+i liked it .	気に入りました 。
+i listened .	聞きました 。
+i love tom .	私はトムが大好きです 。
+i love rice	お米が大好きです
+i love tea .	私はお茶が大好きです 。
+i love you .	愛してます 。
+i loved it .	大好きでした 。
+i made tea .	お茶を作りました 。
+i made two .	2つ作りました 。
+i met them .	私は彼らに会いました 。
+i must run .	走らなければなりません 。
+i need air .	空気が必要です 。
+i need ice .	氷が必要です 。
+i need you .	私には、あなたが必要です 。
+i panicked .	パニックになった 。
+i promised .	約束したよ 。
+i ran away .	私は逃げました 。
+i ran home .	私は家に走って帰りました 。
+i remember .	私は覚えています 。
+i said yes .	私はそうだと言いました 。
+i sat down .	私は座りました 。
+i saw that .	それを見ました 。
+i saw them .	私は彼らを見ました 。
+i screamed .	私は叫びました 。
+i see them .	見えます 。
+i shrugged .	私は肩をすくめた 。
+i survived .	私は生き残った 。
+i threw up .	吐いてしまいました 。
+i tried it .	試してみました 。
+i use this .	私はこれを使います 。
+i want one !	欲しいです ！
+i want one .	欲しいです 。
+i want you .	私はあなたが欲しいです 。
+i was away .	私は離れていました 。
+i was busy .	忙しかったです 。
+i was good .	良かったです 。
+i was hurt .	怪我をしました 。
+i was last .	私が最後でした 。
+i was late .	遅刻しました 。
+i was lost .	迷ってしまいました 。
+i was sick .	私は病気だった 。
+i whistled .	私は口笛を吹きました 。
+i will try .	試してみます 。
+i won't go .	行きません 。
+i work out .	私は運動します 。
+i wrote it .	私が書きました 。
+i'd accept .	受け入れます 。
+i'll check .	確認します 。
+i'll do it .	やります 。
+i'll drive .	私が運転します 。
+i'll go in .	入ります 。
+i'll hurry .	急ぎます 。
+i'll leave .	出発します 。
+i'll shoot .	撃ちます 。
+i'll stand .	私は立っています 。
+i'll start .	始めます 。
+i'm a hero .	私はヒーローです 。
+i'm a liar .	私は嘘つきです 。
+i'm a twin .	私は双子です 。
+i'm baking !	焼いてるよ ！
+i'm better .	私は良くなりました 。
+i'm biased .	私は偏見を持っています 。
+i'm buying .	買っています 。
+i'm buying .	i'm buying .
+i'm chubby .	i'm chubby .
+i'm eating .	i'm eating .
+i'm famous .	i'm famous .
+i'm faster .	i'm faster .
+i'm flabby .	i'm flabby .
+i'm greedy .	i'm greedy .
+i'm hiding .	i'm hiding .
+i'm honest .	i'm honest .
+i'm humble .	i'm humble .
+i'm hungry !	お腹が空きました ！
+i'm hungry .	お腹が空きました 。
+i'm immune .	i'm immune .
+i'm in bed .	i'm in bed .
+i'm inside .	i'm inside .
+i'm joking .	冗談です 。
+i'm loaded .	i'm loaded .
+i'm lonely .	i'm lonely .
+i'm losing .	i'm losing .
+i'm moving .	i'm moving .
+i'm normal .	i'm normal .
+i'm paying .	i'm paying .
+i'm pooped .	i'm pooped .
+i'm rested .	i'm rested .
+i'm ruined .	i'm ruined .
+i'm shaken .	i'm shaken .
+i'm single .	私は独身です 。
+i'm skinny .	私は痩せています 。
+i'm sleepy !	私は眠い ！
+i'm sneaky .	私は卑劣です 。
+i'm so fat .	私はとても太っています 。
+i'm strict .	私は厳しいです 。
+i'm strong .	私は強いです 。
+i'm thirty .	私は30歳です 。
+i'm trying .	私はしようとしています 。
+i'm wasted .	無駄だ 。
+i've tried .	試してみました 。
+ignore tom .	トムを無視してください 。
+ignore him .	彼を無視してください 。
+is tom ill ?	トムは病気ですか ?
+is he busy ?	彼は忙しいですか ？
+is he dead ?	彼は死んでいますか ？
+is he tall ?	彼は背が高いですか ？
+is it blue ?	青いですか ？
+is it done ?	終わったのか ？
+is it free ?	無料ですか ？
+is it hard ?	大変ですか ？
+is it love ?	それは愛ですか ？
+is it nice ?	いいですか ？
+is it safe ?	安全ですか ？
+is it time ?	時間ですか ？
+is it true ?	それは本当ですか ？
+is that it ?	そうですか ？
+is that so ?	そうですか ？
+it is 7:30 .	7時半です 。
+it is cold .	寒いです 。
+it matters .	それは重要です 。
+it went ok .	うまくいきました 。
+it'll work .	うまくいきます 。
+it's a fad .	それは流行です 。
+it's awful .	ひどいです 。
+it's bogus .	それは偽物です 。
+it's bulky .	かさばります 。
+it's cheap .	安いです 。
+it's clean .	きれいです 。
+it's close .	近いです 。
+it's early .	早いです 。
+it's funny .	面白いですね 。
+it's green .	緑色です 。
+it's my cd .	それは私のCDです 。
+it's night .	夜です 。
+it's on me .	それは私にあります 。
+it's phony .	それはインチキです 。
+it's quiet .	静かです 。
+it's ready .	準備は完了です 。
+it's right .	そうです 。
+it's safer .	より安全です 。
+it's sweet .	甘いです 。
+it's weird .	変だよ 。
+it's wrong .	それは違います 。
+it's yours .	それはあなたのものです 。
+jesus wept .	イエスは泣きました 。
+just do it .	やるだけ 。
+just relax .	ただリラックスしてください 。
+keep quiet !	静かにしてください ！
+keep quiet .	静かにしてください 。
+keep still .	じっとしててください 。
+let him go !	彼を行かせてください ！
+let him go .	彼を行かせてください 。
+let him in .	彼を中に入れてください 。
+let me die .	死なせてください 。
+let me out !	出してください ！
+let me pay .	支払わせてください 。
+let me see .	そうねぇ 。
+let me try .	試してみます 。
+let us out .	外に出させてください 。
+let's chat .	チャットしましょう 。
+let's kiss .	キスしましょう 。
+let's pray .	祈りましょう 。
+let's talk .	話しましょう 。
+let's work .	働きましょう 。
+lighten up .	軽くなります 。
+look again .	もう一度見てください 。
+look at it .	それを見てください 。
+look at me .	私を見て 。
+look it up .	調べてください 。
+love hurts .	愛は痛い 。
+mama cried .	ママは泣いた 。
+never mind !	どうでも ！
+no comment .	ノーコメント 。
+no kidding ?	冗談じゃない ？
+no problem !	問題ない ！
+no problem .	問題ない 。
+oh , really ?	まあ、本当に ？
+once again .	もう一度 。
+pick it up .	それを拾ってください 。
+please sit .	座ってください 。
+run for it !	走ってください ！
+say please .	言ってください 。
+shadow him .	彼に影を落としてください 。
+she is old .	彼女は年寄りです 。
+she smiled .	彼女は微笑んだ 。
+she's busy .	彼女は忙しいです 。
+she's nice .	彼女はいいです 。
+smell this .	この匂いを嗅ぎます 。
+stand back !	下がってください ！
+start here .	ここから始めてください 。
+stay alert .	警戒してください 。
+stay awake .	起きていてください 。
+stay close .	近くにいてください 。
+stay sharp .	鋭く保ちなさい 。
+stay still .	じっとしてください 。
+step aside .	一歩脇に置いてください 。
+stop lying .	嘘をつくのはやめてください 。
+study hard .	一生懸命勉強してください 。
+take a bus .	バスに乗ります 。
+take a nap .	昼寝をしましょう 。
+take cover !	隠れてください ！
+take notes .	メモを取る 。
+talk to me !	私に話して ！
+talk to me .	私に話して 。
+taste this .	これを味わってください 。
+that a boy !	それは男の子です ！
+that hurts .	それは痛いです 。
+that works .	それは機能します 。
+that's all .	それだけです 。
+that's fun .	それは楽しいですね 。
+that's her .	それは彼女です 。
+that's his .	それは彼のです 。
+that's odd .	それは奇妙だ 。
+they agree .	彼らは同意します 。
+they cheat .	彼らは騙します 。
+they voted .	彼らは投票した 。
+this is it .	これです 。
+this works .	これは機能します 。
+time flies .	時間が経つのは早い 。
+time is up .	時間切れです 。
+tom agrees .	トムも同意します 。
+tom cheats .	トムチート 。
+tom cursed .	トムは呪われた 。
+tom drinks .	トムドリンク 。
+tom drives .	トム・ドライブス 。
+tom forgot .	トムは忘れてしまいました 。
+tom helped .	トムが手伝ってくれました 。
+tom is fat .	トムは太っています 。
+tom is mad .	トムは怒っている 。
+tom is new .	トムは新しいです 。
+tom is sad .	トムは悲しいです 。
+tom jumped .	トムは飛び降りた 。
+tom looked .	トムは見た 。
+tom nodded .	トムはうなずいた 。
+tom obeyed .	トムは従った 。
+tom paints .	トムペイント 。
+tom sighed .	トムはため息をついた 。
+tom smokes .	トムは喫煙します 。
+tom snores .	トムはいびきをかきます 。
+tom stayed .	トムは泊まった 。
+tom stinks .	トムは臭い 。
+tom talked .	トムは話しました 。
+tom yawned .	トムはあくびをした 。
+tom'll cry .	トムは泣いてしまうだろう 。
+tom'll pay .	トムが支払います 。
+tom's dead .	トムは死んだ 。
+tom's deaf .	トムは聴覚障害者です 。
+tom's died .	トムが亡くなった 。
+tom's fast .	トムは速い 。
+tom's free .	トムは無料です 。
+tom's glad .	トムは嬉しいです 。
+tom's gone .	トムがいなくなった 。
+tom's here .	トムはここにいます 。
+tom's home .	トムの家 。
+tom's left .	トムは左です 。
+tom's safe .	トムは安全です 。
+tom's weak .	トムは弱い 。
+tom's well .	トムは元気です 。
+tough luck !	運が悪い ！
+turn it up .	上げてください 。
+wait a bit .	ちょっと待ってください 。
+wait a sec .	ちょっと待ってください 。
+we all die .	私たちは皆死ぬ 。
+we all lie .	私たちは皆嘘をつきます 。
+we are men .	私たちは男性です 。
+we buy cds .	私たちはCDを買います 。
+we can pay .	私たちは支払うことができます 。
+we can try .	試してみることができます 。
+we can win .	私たちは勝つことができます 。
+we like it .	私たちはそれが好きです 。
+we made it .	私たちはそれを作りました 。
+we must go .	私たちは行かなければなりません 。
+we need it .	私たちにはそれが必要です 。
+we saw you .	私たちはあなたを見ました 。
+we want it .	私たちはそれを望んでいます 。
+we'll cook .	私たちは料理をします 。
+we'll fail .	私たちは失敗するでしょう 。
+we'll help .	私たちがお手伝いします 。
+we'll obey .	私たちは従います 。
+we'll pass .	パスします 。
+we'll swim .	私たちは泳ぎます 。
+we'll wait .	お待ちしております 。
+we'll walk .	私たちは歩きます 。
+we'll work .	私たちは働きます 。
+we're back .	戻ってきました 。
+we're busy .	私たちは忙しいです 。
+we're done .	もう終わりです 。
+we're even .	私たちは互角です 。
+we're fine .	私たちは大丈夫です 。
+we're here .	私たちはここにいます 。
+we're home .	私たちは家にいます 。
+we're late .	私たちは遅れています 。
+we're lazy .	私たちは怠け者です 。
+we're lost .	私たちは道に迷ってしまった 。
+we're rich .	私たちは金持ちです 。
+we're safe .	私たちは安全です 。
+we're sunk .	私たちは沈んでいます 。
+we're weak .	私たちは弱いです 。
+what a day !	なんて日だろう ！
+what is it ?	それは何ですか ？
+what's new ?	新着情報 ？
+where am i ?	私はどこですか ？
+who are we ?	私たちは誰ですか ？
+who did it ?	誰がやったの ？
+who has it ?	誰が持っていますか ？
+who is tom ?	トムは誰ですか ？
+who phoned ?	誰が電話したの ？
+who saw me ?	誰が私を見た ？
+who stayed ?	誰が泊まったの ？
+who talked ?	誰が話しましたか ？
+who yelled ?	誰が叫んだのですか ？
+who's here ?	ここには誰がいますか ？
+who's that ?	あれは誰 ？
+why bother ?	なぜわざわざ ？
+you decide .	あなたが決めます 。
+you did it !	やったね ！
+you may go .	行ってもいいですよ 。
+you're bad .	あなたが悪いです 。
+you're big .	あなたは大きいです 。
+you're fun .	あなたは楽しいです 。
+you're old .	あなたは年をとりました 。
+you're sad .	あなたは悲しいです 。
+you're shy .	あなたは恥ずかしがり屋です 。
+you've won !	あなたは勝ちました ！
+all is well .	すべては順調です 。
+am i hungry !	お腹が空いていますか ？
+am i stupid ?	私は愚かですか ？
+anyone home ?	誰か家にいますか ？
+anyone hurt ?	誰か怪我をしましたか ？
+are we done ?	もう終わりですか ？
+are we lost ?	私たちは迷っていますか ？
+are we safe ?	私たちは安全ですか ？
+are you tom ?	あなたはトムですか ？
+are you hot ?	暑いですか ？
+are you mad ?	あなたは怒っていますか ？
+are you new ?	新しいですか ？
+are you sad ?	悲しいですか ？
+as you like .	好きなように 。
+ask anybody .	誰にでも聞いてください 。
+be creative .	創造的になってください 。
+be discreet .	慎重に行ってください 。
+be friendly .	フレンドリーになってください 。
+be generous .	寛大になってください 。
+be merciful .	憐れんでください 。
+be prepared .	準備してください 。
+be punctual .	時間厳守であること 。
+be ruthless .	冷酷であること 。
+be sensible .	賢明であること 。
+be watchful .	気をつけてください 。
+be yourself .	素直になれ 。
+beer's good .	ビールはおいしいよ 。
+break it up !	壊してください ！
+can i begin ?	始めてもいいですか ？
+can it wait ?	待ってもいいですか ？
+can we come ?	来てもいいですか ？
+can we help ?	お手伝いできますか ？
+can we stop ?	やめてもいいですか ？
+can we talk ?	話せますか ？
+can you see ?	見えますか ？
+can you ski ?	スキーはできますか ？
+can you try ?	試してみることはできますか ？
+clean it up .	きれいにしてください 。
+come get it .	取りに来てください 。
+come get me .	迎えに来てください 。
+come inside .	中に入ってください 。
+come off it !	それを脱いでください ！
+come off it .	外れます 。
+cook for me .	私のために料理を作ってください 。
+count me in .	私を数えてください 。
+cover it up .	それを隠してください 。
+deal me out .	私に対処してください 。
+did tom eat ?	トムは食べましたか ？
+did it hurt ?	痛かったですか ？
+did you win ?	勝ちましたか ？
+do it again !	もう一度やってください ！
+do it right .	正しくやってください 。
+do you fish ?	釣りをしますか ？
+do your job .	仕事をしてください 。
+don't cheat .	不正行為をしないでください 。
+don't do it !	それはやめてください ！
+don't do it .	それはしないでください 。
+don't fight .	戦わないでください 。
+don't gloat .	ほくそ笑まないでください 。
+don't laugh .	笑わないでください 。
+don't leave !	離れないでください ！
+don't leave .	離れないでください 。
+don't panic !	慌てないで ！
+don't shoot !	撃たないでください ！
+don't shoot .	撃たないでください 。
+don't shout .	叫ばないでください 。
+don't smile .	笑わないでください 。
+don't smoke .	喫煙しないでください 。
+don't speak .	話さないでください 。
+don't worry .	心配しないで 。
+finish this .	これを終了します 。
+flip a coin .	コインを投げます 。
+forgive tom .	トムを許してください 。
+get dressed .	服を着る 。
+get serious .	真剣に考えてください 。
+get the box .	箱を入手してください 。
+go have fun .	楽しんでください 。
+go home now .	もう家に帰りなさい 。
+go on ahead .	先に進んでください 。
+go to sleep .	寝る 。
+go with tom .	トムと一緒に行きましょう 。
+grab a seat .	席に着きます 。
+have a beer .	ビールを飲みましょう 。
+have a look .	見てください 。
+have a seat .	席に座ってください 。
+have we met ?	私たちは会ったことがありますか ？
+he can come .	彼は来ることができます 。
+he can read .	彼は読むことができます 。
+he can swim .	彼は泳ぐことができます 。
+he chuckled .	彼はくすくすと笑った 。
+he found it .	彼はそれを見つけた 。
+he got away .	彼は逃げた 。
+he grew old .	彼は年をとった 。
+he has come !	彼が来たよ ！
+he has guts .	彼には根性がある 。
+he has wine .	彼はワインを持っています 。
+he helps us .	彼は私たちを助けてくれます 。
+he is drunk .	彼は酔っている 。
+he is eight .	彼は8歳です 。
+he is hated .	彼は嫌われている 。
+he is nasty .	彼は意地悪だ 。
+he is young .	彼は若いです 。
+he likes me .	彼は私が好きです 。
+he loves me .	彼は私を愛しています 。
+he loves us .	彼は私たちを愛しています 。
+he needs it .	彼にはそれが必要だ 。
+he resigned .	彼は辞任した 。
+he squinted .	彼は目を細めた 。
+he stood up .	彼は立ち上がった 。
+he was busy .	彼は忙しかった 。
+he's a hunk .	彼はハンサムだ 。
+he's a jerk .	彼はバカだ 。
+he's a liar .	彼は嘘つきだ 。
+he's a nerd .	彼はオタクです 。
+he's a slob .	彼はずぼらだ 。
+he's asleep .	彼は眠っています 。
+he's coming .	彼は来ます 。
+he's crying .	彼は泣いています 。
+he's faking .	彼は偽っている 。
+he's loaded .	彼はもういっぱいだ 。
+he's loaded .	彼はもういっぱいだよ 。
+he's my age .	彼は私と同い年です 。
+he's not in .	彼はいません 。
+help me out .	助けてください 。
+here i come .	来ました 。
+here she is !	彼女はここにいます ！
+here we are !	ここにいます ！
+here we are .	ここにいます 。
+here , catch !	ここで、キャッチ ！
+how are you ?	元気ですか ？
+how curious !	なんと興味深いことでしょう ！
+how is life ?	人生はどうですか ？
+i also went .	私も行きました 。
+i am a cook .	私は料理人です 。
+i am a monk .	私は僧侶です 。
+i am a twin .	私は双子です 。
+i am better .	私の方が良いです 。
+i am coming .	今行きます 。
+i am joking .	冗談です 。
+i am single .	私は独身です 。
+i am taller .	私の方が背が高いです 。
+i apologize .	謝罪します 。
+i asked tom .	トムに聞いてみた 。
+i assume so .	そうだと思います 。
+i bought it .	購入しました 。
+i buried it .	埋めてしまいました 。
+i burned it .	燃やしてしまいました 。
+i came back .	戻ってきました 。
+i can dance .	私は踊れます 。
+i can do it .	私はそれを行うことができます 。
+i can't eat .	食べられない 。
+i can't say .	言えません 。
+i can't see .	見えない 。
+i can't win .	勝てない 。
+i caught it .	捕まえました 。
+i confessed .	私は告白しました 。
+i could try .	試してみることができました 。
+i cut class .	私はクラスをカットしました 。
+i didn't go .	行きませんでした 。
+i disagreed .	私は同意しませんでした 。
+i dozed off .	居眠りしてしまいました 。
+i eat a lot .	私はたくさん食べます 。
+i eat alone .	私は一人で食べます 。
+i eat bread .	私はパンを食べます 。
+i eat fruit .	私は果物を食べます 。
+i exercised .	運動しました 。
+i feel blue .	憂鬱です 。
+i feel cold .	寒いです 。
+i feel fine .	気分はいいです 。
+i feel good .	気分がいい 。
+i feel lost .	喪失感を感じます 。
+i feel safe .	安心です 。
+i feel sick .	気分が悪いです 。
+i feel weak .	気が弱いです 。
+i feel well .	気分は良いです 。
+i felt dumb .	私はばかげていると感じました 。
+i felt fear .	恐怖を感じました 。
+i felt good .	気持ちよかったです 。
+i felt safe .	安心しました 。
+i got bored .	飽きた 。
+i got dizzy .	めまいがした 。
+i got fined .	罰金を科せられました 。
+i got lucky .	幸運だった 。
+i got upset .	動揺してしまいました 。
+i guess not .	そうではないと思います 。
+i had to go .	行かなければならなかった 。
+i hate dogs .	私は犬が嫌いです 。
+i hate fish .	私は魚が嫌いです 。
+i hate golf .	私はゴルフが嫌いです 。
+i hate milk .	私は牛乳が嫌いです 。
+i hate sand .	私は砂が嫌いです 。
+i hate that .	それは嫌だ 。
+i hate them .	私は彼らが嫌いです 。
+i hate this .	私はこれが嫌いです 。
+i hate work .	私は仕事が嫌いです 。
+i have cash .	私は現金を持っています 。
+i have eyes .	私には目があります 。
+i have food .	食べ物はあるよ 。
+i have news .	ニュースがあります 。
+i have time .	時間はあります 。
+i have wine .	私はワインを持っています 。
+i hesitated .	躊躇しました 。
+i know that .	私はそれを知っています 。
+i know them .	私は彼らを知っています 。
+i know this .	私はそれを知っています 。
+i like beer .	私はビールが好きです 。
+i like blue .	私は青が好きです 。
+i like both .	どちらも好きです 。
+i like cake .	私はケーキが好きです 。
+i like cats .	私は猫が好きです 。
+i like dogs .	私は犬が好きです 。
+i like jazz .	私はジャズが好きです 。
+i like math .	私は数学が好きです 。
+i like milk .	私は牛乳が好きです 。
+i like rice .	お米が好きです 。
+i like rock .	私はロックが好きです 。
+i like that .	私はそれが好きです 。
+i like them .	私は彼らが好きです 。
+i like this .	私はこれが好きです 。
+i liked tom .	トムが好きだった 。
+i live here .	私はここに住んでいます 。
+i love mary .	私はメアリーが大好きです 。
+i love golf .	私はゴルフが大好きです 。
+i love kids .	私は子供が大好きです 。
+i love life .	私は人生が大好きです 。
+i loved you .	私はあなたを愛していました 。
+i made rice .	ご飯を作りました 。
+i messed up .	めちゃくちゃでした 。
+i must hide .	隠さなければなりません 。
+i must obey .	私は従わなければなりません 。
+i nailed it .	うまくいきました 。
+i need food .	食べ物が必要です 。
+i need glue .	接着剤が必要です 。
+i need more .	もっと必要です 。
+i need some .	いくつか必要です 。
+i need that .	それが必要です 。
+i need them .	私にはそれらが必要です 。
+i need time .	時間が必要です 。
+i never bet .	私は決して賭けません 。
+i never win .	私は決して勝てません 。
+i often ski .	私はよくスキーをします 。
+i oppose it .	私はそれに反対します 。
+i pay taxes .	私は税金を支払います 。
+i protested .	私は抗議した 。
+i read lips .	私は唇を読みました 。
+i recovered .	回復しました 。
+i said stop .	私はやめてと言った 。
+i said that .	私はそう言いました 。
+i saved you .	私はあなたを救った 。
+i saw a dog .	犬を見ました 。
+i sell cars .	車を販売しています 。
+i should go .	行かなければなりません 。
+i smell gas .	ガスの匂いがする 。
+i struggled .	苦労しました 。
+i succeeded .	成功しました 。
+i surrender .	私は降伏します 。
+i thank you .	ありがとうございます 。
+i trust her .	私は彼女を信頼しています 。
+i trust him .	私は彼を信頼しています 。
+i trust you .	私はあなたを信頼します 。
+i waited up .	私は待っていました 。
+i want mary .	メアリーが欲しいです 。
+i want cash .	現金が欲しいです 。
+i want eggs .	卵が欲しいです 。
+i want kids .	子供が欲しいです 。
+i want mine .	私は私のものが欲しいです 。
+i want more .	もっと欲しいです 。
+i want soup .	スープが欲しいです 。
+i want that .	それが欲しいです 。
+i want them .	欲しいです 。
+i want this .	これが欲しいです 。
+i want time .	時間が欲しいです 。
+i was alone .	私は一人でした 。
+i was bored .	私は退屈していました 。
+i was broke .	私は壊れてしまいました 。
+i was dizzy .	めまいがした 。
+i was drunk .	酔っていました 。
+i was fired .	私は解雇されました 。
+i was hired .	私は雇われました 。
+i was lucky .	幸運でした 。
+i was moved .	感動しました 。
+i was naive .	私は世間知らずでした 。
+i was ready .	準備はできていました 。
+i was sober .	私はしらふでした 。
+i was sorry .	申し訳ありませんでした 。
+i was there .	私はそこにいた 。
+i was third .	私は3番目でした 。
+i was tired .	疲れていました 。
+i was wrong .	私は間違っていた 。
+i washed it .	洗いました 。
+i went home .	家に帰りました 。
+i went , too .	私も行きました 。
+i will come .	行きます 。
+i will help .	私がお手伝いします 。
+i will obey .	私は従います 。
+i will wait .	待ちます 。
+i will walk .	歩きます 。
+i will work .	私は働きます 。
+i won again .	また勝ったよ 。
+i won't cry .	私は泣きません 。
+i work here .	私はここで働いています 。
+i'll attend .	私は出席します 。
+i'll buy it .	買います 。
+i'll cancel .	キャンセルさせていただきます 。
+i'll change .	変更します 。
+i'll decide .	私が決めます 。
+i'll get in .	入ります 。
+i'll get it .	わかります 。
+i'll get up .	起きます 。
+i'll go now .	今行きます 。
+i'll go see .	見に行きます 。
+i'll manage .	私が管理します 。
+i'll scream .	私は叫びます 。
+i'll try it .	試してみます 。
+i'm 17 , too .	私も17歳です 。
+i'm a baker .	私はパン屋です 。
+i'm a child .	私は子供です 。
+i'm a medic .	私は医師です 。
+i'm all set .	準備は完了です 。
+i'm ashamed .	恥ずかしいです 。
+i'm at home .	私は家にいます 。
+i'm at work .	私は仕事中です 。
+i'm baffled .	困惑しています 。
+i'm blessed .	私は恵まれています 。
+i'm careful .	気をつけています 。
+i'm certain .	確かに 。
+i'm chicken .	私はチキンです 。
+i'm cooking .	私は料理をしています 。
+i'm correct .	私は正しいです 。
+i'm curious .	興味があります 。
+i'm dancing .	私は踊っています 。
+i'm dieting .	ダイエット中です 。
+i'm driving .	私は運転しています 。
+i'm engaged .	私は婚約しています 。
+i'm excited .	私は興奮しています 。
+i'm falling .	私は落ちています 。
+i'm fasting .	私は断食中です 。
+i'm finicky .	私は気難しいんです 。
+i'm frantic .	私は必死です 。
+i'm furious .	私は激怒しています 。
+i'm healthy .	私は健康です 。
+i'm humming .	鼻歌を歌っています 。
+i'm in love .	私は恋している 。
+i'm in luck .	私は幸運です 。
+i'm jealous .	私は嫉妬しています 。
+i'm jittery .	私はイライラしています 。
+i'm kidding .	冗談です 。
+i'm leaving .	私は行きます 。
+i'm married .	私は結婚しています 。
+i'm nervous .	緊張しています 。
+i'm neutral .	私は中立です 。
+i'm no fool .	私は愚か者ではありません 。
+i'm no hero .	私はヒーローではありません 。
+i'm no liar .	私は嘘つきではありません 。
+i'm not tom .	私はトムではありません 。
+i'm not fat .	私は太っていません 。
+i'm not mad .	私は怒っていません 。
+i'm not old .	私は年を取っていません 。
+i'm not sad .	悲しくないよ 。
+i'm not shy .	私は恥ずかしがりません 。
+i'm on duty .	私は勤務中です 。
+i'm patient .	せっかち 。
+i'm popular .	私は人気者です 。
+i'm psyched .	興奮しています 。
+i'm psychic .	私は超能力者です 。
+i'm puzzled .	困惑しています 。
+i'm reading .	を読んでいます 。
+i'm relaxed .	リラックスしてます 。
+i'm retired .	私は退職しました 。
+i'm retired .	i'm retired .
+i'm selfish .	私は利己的です 。
+i'm serious .	私は真剣です 。
+i'm shocked .	ショックです 。
+i'm sincere .	私は誠実です 。
+i'm sloshed .	私はスロッシュです 。
+i'm smashed .	私は打ちのめされました 。
+i'm so cold .	とても寒いです 。
+i'm so full .	とてもお腹がいっぱいです 。
+i'm so glad .	とても嬉しいです 。
+i'm starved .	私は飢えています 。
+i'm staying .	私はここにいます 。
+i'm stuffed .	もうお腹パンパン 。
+i'm stunned .	びっくりしました 。
+i'm talking .	私は話しています 。
+i'm teasing .	からかっている 。
+i'm thirsty .	喉が渇いた 。
+i'm through .	私は終わった 。
+i'm too fat .	私は太りすぎます 。
+i'm touched .	感動しました 。
+i'm trapped .	閉じ込められてしまった 。
+i'm unarmed .	私は武装していない 。
+i'm unhappy .	私は不幸です 。
+i'm unlucky .	私は不運です 。
+i'm wealthy .	私は裕福です 。
+i'm winning .	私は勝っています 。
+i'm working .	私は働いています 。
+i'm worried .	心配です 。
+i've failed .	失敗しました 。
+ignore them .	無視してください 。
+is tom here ?	トムはここにいますか ？
+is tom hurt ?	トムは怪我をしていますか ？
+is tom lazy ?	トムは怠け者ですか ？
+is tom safe ?	トムは安全ですか ？
+is tom sure ?	トムは確かですか ？
+is tom well ?	トムは元気ですか ？
+is he right ?	彼は正しいですか ？
+is it clean ?	きれいですか ？
+is it clear ?	明らかですか ？
+is it dirty ?	汚れていますか ？
+is it fatal ?	それは致命的ですか ？
+is it legal ?	それは合法ですか ？
+is it ready ?	準備はできていますか ？
+is it to go ?	行くことですか ？
+is it yours ?	それはあなたのものですか ？
+is she gone ?	彼女はいなくなったのですか ？
+is that tom ?	それはトムですか ？
+is that all ?	それだけですか ？
+is that you ?	あなたなの ？
+is this art ?	is this art ?
+it can't be !	それはありえない ！
+it happened .	それは起こりました 。
+it is foggy .	霧がかかっています 。
+it may rain .	雨が降るかもしれません 。
+it may snow .	雪が降るかもしれません 。
+it was fair .	それは公平でした 。
+it was flat .	平らでした 。
+it was hard .	大変でした 。
+it was long .	長かったです 。
+it'll break .	壊れてしまいます 。
+it's 50 yen .	50円です 。
+it's monday .	月曜日です 。
+it's a doll .	それは人形です 。
+it's a fact .	それは事実です 。
+it's a fake .	それは偽物です 。
+it's a rule .	それはルールです 。
+it's a scam .	それは詐欺です 。
+it's a sign .	それはサインです 。
+it's a song .	それは歌です 。
+it's all ok .	大丈夫です 。
+it's broken .	壊れています 。
+it's cloudy .	曇りです 。
+it's ironic .	皮肉なことだ 。
+it's locked .	ロックされています 。
+it's my job .	それは私の仕事です 。
+it's no use .	それは役に立たない 。
+it's not us .	それは私たちではありません 。
+it's poison .	それは毒だ 。
+it's secret .	それは秘密です 。
+it's silent .	静かだ 。
+it's stupid .	それは愚かです 。
+it's urgent .	緊急です 。
+it's warmer .	暖かくなりました 。
+just say no .	ただノーと言ってください 。
+keep trying .	試し続けてください 。
+let me help .	お手伝いさせてください 。
+let me know .	お知らせ下さい 。
+let me talk .	話しましょう 。
+let's begin .	始めましょう 。
+let's dance .	踊りましょう 。
+let's do it !	やりましょう ！
+let's do it .	やりましょう 。
+let's drink .	飲みましょう 。
+let's hurry .	急ぎましょう 。
+let's party .	パーティーをしましょう 。
+let's split .	分割しましょう 。
+let's start !	始めましょう ！
+let's start .	始めましょう 。
+life is fun .	人生は楽しいです 。
+look around .	周りを見回してください 。
+lunch is on .	昼食はあります 。
+make a list .	リストを作成します 。
+make a wish .	願い事をする 。
+many thanks .	どうもありがとうございました 。
+may i begin ?	始めてもいいですか ？
+memorize it .	それを覚えておいてください 。
+money talks .	お金の話 。
+need a lift ?	エレベーターが必要ですか ？
+nice timing .	ナイスタイミング 。
+no means no .	no は「いいえ」を意味します 。
+no one came .	誰も来なかった 。
+no one died .	誰も死ななかった 。
+no one left .	誰も残らなかった 。
+nobody came .	誰も来なかった 。
+nobody died .	誰も死ななかった 。
+now i'm sad .	今は悲しいです 。
+now we wait .	今は待ちます 。
+ok . i agree .	わかりました 。同意します 。
+oh , come on .	ああ、さあ 。
+pick a card .	カードを選びます 。
+pick a date .	日付を選択してください 。
+plants grow .	植物が育ちます 。
+please come .	来てください 。
+please sing .	歌ってください 。
+please stay .	滞在してください 。
+please stop .	やめてください 。
+put it back .	元に戻してください 。
+put it down .	置いてください 。
+release him .	彼を解放してください 。
+remember it .	覚えておいてください 。
+say goodbye .	さようなら 。
+send him in .	彼を送ってください 。
+shall we go ?	行きましょうか ？
+she blushed .	彼女は顔を赤らめた 。
+she fainted .	彼女は気を失った 。
+she hit him .	彼女は彼を殴った 。
+she is curt .	彼女は素っ気ない 。
+she is dead .	彼女は死んだ 。
+she is kind .	彼女は優しいです 。
+she is late .	彼女は遅刻しています 。
+she woke up .	彼女は目を覚ました 。
+she's a dog .	彼女は犬です 。
+she's a fox .	彼女はキツネです 。
+should i go ?	行ったほうがいいですか ？
+sleep tight .	ぐっすり眠る 。
+stand aside .	脇に立ってください 。
+stand still !	立ち止まってください ！
+stay in bed .	ベッドにいてください 。
+stay inside .	中にいてください 。
+step inside .	ステップ内側 。
+stop crying .	泣き止んでください 。
+stop trying .	やめてください 。
+take a bath .	お風呂に入ります 。
+take a bite .	一口食べてください 。
+take a card .	カードを取ります 。
+take a look .	見てください 。
+take a rest .	休んでください 。
+take a seat .	席に着きます 。
+take a walk .	散歩してください 。
+take it all .	全部取ってください 。
+that helped .	役に立ちました 。
+that is all .	以上です 。
+that worked .	それはうまくいきました 。
+that's cool .	かっこいい 。
+that's easy .	それは簡単です 。
+that's free .	それは無料です 。
+that's hard .	それは難しいです 。
+that's hers .	それは彼女のものです 。
+that's icky .	それは気持ち悪いです 。
+that's lame .	それはダサい 。
+that's mine .	それは私のです 。
+that's true .	それは本当だ 。
+that's ugly .	それは醜いです 。
+that's wise .	それは賢明です 。
+the tv's on .	テレビがついてます 。
+there he is .	そこに彼がいます 。
+there it is .	それはあります 。
+they burned .	彼らは燃えました 。
+they got it .	彼らはそれを理解しました 。
+they hugged .	彼らは抱き合いました 。
+they kissed .	彼らはキスをした 。
+they obeyed .	彼らは従った 。
+they smiled .	彼らは微笑んだ 。
+they're bad .	彼らは悪いです 。
+they're old .	彼らは古いです 。
+this is bad .	これはダメだ 。
+this is big .	これは大きいです 。
+this is fun .	これは楽しいですね 。
+this is his .	これは彼のです 。
+this is new .	これは新しいです 。
+this is odd .	これは奇妙だ 。
+this stinks .	これは臭い 。
+tom blinked .	トムは瞬きした 。
+tom changed .	トムが変わりました 。
+tom coughed .	トムは咳き込んだ 。
+tom drowned .	トムは溺死した 。
+tom inhaled .	トムが吸い込んだ 。
+tom is bald .	トムはハゲです 。
+tom is dead .	トムは死んだ 。
+tom is lazy .	トムは怠け者です 。
+tom is nuts .	トムは狂っている 。
+tom is rude .	トムは失礼だ 。
+tom is sexy .	トムはセクシーです 。
+tom is slow .	トムは遅いです 。
+tom is tall .	トムは背が高いです 。
+tom is weak .	トムは弱いです 。
+tom is wise .	トムは賢いです 。
+tom laughed .	トムは笑った 。
+tom left me .	トムは私のもとを去りました 。
+tom listens .	トムは聞きます 。
+tom refused .	トムは拒否した 。
+tom said hi .	トムはこんにちはと言った 。
+tom said no .	トムはノーと言った 。
+tom sweated .	トムは汗をかきました 。
+tom took it .	トムがそれを受け取りました 。
+tom'll call .	トムが電話します 。
+tom'll come .	トムが来ます 。
+tom'll quit .	トムは辞めるよ 。
+tom's alive .	トムは生きています 。
+tom's alone .	トムは一人です 。
+tom's angry .	トムは怒っている 。
+tom's awake .	トムは起きています 。
+tom's bored .	トムは退屈している 。
+tom's crazy .	トムはクレイジーだ 。
+tom's drunk .	トムは酔っている 。
+tom's dying .	トムは死にます 。
+tom's funny .	トムは面白いです 。
+tom's lucky .	トムは幸運だ 。
+tom's lying .	トムは嘘をついています 。
+tom's sorry .	トム、ごめんなさい 。
+tom's wrong .	トムは間違っています 。
+try to rest .	休んでみてください 。
+turn around .	振り向く 。
+turn it off .	オフにしてください 。
+wait for us .	待っててください 。
+wake tom up .	トムを起こして 。
+walk slowly .	ゆっくり歩きます 。
+war is evil .	戦争は悪です 。
+war is hell .	戦争は地獄だ 。
+was i wrong ?	私が間違っていたのか ？
+was it good ?	良かったですか ？
+we all know .	私たちは皆知っています 。
+we all quit .	私たちは皆辞めました 。
+we all work .	私たちは皆働いています 。
+we are boys .	私たちは男の子です 。
+we are even .	私たちは互角です 。
+we are here .	私たちはここにいます 。
+we are late .	私たちは遅れています 。
+we broke up .	私たちは別れました 。
+we can meet .	会えます 。
+we can talk .	話せます 。
+we can wait .	お待ちいただけます 。
+we can't go .	私たちは行けません 。
+we did fine .	私たちはうまくいきました 。
+we did that .	私たちはそれをしました 。
+we found it .	私たちはそれを見つけました 。
+we know him .	私たちは彼を知っています 。
+we like tom .	私たちはトムが好きです 。
+we like him .	私たちは彼が好きです 。
+we miss you .	私たちはあなたがいなくて寂しいです 。
+we must act .	私たちは行動しなければなりません 。
+we must run .	私たちは走らなければなりません 。
+we must try .	試してみなければなりません 。
+we need tom .	トムが必要です 。
+we need you .	私たちにはあなたが必要です 。
+we promised .	私たちは約束しました 。
+we remember .	私たちは覚えています 。
+we survived !	私たちは生き残った ！
+we survived .	私たちは生き残った 。
+we want tom .	私たちはトムが欲しいです 。
+we want one .	私たちはそれが欲しいです 。
+we'll check .	確認させていただきます 。
+we'll dance .	私たちは踊ります 。
+we'll drive .	私たちが運転します 。
+we'll fight .	私たちは戦います 。
+we'll hurry .	急ぎます 。
+we'll share .	共有しましょう 。
+we'll shoot .	撃ちましょう 。
+we'll stand .	私たちは立ちます 。
+we'll start .	始めます 。
+we're alone .	私たちは一人です 。
+we're angry .	私たちは怒っています 。
+we're armed .	私たちは武装しています 。
+we're bored .	私たちは退屈しています 。
+we're broke .	私たちは破産しました 。
+we're dying .	私たちは死にかけています 。
+we're early .	私たちは早いです 。
+we're going .	行きます 。
+we're happy .	私たちは幸せです 。
+we're ready .	準備はできています 。
+we're saved .	私たちは救われました 。
+we're smart .	私たちは賢いです 。
+we're sorry .	申し訳ありません 。
+we're stuck .	私たちは立ち往生しています 。
+we're tired .	私たちは疲れています 。
+we're twins .	私たちは双子です 。
+what a bore !	なんてつまらない ！
+what a dope !	なんてヤバいんだ ！
+what a drag !	何というドラッグでしょう ！
+what a dump .	なんとダンプだ 。
+what a heel !	なんとヒールだ ！
+what a jerk !	なんて馬鹿なことだ ！
+what a joke !	なんて冗談でしょう ！
+what a loss !	なんという損失でしょう ！
+what a mess !	何という混乱でしょう ！
+what a pain !	なんという痛みでしょう ！
+what a pity !	お気の毒に ！
+what a team !	なんてチームなんだ ！
+what is art ?	芸術とは何ですか ？
+what was it ?	それは何でしたか ？
+what'd i do ?	私は何をしましたか ？
+what's that ?	あれは何でしょう ？
+what's this ?	これは何ですか ？
+where is he ?	彼はどこにいますか ？
+where is it ?	どこですか ？
+where was i ?	私はどこにいたの ？
+where's tom ?	トムはどこですか ？
+who are you ?	あなたは誰ですか ？
+who cheated ?	誰が騙したの ？
+who drew it ?	誰が描いたの ？
+who escaped ?	誰が逃げたの ？
+who is next ?	次は誰ですか ？
+who's going ?	誰が行くの ？
+who's there ?	そこには誰がいますか ？
+whose is it ?	誰ですか ？
+will it fit ?	合うでしょうか ？
+will you go ?	行きますか ？
+work slowly .	ゆっくりと作業してください 。
+you are big .	あなたは大きいです 。
+you are mad .	あなたは怒っています 。
+you cheated .	あなたは騙されました 。
+you fainted .	あなたは気を失いました 。
+you hurt me .	あなたは私を傷つけました 。
+you may sit .	座ってもいいです 。
+you must go .	あなたは行かなければなりません 。
+you woke me .	あなたは私を起こしました 。
+you're back .	戻ってきましたね 。
+you're cool .	あなたはかっこいいです 。
+you're fair .	あなたは公正です 。
+you're fine .	元気だよ 。
+you're free .	あなたは自由です 。
+you're good .	あなたは上手い 。
+you're kind .	あなたは優しいですね 。
+you're late .	あなたは遅れています 。
+you're lazy .	あなたは怠け者です 。
+you're lost .	あなたは迷っています 。
+you're nice .	あなたはいいですね 。
+you're nuts !	あなたは狂っている !
+you're rich .	あなたは金持ちです 。
+you're rude .	あなたは失礼だ 。
+you're safe .	あなたは安全です 。
+you're sick !	あなたは病気です ！
+you're thin .	あなたは痩せていますね 。
+you're weak .	あなたは弱いです 。
+you're wise .	あなたは賢いですね 。
+a car cut in .	車が割り込んできた 。
+abandon ship !	船を放棄してください ！
+act your age .	年齢に応じて行動してください 。
+all is quiet .	すべてが静かです 。
+all is still .	すべてはまだです 。
+am i correct ?	私は正しいですか ？
+am i in love ?	私は恋をしていますか ？
+anybody here ?	ここに誰かいますか ？
+anybody home ?	誰か家にいますか ？
+anybody hurt ?	誰か怪我した ？
+anything new ?	何か新しいことはありますか ？
+are they new ?	彼らは新しいですか ？
+are we alone ?	私たちは一人ですか ？
+are we broke ?	私たちは壊れていますか ？
+are we ready ?	準備はできていますか ？
+are you bald ?	あなたはハゲていますか ？
+are you busy ?	あなたは忙しいですか ？
+are you deaf ?	あなたは耳が聞こえませんか ？
+are you home ?	家にいるの ？
+are you hurt ?	怪我をしていますか ？
+are you lost ?	迷っていますか ？
+are you sick ?	病気ですか ？
+are you sure ?	本気ですか ？
+be attentive .	注意してください 。
+be confident .	自信を持ってください 。
+be realistic !	現実的になってください ！
+beef , please .	牛肉をください 。
+bring a date .	デートを持ってきてください 。
+bring him in .	彼を連れて来てください 。
+call me back .	折り返し電話してください 。
+can i finish ?	終わってもいいですか ？
+can i go now ?	今行ってもいいですか ？
+can i try it ?	試してもいいですか ？
+can we leave ?	出発してもいいですか ？
+can we start ?	始めてもいいですか ？
+can you come ?	来てもらえますか ？
+can you stay ?	泊まってもいいですか ？
+can you swim ?	泳げますか ？
+can you walk ?	歩けますか ？
+check it out !	それをチェックしてください ！
+come at once .	すぐに来てください 。
+come back in .	戻ってきてください 。
+come help me .	助けに来てください 。
+come in , tom .	入って、トム 。
+come join us .	ぜひご参加ください 。
+come outside .	外に出てください 。
+come quickly !	早く来てください ！
+come quickly .	早く来てください 。
+come up here .	ここに来てください 。
+come with me .	私と来て 。
+come with us .	私たちと一緒に来てください 。
+cool it down .	冷ましてください 。
+could we sit ?	座ってもいいですか ？
+cover for me .	私のためのカバー 。
+cut that out !	それを切り取ってください ！
+did tom call ?	トムは電話しましたか ？
+did tom fall ?	トムは落ちましたか ？
+did tom sing ?	トムは歌いましたか ？
+did tom stay ?	トムは残りましたか ？
+did tom swim ?	トムは泳ぎましたか ？
+did you call ?	電話しましたか ？
+did you sign ?	サインしましたか ？
+did you vote ?	投票しましたか ？
+do i look ok ?	私は大丈夫に見えますか ？
+do you agree ?	同意しますか ？
+do you drink ?	飲みますか ？
+do you smoke ?	タバコは吸​​いますか ？
+do you teach ?	教えますか ？
+do your best !	頑張ってください ！
+do your best .	頑張ってください 。
+do your duty .	義務を果たしなさい 。
+does it hurt ?	痛いですか ？
+does it work ?	効きますか ？
+don't ask me .	私に聞かないでください 。
+don't be mad .	怒らないでください 。
+don't be sad .	悲しまないでください 。
+don't be shy .	恥ずかしがらないで 。
+don't bother .	気にしないでください 。
+don't forget .	忘れないで 。
+don't get up .	起きないでください 。
+don't kid me !	冗談じゃないよ ！
+don't litter !	ポイ捨てしないでください ！
+don't ramble .	とりとめのないことをしないでください 。
+don't resist .	抵抗しないでください 。
+drive safely .	安全に運転してください 。
+drive slowly .	ゆっくり運転してください 。
+drop the gun .	銃を落としてください 。
+easy does it .	簡単にできます 。
+find the cat .	猫を見つけてください 。
+fish , please .	お魚ください 。
+get a doctor .	医師の診察を受けてください 。
+get my rifle .	私のライフルを手に入れてください 。
+ghosts exist .	幽霊は存在します 。
+give me half .	半分ください 。
+go for broke !	破産してください ！
+go to school .	学校に行きます 。
+good evening .	こんばんは 。
+good for you .	よかったね 。
+good morning .	おはよう 。
+grab a spoon .	スプーンをつかみます 。
+grab my hand .	私の手を掴んでください 。
+hand it over .	それを渡してください 。
+have a donut .	ドーナツを持っています 。
+have a drink .	一杯飲んでください 。
+have a snack .	おやつを食べてください 。
+have a taste .	味わってください 。
+have another .	別のものを持っています 。
+he avoids me .	彼は私を避けます 。
+he could die .	彼は死ぬかもしれない 。
+he denied it .	彼はそれを否定した 。
+he dozed off .	彼は居眠りをした 。
+he dumped me .	彼は私を捨てました 。
+he got angry .	彼は怒った 。
+he had a dog .	彼は犬を飼っていました 。
+he has a car .	彼は車を持っています 。
+he has money .	彼はお金を持っています 。
+he helps her .	彼は彼女を助けます 。
+he is a poet .	彼は詩人です 。
+he is asleep .	彼は眠っています 。
+he is cranky .	彼は気難しいです 。
+he is eating .	彼は食べています 。
+he is heroic .	彼は英雄的だ 。
+he is not in .	彼はいません 。
+he just left .	彼はちょうど立ち去ったところだ 。
+he kicked it .	彼はそれを蹴った 。
+he let me go .	彼は私を行かせてくれました 。
+he let us go .	彼は私たちを行かせてくれました 。
+he likes tea .	彼はお茶が好きです 。
+he lost face .	彼は面目を失った 。
+he loves her .	彼は彼女を愛しています 。
+he mocked me .	彼は私を嘲笑した 。
+he needs you .	彼にはあなたが必要です 。
+he shall die .	彼は死ぬだろう 。
+he wants one .	彼はそれを望んでいます 。
+he was alone .	彼は一人だった 。
+he was brave .	彼は勇敢でした 。
+he was great .	彼は素晴らしかった 。
+he was lucky .	彼は幸運でした 。
+he was naive .	彼は世間知らずだった 。
+he was wrong .	彼は間違っていた 。
+he will come .	彼は来るでしょう 。
+he will wait .	彼は待ってくれるでしょう 。
+he's a bigot .	彼は偏屈者だ 。
+he's in pain .	彼は苦しんでいます 。
+he's married .	彼は結婚しています 。
+he's my hero .	彼は私のヒーローです 。
+he's out now .	彼は今外出中です 。
+he's so cute .	彼はとてもかわいいです 。
+hello , girls .	こんにちは、女の子たち 。
+here's a pen .	ここにペンがあります 。
+hey , wait up !	おい、待ってろ ！
+hold my hand .	私の手を握ってください 。
+how annoying !	なんて迷惑なんだ ！
+how dare you !	よくもまあ ！
+how did i do ?	私はどうしましたか ？
+how horrible !	なんと恐ろしいことでしょう ！
+how romantic !	なんとロマンチックでしょう ！
+how's school ?	学校はどうですか ？
+i admire you .	私はあなたに憧れます 。
+i always win .	私はいつも勝ちます 。
+i am ashamed .	恥ずかしいです 。
+i am at home .	私は家にいます 。
+i am curious .	興味があります 。
+i am married .	私は結婚しています 。
+i am so sick .	私はとても病気です 。
+i am thirsty .	のどが渇きました 。
+i am working .	私は働いています 。
+i apologized .	謝りました 。
+i ate apples .	リンゴを食べました 。
+i ate caviar .	キャビアを食べました 。
+i believe it .	私はそれを信じます 。
+i called him .	私は彼に電話しました 。
+i called you .	私はあなたに電話しました 。
+i can fix it .	私はそれを直すことができます 。
+i can manage .	私は管理できます 。
+i can't help .	どうすることもできません 。
+i can't move .	動けません 。
+i can't sing .	私は歌えません 。
+i can't swim .	泳げません 。
+i can't wait .	待ちきれない 。
+i caught tom .	トムを捕まえた 。
+i could help .	私がお手伝いできました 。
+i could walk .	歩けました 。
+i cried , too .	私も泣きました 。
+i cry easily .	私はすぐに泣きます 。
+i cut myself .	私は自分自身を切りました 。
+i deserve it .	私はそれに値する 。
+i did my job .	私は仕事をしました 。
+i did see it .	見ましたよ 。
+i didn't ask .	私は尋ねませんでした 。
+i didn't cry .	私は泣きませんでした 。
+i didn't pay .	私は支払いませんでした 。
+i didn't win .	勝てなかった 。
+i don't bite .	噛みません 。
+i don't care .	私は気にしない 。
+i don't date .	私はデートしません 。
+i don't know .	わからない 。
+i don't mind .	私は気にしない 。
+i don't read .	読みません 。
+i doubt that .	私はそれを疑います 。
+i drank milk .	牛乳を飲みました 。
+i drink beer .	私はビールを飲みます 。
+i enjoyed it .	楽しかったです 。
+i feel alive .	生きていると感じます 。
+i feel awful .	ひどい気分だ 。
+i feel dizzy .	眩暈がする 。
+i feel faint .	気を失いそうです 。
+i feel funny .	面白いと思います 。
+i feel giddy .	めまいがする 。
+i feel happy .	幸せを感じます 。
+i feel lucky .	幸運だと感じています 。
+i feel ready .	準備はできています 。
+i feel silly .	バカバカしいと思う 。
+i feel young .	若い気がします 。
+i felt awful .	ひどい気分だった 。
+i felt great .	とても気持ちよかったです 。
+i felt happy .	幸せな気持ちになりました 。
+i felt naked .	私は裸になったように感じました 。
+i felt safer .	より安全だと感じました 。
+i go jogging .	私はジョギングに行きます 。
+i go to work .	仕事に行きます 。
+i got carded .	カードをもらいました 。
+i got caught .	捕まってしまいました 。
+i got dumped .	私は捨てられました 。
+i got sleepy .	眠くなってきた 。
+i got soaked .	ずぶ濡れになりました 。
+i got the ax .	斧を手に入れた 。
+i had doubts .	疑問がありました 。
+i handled it .	私が対応しました 。
+i hate beans .	私は豆が嫌いです 。
+i hate flies .	私はハエが嫌いです 。
+i hate liars .	私は嘘つきが嫌いです 。
+i have a car .	私は車を持っています 。
+i have a cat .	私は猫を飼っています 。
+i have a dog .	私は犬を飼っています 。
+i have a gun .	私は銃を持っています 。
+i have a job .	私には仕事があります 。
+i have a key .	私は鍵を持っています 。
+i have a kid .	私には子供がいます 。
+i have a pen .	私はペンを持っています 。
+i have hives .	蕁麻疹が出ています 。
+i have money .	私はお金を持っています 。
+i have needs .	ニーズがあります 。
+i have plans .	計画があります 。
+i have proof .	証拠があります 。
+i have to go .	私は行かなければならない 。
+i hear music .	音楽が聞こえます 。
+i heard that .	それを聞きました 。
+i helped tom .	私はトムを手伝いました 。
+i helped out .	私は手伝いました 。
+i honor that .	それを光栄に思います 。
+i hugged her .	私は彼女を抱きしめました 。
+i improvised .	私は即興で作りました 。
+i just moved .	引っ越してきたばかりです 。
+i keep a dog .	私は犬を飼っています 。
+i kissed tom .	私はトムにキスした 。
+i know a way .	私は方法を知っています 。
+i like china .	私は中国が好きです 。
+i like r & b .	私はr&bが好きです 。
+i like bread .	私はパンが好きです 。
+i like chess .	私はチェスが好きです 。
+i like fruit .	私は果物が好きです 。
+i like girls .	私は女の子が好きです 。
+i like honey .	私は蜂蜜が好きです 。
+i like music .	私は音楽が好きです 。
+i like opera .	私はオペラが好きです 。
+i like sugar .	私は砂糖が好きです 。
+i like sushi .	私はお寿司が好きです 。
+i like these .	私はこれらが好きです 。
+i like women .	私は女性が好きです 。
+i liked that .	それが気に入りました 。
+i lost a bet .	賭けに負けました 。
+i love books .	私は本が大好きです 。
+i love bread .	私はパンが大好きです 。
+i love games .	私はゲームが大好きです 。
+i love jokes .	私はジョークが大好きです 。
+i love music .	私は音楽が大好きです 。
+i love trips .	私は旅行が大好きです 。
+i loved that .	それが大好きでした 。
+i made a bet .	私は賭けをしました 。
+i made plans .	計画を立てました 。
+i made these .	これらを作りました 。
+i might stay .	残るかも知れません 。
+i missed you .	あなたに会いたかった 。
+i must hurry .	急がなければなりません 。
+i must leave .	私は出発しなければなりません 。
+i must study .	勉強しなければなりません 。
+i need a bag .	バッグが必要です 。
+i need a cab .	タクシーが必要です 。
+i need a car .	車が必要です 。
+i need a hug .	抱きしめてほしい 。
+i need a job .	仕事が必要です 。
+i need a map .	地図が必要です 。
+i need a pen .	ペンが要ります 。
+i need money .	お金が必要です 。
+i need paint .	ペイントが必要です 。
+i need proof .	証拠が必要です 。
+i need sleep .	睡眠が必要です 。
+i need space .	スペースが必要です 。
+i need sugar .	砂糖が必要です 。
+i need to go .	私は行く必要があります 。
+i need water .	水が必要です 。
+i never lose .	私は決して負けません 。
+i often read .	私はよく読みます 。
+i phoned him .	私は彼に電話した 。
+i play piano .	私はピアノを弾きます 。
+i read books .	私は本を​​読みます 。
+i rewrote it .	書き直しました 。
+i said maybe .	私はそうかもしれないと言いました 。
+i see a book .	本を見ます 。
+i see a lion .	ライオンが見えます 。
+i see a rose .	バラが見えます 。
+i see a star .	星が見えます 。
+i sell shoes .	靴を販売しています 。
+i started it .	始めました 。
+i still care .	私はまだ気にしています 。
+i suppose so .	そうだと思います 。
+i swim a lot .	私はよく泳ぎます 。
+i sympathize .	同情します 。
+i teach here .	私はここで教えます 。
+i thought so .	そう思った 。
+i took a nap .	昼寝をしました 。
+i took risks .	私はリスクを負いました 。
+i tried hard .	頑張った 。
+i tried that .	それを試してみました 。
+i understand .	わかりました 。
+i understood .	分かりました 。
+i want a job .	仕事が欲しいです 。
+i want a lot .	たくさん欲しいです 。
+i want facts .	事実が欲しいです 。
+i want proof .	証拠が欲しいです 。
+i want these .	これらが欲しいです 。
+i want to go .	私は行ってみたい 。
+i was asleep .	私は眠っていました 。
+i was beaten .	殴られました 。
+i was burned .	火傷しました 。
+i was canned .	私は缶詰になっていました 。
+i was framed .	私はハメられました 。
+i was lonely .	寂しかったです 。
+i was shaken .	私は震えました 。
+i was sleepy .	眠かったです 。
+i was stupid .	私は愚かでした 。
+i was warned .	警告されました 。
+i weighed it .	重さを量りました 。
+i went twice .	2回行きました 。
+i will fight .	私は戦います 。
+i will learn .	勉強します 。
+i will shoot .	撃ちます 。
+i won't come .	来ません 。
+i wonder who .	誰だろう 。
+i wonder why .	なぜだろう 。
+i work alone .	私は一人で仕事をしています 。
+i wrote that .	私はそれを書きました 。
+i'd buy that .	それを買います 。
+i'll ask him .	彼に聞いてみます 。
+i'll be back .	私は戻ってきます 。
+i'll be fine .	私は大丈夫です 。
+i'll be free .	私は自由になります 。
+i'll be late .	遅れます 。
+i'll be nice .	よろしくお願いします 。
+i'll explain .	説明します 。
+i'll get ice .	氷をもらいます 。
+i'll get you .	迎えに行きます 。
+i'll go back .	戻ります 。
+i'll go home .	家に帰ります 。
+i'll go look .	見に行きます 。
+i'll go next .	次に行きます 。
+i'll grab it .	私がそれをつかみます 。
+i'll jump in .	飛び込みます 。
+i'll just go .	ただ行きます 。
+i'll kill it .	殺します 。
+i'll open it .	開けます 。
+i'll pay you .	私が支払います 。
+i'll read it .	読みます 。
+i'll risk it .	危険を冒してやるよ 。
+i'll sign it .	署名します 。
+i'll sue you .	訴えますよ 。
+i'll take it .	買います 。
+i'm 99% sure .	私は99%確信しています 。
+i'm canadian .	私はカナダ人です 。
+i'm a coward .	私は臆病者です 。
+i'm a dancer .	私はダンサーです 。
+i'm a doctor .	私は医者です 。
+i'm a farmer .	私は農家です 。
+i'm a father .	私は父親です 。
+i'm a friend .	私は友達です 。
+i'm a genius .	私は天才です 。
+i'm a lawyer .	私は弁護士です 。
+i'm a member .	私は会員です 。
+i'm a priest .	私は司祭です 。
+i'm a purist .	私は純粋主義者です 。
+i'm a singer .	私は歌手です 。
+i'm a surfer .	私はサーファーです 。
+i'm addicted .	私は中毒です 。
+i'm all done .	もう終わりです 。
+i'm all ears .	私はすべての耳を持っています 。
+i'm an adult .	私は大人です 。
+i'm an agent .	私はエージェントです 。
+i'm bleeding .	血が出てます 。
+i'm bluffing .	はったりしてます 。
+i'm confused .	私は混乱しています 。
+i'm creative .	私はクリエイティブです 。
+i'm cultured .	私は文化的です 。
+i'm divorced .	私は離婚者です 。
+i'm drowning .	私は溺れています 。
+i'm eighteen .	私は18歳です 。
+i'm faithful .	私は忠実です 。
+i'm famished .	お腹が空いた 。
+i'm fearless .	私は恐れ知らずです 。
+i'm fighting .	私は戦っている 。
+i'm finished .	もう終わりです 。
+i'm free now .	今は自由です 。
+i'm freezing .	凍えています 。
+i'm grateful .	感謝しています 。
+i'm grounded .	私は接地しています 。
+i'm gullible .	私はだまされやすいです 。
+i'm homesick .	ホームシックです 。
+i'm hungover .	二日酔いです 。
+i'm in paris .	私はパリにいます 。
+i'm innocent .	私は無実です 。
+i'm involved .	私は関わっています 。
+i'm managing .	私が管理しています 。
+i'm mistaken .	私は間違っています 。
+i'm new here .	私はここに来たのは初めてです 。
+i'm no rebel .	私は反逆者ではありません 。
+i'm no saint .	私は聖人ではありません 。
+i'm not busy .	忙しくありません 。
+i'm not deaf .	私は聴覚障害者ではありません 。
+i'm not done .	まだ終わっていない 。
+i'm not dumb .	私は愚かではありません 。
+i'm not evil .	私は悪くない 。
+i'm not here .	私はここにいません 。
+i'm not home .	家にいません 。
+i'm not hurt .	私は怪我していません 。
+i'm not mean .	意地悪じゃないよ 。
+i'm not rich .	私は金持ちではありません 。
+i'm not sure .	よくわからない 。
+i'm not tall .	私は背が高くありません 。
+i'm not ugly .	私は醜くない 。
+i'm not well .	体調が良くありません 。
+i'm obedient .	私は従順です 。
+i'm off-duty .	私は非番です 。
+i'm offended .	腹が立った 。
+i'm outraged .	私は激怒しています 。
+i'm positive .	私は肯定的です 。
+i'm powerful .	私は強いです 。
+i'm pregnant .	私は妊娠しています 。
+i'm prepared .	準備はできています 。
+i'm punctual .	私は時間厳守です 。
+i'm rational .	私は合理的です 。
+i'm reformed .	私は改心しました 。
+i'm reliable .	私は信頼できます 。
+i'm restless .	落ち着かない 。
+i'm ruthless .	私は無慈悲です 。
+i'm shooting .	撮影中です 。
+i'm shopping .	買い物をしています 。
+i'm sleeping .	私は寝ています 。
+i'm so happy .	私はとても幸せです 。
+i'm so sorry .	ごめんなさい 。
+i'm so tired !	私はとても疲れている ！
+i'm so tired .	私はとても疲れている 。
+i'm speaking .	私は話しています 。
+i'm starving !	私はお腹が空いています ！
+i'm starving .	私はお腹が空いています 。
+i'm stubborn .	私は頑固です 。
+i'm the best .	私は最高です 。
+i'm the boss .	私が上司です 。
+i'm thinking .	私は考えています 。
+i'm thorough .	私は徹底しています 。
+i'm thrilled .	興奮しています 。
+i'm ticklish .	私はくすぐったいです 。
+i'm too busy .	忙しすぎます 。
+i'm truthful .	私は正直です 。
+i'm unbiased .	私は偏見がありません 。
+i'm upstairs .	私は二階にいます 。
+i'm very fat .	私はとても太っています 。
+i'm very sad .	とても悲しいです 。
+i'm very shy .	私はとても恥ずかしがり屋です 。
+i'm worn out .	私は疲れ果てた 。
+i've checked .	チェックしました 。
+i've decided .	決めました 。
+i've done it .	やりました 。
+i've got you .	わかりました 。
+i've lost it .	失くしてしまった 。
+i've no idea .	分かりません 。
+i've retired .	私は退職しました 。
+i've seen it .	見たことがあります 。
+iron is hard .	鉄は硬いです 。
+is tom alive ?	トムは生きていますか ？
+is tom drunk ?	トムは酔っていますか ？
+is tom right ?	トムは正しいですか ？
+is tom there ?	トムはいますか ？
+is it a deal ?	それは取引ですか ？
+is it a deer ?	鹿ですか ？
+is it a joke ?	冗談ですか ？
+is it a wolf ?	狼ですか ？
+is it an elk ?	ヘラジカですか ？
+is it broken ?	壊れていますか ？
+is it cancer ?	癌ですか ？
+is it cloudy ?	曇っていますか ？
+is it enough ?	十分ですか ？
+is it nearby ?	近くにありますか ？
+is that a no ?	それはノーですか ？
+is that love ?	それは愛ですか ？
+is that true ?	それは本当ですか ？
+is this fake ?	これは偽物ですか ？
+is this love ?	これは愛ですか ？
+is this true ?	これは本当ですか ？
+is this wine ?	これはワインですか ？
+it amazed me .	それは私を驚かせました 。
+it felt good .	気持ちよかったです 。
+it has begun .	始まりました 。
+it is a book .	それは本です 。
+it is a song .	それは歌です 。
+it is my cat .	それは私の猫です 。
+it is unfair .	それは不公平です 。
+it isn't new .	新しいものではありません 。
+it may break .	壊れる可能性があります 。
+it scared me .	怖かったです 。
+it took time .	時間がかかりました 。
+it was black .	黒でした 。
+it was night .	夜だった 。
+it was noisy .	騒がしかったです 。
+it was white .	それは白でした 。
+it wasn't me .	それは私ではありませんでした 。
+it will burn .	燃えてしまいます 。
+it will heal .	それは治ります 。
+it'll be hot .	暑いでしょう 。
+it'll happen .	それは起こります 。
+it's a curse .	それは呪いだ 。
+it's a fruit .	それは果物です 。
+it's a plant .	それは植物です 。
+it's a rumor .	それは噂です 。
+it's a shame .	それは残念だ 。
+it's a waste .	もったいないです 。
+it's all wet .	全部濡れています 。
+it's awesome .	素晴らしいです 。
+it's bedtime .	就寝時間です 。
+it's complex .	それは複雑です 。
+it's for you .	それはあなたのためです 。
+it's garbage .	それはゴミだ 。
+it's genuine .	本物です 。
+it's hideous .	それはひどいです 。
+it's missing .	それが欠けています 。
+it's morning .	朝です 。
+it's my book .	それは私の本です 。
+it's my turn .	私の番です 。
+it's no good .	それはダメだ 。
+it's no joke .	冗談じゃないよ 。
+it's not new .	それは新しいものではありません 。
+it's nothing .	何でもありません 。
+it's obvious .	それは明らかです 。
+it's on fire .	燃えています 。
+it's our car .	それは私たちの車です 。
+it's perfect .	完璧です 。
+it's serious .	それは深刻です 。
+it's snowing .	雪が降っています 。
+it's so easy .	とても簡単です 。
+it's started .	始まりました 。
+it's suicide .	それは自殺だ 。
+it's the law .	それは法律です 。
+it's too big .	大きすぎます 。
+it's too hot .	暑すぎます 。
+just say yes .	ただ「はい」と言ってください 。
+keep driving .	運転を続けてください 。
+keep it warm .	暖かくしてください 。
+keep looking .	探し続けてください 。
+keep reading .	読み続けてください 。
+keep running .	走り続けてください 。
+keep singing .	歌い続けてください 。
+keep talking .	話し続けてください 。
+keep working .	働き続けてください 。
+keep writing .	書き続けてください 。
+ladies first .	レディスファースト 。
+lead the way .	先導します 。
+let go of it .	それを手放してください 。
+let go of me .	私を放してください 。
+let me check .	確認させてください 。
+let me leave !	任せてください ！
+let me sleep .	寝させてください 。
+let's all go .	みんなで行きましょう 。
+let's bounce .	バウンスしましょう 。
+let's go now .	さあ行きましょう 。
+let's listen .	聞いてみましょう 。
+let's not go .	行かないようにしましょう 。
+let's try it .	試してみましょう 。
+life goes on .	人生は続く 。
+life is hard .	人生は大変です 。
+look at that !	それを見てください ！
+look at this .	これを見てください 。
+look closely .	よく見てください 。
+make a guess .	推測してください 。
+mary is cute .	メアリーはかわいいです 。
+may i cut in ?	割り込んでもいいですか ？
+may i try it ?	試してみてもいいですか ？
+meat , please .	お肉をください 。
+men are pigs .	男は豚だ 。
+must i go on ?	続けなければなりませんか ？
+must i hurry ?	急がなければなりませんか ？
+my arm hurts .	腕が痛いです 。
+my eyes hurt .	目が痛いです 。
+my feet hurt .	足が痛いです 。
+my hip hurts .	腰が痛いです 。
+need i go on ?	続けなければなりませんか ？
+no one cared .	誰も気にしませんでした 。
+no one cares .	誰も気にしません 。
+no one knows .	誰も知りません 。
+no one moved .	誰も動かなかった 。
+no one spoke .	誰も話さなかった 。
+nobody asked .	誰も尋ねませんでした 。
+nobody knows .	誰も知りません 。
+now drink up .	今すぐ飲みなさい 。
+now fix that .	今それを修正してください 。
+now leave us .	今私たちを残してください 。
+ok . go ahead .	わかりました 。どうぞ 。
+our eyes met .	目が合った 。
+play it cool .	クールにプレイしてください 。
+please hurry .	急いでください 。
+please leave .	残してください 。
+please relax .	リラックスしてください 。
+please smile .	笑ってください 。
+see you soon !	また近いうちにお会いしましょう ！
+set tom free .	トムを自由に設定します 。
+shame on you !	恥を知れ ！
+shame on you .	恥を知れ 。
+she can swim .	彼女は泳ぐことができます 。
+she helps us .	彼女は私たちを助けてくれます 。
+she is a fox .	彼女はキツネです 。
+she is lucky .	彼女は幸運だ 。
+she is quiet .	彼女は静かです 。
+she is sharp .	彼女は鋭いです 。
+she is wrong .	彼女は間違っています 。
+she is young .	彼女は若いです 。
+she knows me .	彼女は私を知っています 。
+she liked it .	彼女はそれが気に入りました 。
+she loves me .	彼女は私を愛しています 。
+she may come .	彼女は来るかもしれない 。
+she shot him .	彼女は彼を撃った 。
+she shrieked .	彼女は金切り声を上げた 。
+she stood up .	彼女は立ち上がった 。
+she sued him .	彼女は彼を訴えた 。
+she was busy .	彼女は忙しかった 。
+she went out .	彼女は出かけました 。
+should we go ?	行きましょうか ？
+someone came .	誰かが来た 。
+stay a while .	しばらくお待ちください 。
+stay with me .	私と一緒にいて 。
+stay with us .	私たちと一緒にいてください 。
+step forward .	一歩前進してください 。
+stop arguing .	議論をやめてください 。
+stop filming .	撮影を中止します 。
+stop gawking .	見つめるのをやめてください 。
+stop reading .	読むのをやめてください 。
+stop smoking .	喫煙をやめてください 。
+stop staring .	見つめるのをやめてください 。
+stop talking .	話すのはやめてください 。
+stop the car .	車を止めてください 。
+stop whining .	泣き言を言うのはやめてください 。
+stop yelling !	叫ぶのはやめてください ！
+stop yelling .	叫ぶのはやめてください 。
+sweet dreams !	甘い夢 ！
+take a break .	休憩してください 。
+take a whiff .	匂いを嗅いでください 。
+take it easy !	落ち着いて ！
+take it easy .	落ち着いて 。
+take me home .	家まで連れて帰ってください 。
+take my hand .	私の手を取ってください 。
+tell me more .	もっと教えてください 。
+thanks a lot .	どうもありがとう 。
+thanks again .	再度、感謝します 。
+that is mine .	それは私のものです 。
+that will do .	そうします 。
+that's a lie .	それは嘘だ 。
+that's a lot !	それはたくさんあります ！
+that's clear .	それは明らかです 。
+that's crazy .	それはクレイジーだ 。
+that's funny .	それは面白い 。
+that's great !	それは素晴らしいことです ！
+that's right !	それは正しい ！
+that's right .	それは正しい 。
+that's weird .	それは変だ 。
+they approve .	彼らは承認します 。
+they crashed .	彼らは墜落した 。
+they escaped .	彼らは逃げ出した 。
+they gave up .	彼らは諦めた 。
+they hate us .	彼らは私たちを嫌っています 。
+they know us .	彼らは私たちのことを知っています 。
+they laughed .	彼らは笑った 。
+they refused .	彼らは拒否した 。
+they relaxed .	彼らはリラックスした 。
+they said no .	彼らはノーと言った 。
+they sweated .	彼らは汗をかきました 。
+they'll grow .	彼らは成長するだろう 。
+they're back .	彼らは戻ってきました 。
+they're boys .	彼らは男の子です 。
+they're cold .	彼らは寒いです 。
+they're cool .	彼らはクールだ 。
+they're cops .	彼らは警官です 。
+they're cute .	彼らはかわいいです 。
+they're dead .	彼らは死んでいる 。
+they're done .	彼らは終わった 。
+they're free .	彼らは無料です 。
+they're gone .	彼らはいなくなってしまった 。
+they're here .	彼らはここにいます 。
+they're mine .	それらは私のものです 。
+they're rich .	彼らは金持ちだ 。
+they're safe .	彼らは安全です 。
+they're weak .	彼らは弱いです 。
+things break .	物が壊れる 。
+this is cool .	これはクールだ 。
+this is easy .	これは簡単です 。
+this is fine .	これで大丈夫です 。
+this is food .	これは食べ物です 。
+this is free .	これは無料です 。
+this is gold .	これは金です 。
+this is hers .	これは彼女のものです 。
+this is huge .	これは巨大です 。
+this is lame .	これはダサい 。
+this is life !	これが人生です ！
+this is love .	これは愛です 。
+this is mine .	これは私のものです 。
+this is nice .	これはいいですね 。
+this is ours .	これは私たちのものです 。
+this is sick .	これは病気です 。
+this is ugly .	これは醜いです 。
+tom approves .	トムは承認します 。
+tom can stay .	トムは泊まってもいいよ 。
+tom can walk .	トムは歩けます 。
+tom finished .	トムが完成しました 。
+tom got weak .	トムは弱ってしまった 。
+tom hates me .	トムは私を嫌います 。
+tom insisted .	トムは主張した 。
+tom is a spy .	トムはスパイです 。
+tom is awful .	トムはひどいです 。
+tom is blind .	トムは盲目です 。
+tom is cruel .	トムは残酷だ 。
+tom is drunk .	トムは酔っている 。
+tom is dying .	トムは死にかけています 。
+tom is happy .	トムは幸せです 。
+tom is lying .	トムは嘘をついています 。
+tom is naive .	トムは世間知らずだ 。
+tom is quiet .	トムは静かです 。
+tom is small .	トムは小さいです 。
+tom is there .	トムはそこにいる 。
+tom listened .	トムは聞きました 。
+tom loved it .	トムはとても気に入りました 。
+tom needs me .	トムには私が必要です 。
+tom saw mary .	トム・ソー・メアリー 。
+tom shrugged .	トムは肩をすくめた 。
+tom stole it .	トムがそれを盗んだ 。
+tom stutters .	トムはどもる 。
+tom was poor .	トムは貧乏だった 。
+tom was safe .	トムは無事でした 。
+tom was shot .	トムが撃たれた 。
+tom will cry .	トムは泣くでしょう 。
+tom's afraid .	トムは怖い 。
+tom's asleep .	トムは眠っています 。
+tom's coming .	トムが来ます 。
+tom's eating .	トムは食べています 。
+tom's famous .	トムは有名です 。
+tom's guilty .	トムは有罪だ 。
+tom's hungry .	トムはお腹が空いている 。
+tom's polite .	トムは礼儀正しい 。
+tom's scared .	トムは怖い 。
+tom's stoned .	トムは石を投げた 。
+trust no one .	誰も信用しません 。
+try it again .	もう一度試してください 。
+try to sleep .	寝てみてください 。
+unbelievable !	信じられない ！
+use them all .	それらをすべて使用してください 。
+wait a while .	しばらくお待ちください 。
+wait for tom .	トムを待ってください 。
+wake up , tom .	起きて、トム 。
+want a drink ?	飲み物が欲しいですか ？
+was it funny ?	面白かったですか ？
+we all cried .	私たちは皆泣きました 。
+we apologize .	申し訳ございません 。
+we are arabs .	私たちはアラブ人です 。
+we are happy .	私たちは幸せです 。
+we can't win .	私たちには勝てません 。
+we could die .	私たちは死ぬかもしれません 。
+we felt good .	気分がよかったです 。
+we get on ok .	大丈夫です 。
+we got lucky .	私たちは幸運でした 。
+we got ready .	準備はできました 。
+we have hope .	私たちには希望があります 。
+we have room .	余裕があります 。
+we have wine .	ワインがあります 。
+we knew that .	私たちはそれを知っていました 。
+we live here .	私たちはここに住んでいます 。
+we love them .	私たちは彼らを愛しています 。
+we loved you .	私たちはあなたを愛していました 。
+we met today .	今日会いました 。
+we might die .	私たちは死ぬかもしれない 。
+we must obey .	私たちは従わなければなりません 。
+we must talk .	話さなければなりません 。
+we must wait .	待たなければなりません 。
+we need both .	両方必要です 。
+we need help .	助けが必要です 。
+we need more .	もっと必要です 。
+we need rest .	休息が必要です 。
+we need time .	時間が必要です 。
+we needed it .	私たちにはそれが必要でした 。
+we overslept .	私たちは寝坊しました 。
+we sat there .	私たちはそこに座っていました 。
+we should go .	行きましょう 。
+we succeeded !	成功しました ！
+we succeeded .	私たちは成功しました 。
+we surrender .	私たちは降伏します 。
+we trust him .	私たちは彼を信頼しています 。
+we want jobs .	私たちは仕事が欲しいです 。
+we were busy .	私たちは忙しかったです 。
+we'll attack .	私たちは攻撃します 。
+we'll attend .	私たちは出席します 。
+we'll decide .	私たちが決めます 。
+we'll follow .	私たちはフォローします 。
+we'll manage .	私たちが管理します 。
+we'll starve .	私たちは飢えてしまいます 。
+we're a team .	私たちはチームです 。
+we're adults .	私たちは大人です 。
+we're all ok .	私たちは大丈夫です 。
+we're at war .	私たちは戦争中です 。
+we're biased .	私たちは偏見を持っています 。
+we're buying .	私たちは買っています 。
+we're closed .	閉店しています 。
+we're coming .	私たちは来ます 。
+we're dating .	私たちは付き合っています 。
+we're doomed .	私たちは運命にある 。
+we're hiding .	私たちは隠れています 。
+we're inside .	私たちは中にいます 。
+we're joking .	冗談だよ 。
+we're losing .	私たちは負けています 。
+we're moving .	私たちは移動します 。
+we're normal .	私たちは普通です 。
+we're paying .	私たちが払っています 。
+we're pooped .	私たちはうんこしてる 。
+we're ruined .	私たちは台無しになってしまった 。
+we're shaken .	私たちは動揺しています 。
+we're sneaky .	私たちは卑劣です 。
+we're strong .	私たちは強いです 。
+we're trying .	私たちは努力しています 。
+welcome back .	おかえり 。
+welcome home .	お帰りなさい 。
+what a loser !	なんという負け組だ ！
+what a nerve !	なんて神経なんだ ！
+what a night !	なんて夜だろう ！
+what a phony !	何というインチキだ ！
+what a shame !	残念だ ！
+what a shock !	なんというショックでしょう ！
+what a waste !	なんてもったいない ！
+what a woman !	なんて女性なんだ ！
+what is love ?	愛とは ？
+what is that ?	それは何ですか ？
+what is this ?	これは何ですか ？
+what's wrong ?	どうしたの ？
+where is tom ?	トムはどこですか ？
+who are they ?	彼らは誰なの ？
+who broke it ?	誰が壊したの ？
+who built it ?	誰がそれを建てたのですか ？
+who did this ?	誰がこれをやったのですか ？
+who has come ?	誰が来たの ？
+who is there ?	そこにいるのは誰ですか ？
+who sent you ?	誰があなたを送りましたか ？
+who told you ?	誰が言いましたか ？
+who vanished ?	誰が消えた ？
+who wants it ?	誰がそれを望んでいますか ？
+who was here ?	誰がここにいましたか ？
+who was that ?	あれは誰でしたか ？
+who will pay ?	誰が支払いますか ？
+who will win ?	誰が勝つでしょうか ？
+who's coming ?	誰が来るの ？
+who's hungry ?	誰がお腹が空いていますか ？
+why not both ?	なぜ両方ではないのですか ？
+will he live ?	彼は生きられるだろうか ？
+wish me luck .	幸運を祈ります 。
+won't you go ?	行きませんか ？
+write in ink .	インクで書きます 。
+write to tom .	トムに書いてください 。
+years passed .	年月が経ちました 。
+you amuse me .	あなたは私を楽しませてくれます 。
+you are good .	あなたは良いです 。
+you are late .	あなたは遅れています 。
+you are rich .	あなたは金持ちです 。
+you can come .	来てもいいよ 。
+you can help .	あなたは助けることができます 。
+you can rest .	休むことができます 。
+you did that .	あなたがやったのです 。
+you did this .	あなたはこれをしました 。
+you go first .	あなたが先に行きます 。
+you hurt him .	あなたは彼を傷つけました 。
+you look fat .	あなたは太って見えます 。
+you may swim .	泳いでいいよ 。
+you must run .	を実行する必要があります 。
+you promised .	あなたは約束しました 。
+you scare me .	あなたは私を怖がらせます 。
+you were shy .	あなたは恥ずかしがり屋でした 。
+you will die .	あなたは死ぬでしょう 。
+you'll be ok .	大丈夫ですよ 。
+you're a pig .	あなたは豚です 。
+you're bossy .	あなたは偉そうなんだよ 。
+you're crazy .	あなたは気が狂っています 。
+you're cruel .	あなたは残酷です 。
+you're dirty .	あなたは汚いです 。
+you're drunk .	あなたは酔っています 。
+you're early .	早いですね 。
+you're fired .	あなたは解雇されました 。
+you're first .	あなたが一番です 。
+you're funny .	あなたは面白いです 。
+you're fussy .	あなたはうるさいです 。
+you're gross !	あなたは気持ち悪いです ！
+you're lying !	嘘つきだよ ！
+you're lying .	あなたは嘘をついています 。
+you're moody .	あなたは不機嫌です 。
+you're naive .	あなたは世間知らずです 。
+you're quiet .	あなたは静かです 。
+you're right .	あなたが正しい 。
+you're silly .	あなたは愚かです 。
+you're stuck .	あなたは立ち往生しています 。
+you're tired .	あなたは疲れています 。
+you're tough .	あなたは厳しいです 。
+you're upset .	あなたは動揺しています 。
+you're weird .	あなたは変です 。
+you're wrong .	あなたは間違っています 。
+you're young .	あなたは若いです 。
+you've tried .	あなたは試しました 。
+a car hit tom .	車がトムにぶつかった 。
+a car went by .	車が通り過ぎました 。
+ain't he cute ?	彼はかわいくないですか ？
+air the futon .	布団に空気を入れます 。
+am i approved ?	私は承認されていますか ？
+am i dreaming ?	私は夢を見ていますか ？
+am i included ?	私も含まれていますか ？
+am i mistaken ?	私が間違っているでしょうか ？
+am i talented ?	私には才能があるのか​​ ？
+any questions ?	何か質問はありますか ？
+anything else ?	他に何か ？
+are they busy ?	彼らは忙しいですか ？
+are they cops ?	彼らは警官ですか ？
+are they dead ?	彼らは死んでいますか ？
+are they tall ?	彼らは背が高いですか ？
+are you a cop ?	あなたは警察官ですか ？
+are you alone ?	あなたは一人ですか ？
+are you angry ?	あなたは怒っていますか ？
+are you awake ?	起きていますか ？
+are you blind ?	あなたは盲目ですか ？
+are you bored ?	退屈ですか ？
+are you crazy ?	ばかじゃないの ？
+are you happy ?	幸せですか ？
+are you ready ?	準備はできたか ？
+are you there ?	そこにいる ？
+are you tired ?	疲れましたか ？
+are you upset ?	動揺していますか ？
+are you young ?	あなたは若いですか ？
+be a good boy .	良い子になってね 。
+be reasonable .	合理的であること 。
+be respectful .	敬意を持ってください 。
+beat it , kids !	頑張れ、子供たち ！
+beat the eggs .	卵を打ちます 。
+beware of dog .	犬に気をつけてください 。
+break it down .	それを分解してください 。
+bring a lunch .	昼食を持ってきてください 。
+bring it here .	ここに持ってきてください 。
+bring the key .	鍵を持ってきてください 。
+burn the body .	体を燃やします 。
+call a doctor .	医者を呼んで下さい 。
+call security !	コールセキュリティ ！
+call the cops .	警察に電話してください 。
+can i ask who ?	誰に聞いてもいいですか ？
+can i ask why ?	理由を聞いてもいいですか ？
+can i come in ?	入ってもいいですか ？
+can he see me ?	彼は私を見ることができますか ？
+can he see us ?	彼は私たちを見ることができますか ？
+can you drive ?	運転できますか ？
+can you pitch ?	投げられますか ？
+can you skate ?	スケートはできますか ？
+cats are cute .	猫はかわいいです 。
+check , please .	お会計お願いします 。
+clean that up .	それをきれいにしてください 。
+close the box .	ボックスを閉じます 。
+come right in .	すぐ入ってください 。
+cook the rice .	ご飯を炊きます 。
+could i do it ?	やってもいいですか ？
+could we walk ?	歩いてもいいですか ？
+crime is down .	犯罪は減りました 。
+dance with me .	私と一緒に踊ってください 。
+did i ask you ?	私はあなたに尋ねましたか ？
+did i blow it ?	私が吹いたの ？
+did i do that ?	私がそれをしたのですか ？
+did tom drown ?	トムは溺れましたか ？
+did tom fight ?	トムは戦ったのか ？
+did that work ?	それはうまくいきましたか ？
+did you do it ?	やったの ？
+do i know tom ?	私はトムを知っていますか ？
+do i know him ?	私は彼を知っていますか ？
+do i know you ?	私はあなたを知っていますか ？
+do i look fat ?	私は太って見えますか ？
+do i look old ?	私は老けて見えるでしょうか ？
+do cats dream ?	猫は夢を見ますか ？
+do fish sleep ?	魚は寝ますか ？
+do it at once .	すぐにやってください 。
+do it quickly .	早くやってください 。
+do me a favor .	お願いします 。
+do what i say .	私の言うとおりにしてください 。
+do you follow ?	フォローしていますか ？
+do you gamble ?	ギャンブルをしますか ？
+do you get it ?	わかりますか ？
+do you get it ?	do you get it ?
+do you see me ?	私が見えますか ？
+dogs can swim .	犬は泳ぐことができます 。
+don't be late .	遅刻しないでください 。
+don't be long .	長くないでください 。
+don't be mean .	意地悪しないでください 。
+don't be rude .	失礼なことをしないでください 。
+don't call me .	電話しないでください 。
+don't deny it .	それを否定しないでください 。
+don't despair .	絶望しないでください 。
+don't do that .	そんなことはしないでください 。
+don't do this .	これはやめてください 。
+don't get fat .	太らないでください 。
+don't give up !	あきらめないで ！
+don't give up .	あきらめないで 。
+don't hurt me .	私を傷つけないでください 。
+don't kill me .	私を殺さないでください 。
+don't mock me .	私をからかわないでください 。
+don't push it .	押さないでください 。
+don't push me !	私を押し込まないでください ！
+don't push me .	私を押し付けないでください 。
+don't sass me .	冗談は言わないでください 。
+don't tell me .	言わないでください 。
+don't wait up .	待ってはいけません 。
+draw a circle .	円を描きます 。
+drink it down .	飲み干してください 。
+drop your gun !	銃を捨てろ ！
+dry your eyes .	目が乾きます 。
+eat and drink .	食べたり飲んだり 。
+eat something .	何かを食べる 。
+eat your peas .	エンドウ豆を食べてください 。
+even tom lied .	トムさえ嘘をついた 。
+everyone dies .	誰もが死ぬ 。
+everyone sang .	みんなで歌いました 。
+everyone wins .	誰もが勝ちます 。
+feed the bird !	鳥に餌をあげよう ！
+feed the bird .	鳥に餌をやる 。
+get a haircut .	散髪をする 。
+get back here .	ここに戻ってください 。
+get off of me .	私から降りてください 。
+get some rest .	ゆっくり休んでください 。
+get your coat .	コートを手に入れてください 。
+get your gear .	ギアを入手してください 。
+give him time .	彼に時間を与えてください 。
+give it to me !	それを私にください ！
+give it to me .	それを私にください 。
+give me a few .	いくつか教えてください 。
+give me a hug .	ハグしてください 。
+give me a sec .	ちょっと待ってください 。
+god bless you !	神のお恵みがありますように ！
+god knows why .	その理由は神のみぞ知るです 。
+guess who won .	誰が勝ったか推測してください 。
+hand it to me .	それを私に渡してください 。
+hang on tight !	しっかり待ってください ！
+hang on tight .	しっかり待ってください 。
+have a cookie .	クッキーを持っています 。
+have him come .	彼に来てもらいます 。
+have some ham .	ハムを食べてください 。
+he broke them .	彼はそれらを壊した 。
+he can't sing .	彼は歌えません 。
+he can't swim .	彼は泳げません 。
+he cheated me .	彼は私を騙した 。
+he cracked up .	彼は声を上げた 。
+he drank beer .	彼はビールを飲みました 。
+he dropped it .	彼はそれを落とした 。
+he dug a hole .	彼は穴を掘りました 。
+he eats a lot .	彼はたくさん食べます 。
+he feels hurt .	彼は傷ついたと感じている 。
+he fooled her .	彼は彼女を騙した 。
+he got caught .	彼は捕まった 。
+he has a book .	彼は本を持っています 。
+he has a cold .	彼は風邪をひいています 。
+he has a maid .	彼にはメイドがいる 。
+he has braces .	彼は中括弧をしています 。
+he hugged her .	彼は彼女を抱きしめた 。
+he ignored me .	彼は私を無視した 。
+he is british .	彼はイギリス人です 。
+he is english .	彼はイギリス人です 。
+he is a thief .	彼は泥棒です 。
+he is awesome .	彼は素晴らしいです 。
+he is foolish .	彼は愚かだ 。
+he is my boss .	彼は私の上司です 。
+he is my type !	彼は私のタイプです ！
+he is no fool .	彼は愚か者ではない 。
+he is out now .	彼は今外出中です 。
+he is reading .	彼は本を読んでいます 。
+he is running .	彼は走っています 。
+he is skating .	彼はスケートをしています 。
+he is too old .	彼は年をとりすぎています 。
+he killed him .	彼は彼を殺しました 。
+he left early .	彼は早く出発した 。
+he lied to me .	彼は私に嘘をつきました 。
+he liked that .	彼はそれが気に入った 。
+he looks pale .	彼は青ざめている 。
+he looks well .	彼は元気そうだ 。
+he loves toys .	彼はおもちゃが大好きです 。
+he made me go .	彼は私を行かせました 。
+he never lies .	彼は決して嘘をつきません 。
+he pinched me !	彼は私をつねった ！
+he seems kind .	彼は優しそうだ 。
+he sells cars .	彼は車を売っています 。
+he shot at me .	彼は私に向かって発砲した 。
+he smells bad .	彼は臭いがする 。
+he talks well .	彼はよく話します 。
+he touched me .	彼は私に触れました 。
+he tricked me .	彼は私を騙した 。
+he tries hard .	彼は一生懸命努力します 。
+he walks fast .	彼は歩くのが速いです 。
+he wants more .	彼はもっと欲しいと思っています 。
+he was crying .	彼は泣いていました 。
+he was stoned .	彼は石で打たれた 。
+he went blind .	彼は失明してしまいました 。
+he's a grouch .	彼は不機嫌だ 。
+he's a jesuit .	彼はイエズス会士です 。
+he's a senior .	彼は先輩です 。
+he's a tycoon .	彼は大物だ 。
+he's addicted .	彼は中毒だ 。
+he's adorable .	彼は愛らしいです 。
+he's after me .	彼は私を追っている 。
+he's annoying .	彼は迷惑だ 。
+he's demented .	彼は認知症だ 。
+he's in tokyo .	彼は東京にいます 。
+he's innocent .	彼は無実だ 。
+he's insecure .	彼は不安です 。
+he's no saint .	彼は聖人ではありません 。
+he's not home .	彼は家にいません 。
+he's not sick .	彼は病気ではありません 。
+he's outraged .	彼は激怒している 。
+he's ruthless .	彼は無慈悲だ 。
+he's so young .	彼はとても若いです 。
+he's studying .	彼は勉強しています 。
+he's too busy .	彼は忙しすぎます 。
+he's too slow .	彼は遅すぎる 。
+he's very ill .	彼はとても病気です 。
+he's your son .	彼はあなたの息子です 。
+help yourself .	自分自身を助けてください 。
+here he comes .	彼が来ました 。
+here or to go ?	ここに行くか、それとも行きますか ？
+his nose bled .	彼の鼻血は出た 。
+hold the door .	ドアを押さえてください 。
+hold the line .	ラインを保持してください 。
+hold the rope .	ロープを持ってください 。
+how about you ?	あなたはどうですか ？
+how beautiful !	なんて美しいのでしょう ！
+how big is he ?	彼はどれくらい大きいですか ？
+how big is it ?	どれくらい大きいですか ？
+how can i pay ?	どうやって支払えますか ？
+how can it be ?	どうしてそうなるのでしょうか ？
+how do i look ?	私はどう見えますか ？
+how old is he ?	彼は何歳ですか ？
+how thrilling !	なんてスリル満点でしょう ！
+how was class ?	授業はどうでしたか ？
+how's the dog ?	犬はどうですか ？
+i acquired it .	入手しました 。
+i almost died .	危うく死にそうになった 。
+i already ate .	もう食べました 。
+i always lose .	私はいつも負けます 。
+i always walk .	私はいつも歩いています 。
+i am american .	私はアメリカ人です 。
+i am japanese .	私は日本人です 。
+i am a muslim .	私はイスラム教徒です 。
+i am a runner .	私はランナーです 。
+i am all ears .	私はすべての耳です 。
+i am diabetic .	糖尿です 。
+i am divorced .	私は離婚しています 。
+i am in paris .	私はパリにいます 。
+i am new here .	私はここに来たのは初めてです 。
+i am not deaf .	私は聴覚障害者ではありません 。
+i am so sorry .	申し訳ありません 。
+i am very sad .	とても悲しいです 。
+i ate a donut .	ドーナツを食べました 。
+i ate quickly .	急いで食べました 。
+i baked a pie .	パイを焼きました 。
+i became rich .	私は金持ちになりました 。
+i believe you .	私はあなたを信じています 。
+i belong here .	私はここに属します 。
+i borrowed it .	借りました 。
+i bribed them .	私は彼らに賄賂を渡しました 。
+i burned them .	私はそれらを燃やしました 。
+i called home .	家に電話しました 。
+i called them .	私は彼らに電話しました 。
+i can buy one .	1つ買えます 。
+i can do this .	これはできます 。
+i can explain .	説明できます 。
+i can feel it .	それを感じます 。
+i can survive .	私は生き残ることができます 。
+i can't dance .	私は踊れません 。
+i can't do it .	私にはできません 。
+i can't leave .	離れられない 。
+i can't sleep .	眠れません 。
+i can't smoke .	私は喫煙できません 。
+i canceled it .	キャンセルしました 。
+i caused this .	私がこれを引き起こしました 。
+i contributed .	私は貢献しました 。
+i cough a lot .	私はよく咳をします 。
+i cried a lot .	たくさん泣きました 。
+i cut classes .	授業をカットしました 。
+i deserved it .	私はそれに値する 。
+i designed it .	私がデザインしました 。
+i despise tom .	私はトムを軽蔑します 。
+i despise you .	私はあなたを軽蔑します 。
+i did it once .	一度やりました 。
+i did my best .	私は最善を尽くしました 。
+i did my part .	私は自分の役割を果たしました 。
+i did nothing .	私は何もしませんでした 。
+i did see him .	私は彼を見ました 。
+i didn't call .	電話はしませんでした 。
+i didn't care .	気にしませんでした 。
+i didn't know .	知りませんでした 。
+i didn't look .	見てなかった 。
+i didn't move .	私は動かなかった 。
+i didn't stop .	止まらなかった 。
+i didn't vote .	私は投票しませんでした 。
+i didn't walk .	私は歩きませんでした 。
+i do like you .	私はあなたのことが好きです 。
+i do love you .	私はあなたを愛しています 。
+i do remember .	覚えています 。
+i don't agree .	私は同意しません 。
+i don't dance .	私は踊りません 。
+i don't dream .	夢を見ない 。
+i don't drink .	私は飲みません 。
+i don't smoke .	私はタバコを吸いません 。
+i don't snore .	いびきをかかない 。
+i don't steal .	私は盗みません 。
+i drank a lot .	たくさん飲みました 。
+i dream a lot .	私はたくさん夢を見ます 。
+i enjoy chess .	私はチェスを楽しんでいます 。
+i enjoy music .	私は音楽を楽しんでいます 。
+i enjoy poker .	私はポーカーを楽しんでいます 。
+i exaggerated .	私は誇張しました 。
+i fear no one .	私は誰も恐れません 。
+i fed the dog .	犬に餌をあげました 。
+i feel better .	気分が良くなりました 。
+i feel guilty .	罪悪感を感じます 。
+i feel hungry .	お腹が空いた気がします 。
+i feel it now .	今それを感じています 。
+i feel lonely .	寂しいです 。
+i feel my age .	年齢を感じます 。
+i feel normal .	私は普通だと感じます 。
+i feel queasy .	吐き気がします 。
+i feel so bad .	とても気分が悪い 。
+i feel stupid .	私は愚かだと感じます 。
+i feel unwell .	気分が悪いです 。
+i fell asleep .	私は眠ってしまった 。
+i fell for it .	私はそれにはまりました 。
+i felt guilty .	罪悪感を感じました 。
+i felt lonely .	寂しかったです 。
+i felt reborn .	生まれ変わったような気がしました 。
+i felt scared .	怖かったです 。
+i felt strong .	強いと感じました 。
+i finally won .	ついに勝ちました 。
+i finished it .	終わった 。
+i forbid that .	それは禁止します 。
+i forgive you .	私はあなたを許す 。
+i fought back .	私は反撃しました 。
+i found a job .	仕事を見つけました 。
+i found these .	これらを見つけました 。
+i freaked out .	びっくりしました 。
+i got a bonus .	ボーナスをもらいました 。
+i got it free .	無料で手に入れました 。
+i got married .	結婚しました 。
+i got nothing .	何も得られませんでした 。
+i got scammed .	詐欺に遭いました 。
+i got shot at .	撃たれた 。
+i got thirsty .	喉が渇いた 。
+i had an idea .	アイデアがあった 。
+i had no clue .	私には何の手がかりもありませんでした 。
+i had no idea .	わからなかった 。
+i had to hide .	隠さなければならなかった 。
+i had to stay .	私は滞在しなければなりませんでした 。
+i had to stop .	やめなければならなかった 。
+i had to work .	仕事をしなければならなかった 。
+i hate celery .	私はセロリが嫌いです 。
+i hate coffee .	私はコーヒーが嫌いです 。
+i hate crowds .	私は人混みが嫌いです 。
+i hate flying .	私は飛行機が嫌いです 。
+i hate losing .	私は負けるのが嫌いです 。
+i hate moving .	私は動くのが嫌いです 。
+i hate myself .	私は自分自身が嫌いです 。
+i hate school .	私は学校が嫌いです 。
+i hate soccer .	私はサッカーが嫌いです 。
+i hate winter .	冬は嫌いです 。
+i have a cold .	私は風邪をひいている 。
+i have a date .	デートがあります 。
+i have a plan .	計画があります 。
+i have a ring .	私は指輪を持っています 。
+i have a twin .	私には双子がいます 。
+i have a visa .	私はビザを持っています 。
+i have a wife .	私には妻がいます 。
+i have cancer .	私は癌を患っています 。
+i have doubts .	疑問があります 。
+i have failed .	失敗してしまいました 。
+i have had it .	私はそれを持っていました 。
+i have orders .	注文があります 。
+i have rights .	私には権利があります 。
+i have tenure .	私には在職期間があります 。
+i have to run .	走らなければなりません 。
+i have to try .	試してみなければなりません 。
+i have to win .	勝たなければなりません 。
+i hear sirens .	サイレンが聞こえます 。
+i ignored tom .	私はトムを無視した 。
+i ignored him .	私は彼を無視しました 。
+i just did it .	やったばかりです 。
+i just got up .	今起きたところです 。
+i just smiled .	私はただ微笑んだだけです 。
+i kid you not .	私はあなたを冗談ではありません 。
+i know french .	私はフランス語を知っています 。
+i know myself .	私は自分自身を知っています 。
+i know people .	私は人々を知っています 。
+i know things .	私は物事を知っています 。
+i let it fall .	私はそれを落としました 。
+i let them go .	私は彼らを手放しました 。
+i like french .	私はフランス語が好きです 。
+i like camels .	私はラクダが好きです 。
+i like cities .	私は都市が好きです 。
+i like clocks .	私は時計が好きです 。
+i like garlic .	私はニンニクが好きです 。
+i like grapes .	私はブドウが好きです 。
+i like movies .	私は映画が好きです 。
+i like my job .	私は自分の仕事が好きです 。
+i like salmon .	私はサーモンが好きです 。
+i like skiing .	私はスキーが好きです 。
+i like spring .	私は春が好きです 。
+i like sweets .	私は甘いものが好きです 。
+i like to eat .	私は食べるのが好きです 。
+i like to run .	私は走るのが好きです 。
+i like trains .	私は電車が好きです 。
+i like winter .	私は冬が好きです 。
+i like yellow .	私は黄色が好きです 。
+i live nearby .	私は近くに住んでいます 。
+i looked away .	私は目をそらした 。
+i looked down .	私は下を向いた 。
+i lost my dog .	犬を亡くしました 。
+i lost my key .	鍵を紛失してしまいました 。
+i love arabic .	私はアラビア語が大好きです 。
+i love boston .	私はボストンが大好きです 。
+i love french .	私はフランス語が大好きです 。
+i love monday !	月曜日が大好きです ！
+i love apples .	私はリンゴが大好きです 。
+i love autumn .	私は秋が大好きです 。
+i love baking .	私はベーキングが大好きです 。
+i love camels .	私はラクダが大好きです 。
+i love coffee .	私はコーヒーが大好きです 。
+i love hiking .	私はハイキングが大好きです 。
+i love horses .	私は馬が大好きです 。
+i love movies .	私は映画が大好きです 。
+i love my job .	私は自分の仕事が大好きです 。
+i love my mom .	私はお母さんが大好きです 。
+i love myself .	私は自分自身を愛している 。
+i love nature .	私は自然が大好きです 。
+i love poetry .	私は詩が大好きです 。
+i love spring .	私は春が大好きです 。
+i love summer .	夏が大好きです 。
+i love winter .	冬が大好きです 。
+i made a copy .	コピーを作りました 。
+i made a deal .	取引をしました 。
+i made a list .	リストを作りました 。
+i made coffee .	コーヒーを作りました 。
+i made dinner .	夕食を作りました 。
+i made him go .	私は彼を行かせました 。
+i miss boston .	ボストンが恋しいです 。
+i miss my cat .	猫がいなくて寂しいです 。
+i miss my mom .	母がいなくて寂しいです 。
+i must fix it .	それを直さなければなりません 。
+i must go now .	今行かなければなりません 。
+i must go out .	出かけなければなりません 。
+i must insist .	私は主張しなければなりません 。
+i must object .	私は反対しなければなりません 。
+i must refuse .	断らなければなりません 。
+i must resist .	私は抵抗しなければなりません 。
+i nearly died .	危うく死にそうになった 。
+i need a bath .	お風呂が必要です 。
+i need a coat .	コートが必要です 。
+i need a crew .	乗組員が必要です 。
+i need a lamp .	ランプが必要です 。
+i need a plan .	計画が必要です 。
+i need a ride .	車に乗せてほしい 。
+i need a room .	部屋が必要です 。
+i need a week .	一週間必要です 。
+i need advice .	アドバイスが必要です 。
+i need my key .	私の鍵が必要です 。
+i needed help .	助けが必要でした 。
+i never drink .	私は決して飲みません 。
+i never spoke .	私は話したことがありません 。
+i never worry .	心配することはありません 。
+i ought to go .	行かなければなりません 。
+i outrank you .	私はあなたより上位です 。
+i owe you one .	私はあなたに借りがあります 。
+i own a horse .	私は馬を所有しています 。
+i own a yacht .	私はヨットを所有しています 。
+i play violin .	私はバイオリンを弾きます 。
+i prefer dogs .	私は犬の方が好きです 。
+i quit my job .	仕事を辞めました 。
+i quite agree .	私も全く同感です 。
+i ran outside .	私は外に走りました 。
+i remember it .	覚えています 。
+i rescheduled .	予定を変更しました 。
+i rescued her .	私は彼女を救出しました 。
+i rescued him .	私は彼を救出しました 。
+i rescued you .	私はあなたを救出しました 。
+i resent that .	それを再送しました 。
+i respect you .	私はあなたを尊敬します 。
+i said thanks .	私はありがとうと言った 。
+i saw a mouse !	ネズミを見ました ！
+i saw a plane .	飛行機を見ました 。
+i saw nothing .	何も見えなかった 。
+i saw someone .	誰かを見ました 。
+i see a light .	光が見えました 。
+i see a queen .	女王様が見えます 。
+i see someone .	誰かが見えます 。
+i see the boy .	男の子が見えます 。
+i should quit .	やめたほうがいいです 。
+i slapped him .	私は彼を平手打ちした 。
+i slept a lot .	たくさん寝ました 。
+i smell bacon .	ベーコンの匂いがする 。
+i smell blood .	血の匂いがする 。
+i smell smoke .	煙の匂いがする 。
+i stole a gun .	私は銃を盗みました 。
+i support him .	私は彼を支持します 。
+i surrendered .	私は降参した 。
+i think i can .	できると思います 。
+i told you so .	そう言いました 。
+i took a bath .	お風呂に入りました 。
+i tricked you .	私はあなたを騙しました 。
+i tried again .	もう一度試してみました 。
+i trusted you .	私はあなたを信頼していました 。
+i use firefox .	私はFirefoxを使用しています 。
+i volunteered .	私は志願しました 。
+i walked here .	ここを歩いてきました 。
+i want a book .	本が欲しいです 。
+i want a pony .	ポニーが欲しいです 。
+i want a pool .	プールが欲しいです 。
+i want it all .	全部欲しいです 。
+i want to cry .	泣きたいです 。
+i want to die .	私は死にたい 。
+i want to run .	走りたい 。
+i want to try .	試してみたいです 。
+i wanted this .	これが欲しかった 。
+i was ashamed .	恥ずかしかったです 。
+i was at home .	私は家にいました 。
+i was at work .	私は仕事中でした 。
+i was careful .	気をつけていました 。
+i was crushed .	私は打ちのめされました 。
+i was curious .	興味がありました 。
+i was dancing .	私は踊っていました 。
+i was drugged .	私は薬を盛られていました 。
+i was elected .	私は当選しました 。
+i was excited .	興奮しました 。
+i was furious .	私は激怒しました 。
+i was invited .	招待されました 。
+i was kidding .	冗談だった 。
+i was patient .	私は我慢していました 。
+i was pleased .	嬉しかったです 。
+i was relaxed .	リラックスしていました 。
+i was singing .	歌っていました 。
+i was stunned .	私はびっくりしました 。
+i was tempted .	誘惑に駆られました 。
+i was too shy .	恥ずかしすぎた 。
+i was trapped .	私は閉じ込められました 。
+i was unarmed .	私は丸腰でした 。
+i was unlucky .	運が悪かったです 。
+i was worried .	心配していました 。
+i wasn't done .	まだ終わってなかった 。
+i wasn't home .	家にいなかった 。
+i went aboard .	乗りました 。
+i went hiking .	ハイキングに行きました 。
+i went inside .	中に入りました 。
+i will behave .	私は行動します 。
+i will return .	戻ります 。
+i woke you up .	起こしてしまいました 。
+i wore a mask .	私はマスクをしていました 。
+i work nights .	私は夜働いています 。
+i worked hard .	私は一生懸命働きました 。
+i write poems .	私は詩を書きます 。
+i'd better go .	行った方がいいですよ 。
+i'll allow it .	許可します 。
+i'll be brief .	簡単に説明します 。
+i'll be going .	行きます 。
+i'll be ready .	準備はできていますよ 。
+i'll be there .	私はそこにいます 。
+i'll buy that .	それを買います 。
+i'll buy this .	これを買います 。
+i'll call him .	彼に電話します 。
+i'll call you .	電話します 。
+i'll check in .	チェックインします 。
+i'll clean up .	掃除します 。
+i'll eat here .	ここで食べます 。
+i'll find you .	見つけます 。
+i'll get help .	助けてもらいます 。
+i'll get lost .	迷ってしまいます 。
+i'll get some .	いくつかもらいます 。
+i'll get them .	もらいます 。
+i'll get this .	これをもらいます 。
+i'll go ahead .	先に行きます 。
+i'll go check .	確認してみます 。
+i'll go first .	私が先に行きます 。
+i'll help you .	私がお手伝いします 。
+i'll join you .	私も参加します 。
+i'll kill him .	私が彼を殺します 。
+i'll kill you .	あなたを殺します 。
+i'll miss you .	寂しくなりますね 。
+i'll prove it .	私が証明してみます 。
+i'll save you .	私があなたを救います 。
+i'll show you .	見せてあげるよ 。
+i'll stop now .	もうやめます 。
+i'll take him .	私が彼を連れて行きます 。
+i'll take one .	一ついただきます 。
+i'll tell you .	教えます 。
+i'll try that .	それを試してみます 。
+i'll warn tom .	トムに警告しておきます 。
+i'll watch tv .	テレビを見ます 。
+i'll watch it .	見ます 。
+i'm a dentist .	私は歯医者です 。
+i'm a patient .	私は患者です 。
+i'm a student .	私は学生です 。
+i'm a teacher .	私は教師です 。
+i'm a tourist .	私は観光客です 。
+i'm a trainee .	私は研修生です 。
+i'm adaptable .	私は順応性があります 。
+i'm afraid so .	残念ですが 。
+i'm all alone .	私は一人ぼっちです 。
+i'm all right .	大丈夫です 。
+i'm all yours .	大丈夫です 。
+i'm ambitious .	私は野心家です 。
+i'm an artist .	私はアーティストです 。
+i'm an orphan .	私は孤児です 。
+i'm attentive .	私は気をつけています 。
+i'm available .	私は利用可能です 。
+i'm beautiful .	私は美しいです 。
+i'm bilingual .	私はバイリンガルです 。
+i'm busy , too .	私も忙しいです 。
+i'm committed .	私はコミットしています 。
+i'm concerned .	心配です 。
+i'm confident .	私は自信を持っています 。
+i'm contented .	私は満足しています 。
+i'm convinced .	私は確信しています 。
+i'm dedicated .	私は専念しています 。
+i'm delighted .	嬉しいです 。
+i'm depressed .	私は落ち込んでいます 。
+i'm desperate .	私は必死です 。
+i'm different .	私は違います 。
+i'm disgusted .	嫌だ 。
+i'm easygoing .	私は気楽です 。
+i'm exhausted .	疲れた 。
+i'm expecting .	期待しています 。
+i'm forgetful .	私は忘れっぽいです 。
+i'm home , tom .	ただいま、トム 。
+i'm hung over .	二日酔いです 。
+i'm impatient .	せっかちです 。
+i'm important .	私は重要です 。
+i'm impressed .	感動しました 。
+i'm impulsive .	私は衝動的です 。
+i'm in boston .	私はボストンにいます 。
+i'm in danger .	私は危険にさらされています 。
+i'm intrigued .	興味があります 。
+i'm just lazy .	私はただ怠け者です 。
+i'm listening .	聞いています 。
+i'm miserable .	私は惨めです 。
+i'm motivated .	やる気があります 。
+i'm no expert .	私は専門家ではありません 。
+i'm not a cop .	私は警官ではありません 。
+i'm not a fan .	私はファンではありません 。
+i'm not a kid .	私は子供ではありません 。
+i'm not alone .	私は一人ではありません 。
+i'm not angry !	怒ってないよ ！
+i'm not angry .	私は怒っていません 。
+i'm not armed .	私は武装していません 。
+i'm not blind .	私は盲目ではありません 。
+i'm not crazy .	私は狂っていません 。
+i'm not dying .	私は死んでいません 。
+i'm not going .	行きません 。
+i'm not happy .	嬉しくない 。
+i'm not lying .	嘘は言ってないよ 。
+i'm not naive .	私は世間知らずではありません 。
+i'm not obese .	私は肥満ではありません 。
+i'm not ready .	準備ができていません 。
+i'm not short .	私は背が低いわけではありません 。
+i'm not tired .	疲れていません 。
+i'm not weird .	私は変じゃないよ 。
+i'm not young .	私は若くない 。
+i'm observant .	私は観察力があります 。
+i'm on a diet .	私はダイエット中です 。
+i'm on my way .	私は向かっています 。
+i'm on parole .	私は仮釈放中です 。
+i'm on strike .	私はストライキ中です 。
+i'm plastered .	私は漆喰です 。
+i'm powerless .	私は無力です 。
+i'm realistic .	私は現実的です 。
+i'm resentful .	憤慨しています 。
+i'm resilient .	私は回復力があります 。
+i'm satisfied .	満足しています 。
+i'm saying no .	私はノーと言っています 。
+i'm sensitive .	私は敏感です 。
+i'm so hungry .	とてもお腹が空いています 。
+i'm so lonely .	とても寂しいです 。
+i'm so stupid .	私はとても愚かです 。
+i'm surprised .	驚いています 。
+i'm surviving .	私は生き残っています 。
+i'm terrified .	怖いです 。
+i'm the coach .	私はコーチです 。
+i'm tired now .	もう疲れた 。
+i'm too drunk .	酔っぱらってます 。
+i'm uninsured .	私は無保険です 。
+i'm unmarried .	私は未婚です 。
+i'm very busy .	とても忙しいです 。
+i'm very cold .	とても寒いです 。
+i'm very lazy .	私はとても怠け者です 。
+i'm very poor .	私はとても貧しいです 。
+i'm voting no .	私はノーに投票します 。
+i'm your boss .	私はあなたの上司です 。
+i've finished .	終わった 。
+i've found it .	見つけました 。
+i've got eyes .	私には目がある 。
+is tom around ?	トムはいますか ？
+is he at home ?	彼は家にいますか ？
+is he correct ?	彼は正しいですか ？
+is he looking ?	彼は見ていますか ？
+is it damaged ?	破損していますか ？
+is it genuine ?	本物ですか ？
+is it helping ?	それは役に立ちますか ？
+is it my turn ?	私の番ですか ？
+is it painful ?	痛いですか ？
+is it raining ?	雨が降っていますか ？
+is it serious ?	それは深刻ですか ？
+is it snowing ?	雪が降っていますか ？
+is it too big ?	大きすぎますか ？
+is that a bat ?	それはコウモリですか ？
+is that a cat ?	それは猫ですか ？
+is that a fox ?	それはキツネですか ？
+is that right ?	そうですか ？
+is that weird ?	それは変ですか ？
+is that yours ?	それはあなたのものですか ？
+is there more ?	もっとありますか ？
+is this a gag ?	これはギャグですか ？
+is this legal ?	これは合法ですか ？
+is this yours ?	これはあなたのものですか ？
+isn't it nice ?	素敵じゃないですか ？
+isn't it true ?	本当じゃないですか ？
+it came apart .	バラバラになってしまいました 。
+it can't wait .	待ちきれません 。
+it feels good .	気持ちいいです 。
+it gets worse .	悪化します 。
+it had snowed .	雪が降っていました 。
+it has a flaw .	欠陥があります 。
+it has a leak .	漏れがあります 。
+it hurts here .	ここが痛い 。
+it is a curse .	それは呪いです 。
+it is no joke .	冗談ではありません 。
+it is snowing .	雪が降っています 。
+it is the law .	それが法律です 。
+it is too hot .	暑すぎます 。
+it looks fine .	見た目は大丈夫です 。
+it looks good .	見た目は良いです 。
+it looks nice .	いいですね 。
+it made sense .	それは理にかなっていました 。
+it sickens me .	気分が悪くなる 。
+it smells bad .	臭いです 。
+it takes time .	時間がかかります 。
+it was a bomb .	それは爆弾だった 。
+it was a gift .	それは贈り物でした 。
+it was a hoax .	それはデマでした 。
+it was a joke .	それは冗談でした 。
+it was a mess .	めちゃくちゃだった 。
+it was a test .	それはテストだった 。
+it was boring .	退屈だった 。
+it was broken .	壊れていました 。
+it was locked .	ロックされていました 。
+it was simple .	それは簡単でした 。
+it was superb .	素晴らしかったです 。
+it wasn't him .	彼ではなかった 。
+it went viral .	それは急速に広まりました 。
+it won't hurt .	痛くないよ 。
+it won't work .	それは機能しません 。
+it works fine .	正常に動作します 。
+it works well .	うまくいきます 。
+it'll be easy .	それは簡単です 。
+it'll go away .	それは消えてしまいます 。
+it's a parody .	それはパロディです 。
+it's a relief .	それは安心です 。
+it's a rental .	レンタルです 。
+it's a sequel .	続編です 。
+it's a weapon .	それは武器です 。
+it's adorable .	愛らしいです 。
+it's all gone .	すべてなくなってしまった 。
+it's all here .	すべてここにあります 。
+it's all mine .	それはすべて私のものです 。
+it's all over .	すべて終わった 。
+it's all true .	それはすべて本当です 。
+it's business .	それはビジネスです 。
+it's close by .	近くにあります 。
+it's exciting .	とてもエキサイティングです 。
+it's fall now .	今は秋です 。
+it's for free .	それは無料です 。
+it's gorgeous .	素晴らしいです 。
+it's instinct .	それは本能です 。
+it's midnight .	深夜です 。
+it's my treat .	それは私のおごりです 。
+it's not cool .	クールじゃないよ 。
+it's not easy .	それは簡単ではありません 。
+it's not fair .	それは不公平です 。
+it's not fake .	偽物ではありません 。
+it's not hard .	難しいことではありません 。
+it's not here .	ここにはありません 。
+it's not mine .	それは私のものではありません 。
+it's not real .	それは本物ではありません 。
+it's not safe .	安全ではありません 。
+it's not true .	それは本当ではありません 。
+it's now 2:30 .	今は2時30分です 。
+it's obsolete .	それは時代遅れです 。
+it's occupied .	占領されています 。
+it's our duty .	それは私たちの義務です 。
+it's outdated .	それは時代遅れです 。
+it's pathetic .	情けないです 。
+it's personal .	それは個人的なものです 。
+it's possible .	それは可能です 。
+it's so clean .	とてもきれいです 。
+it's stealing .	それは盗んでいる 。
+it's suicidal .	それは自殺行為だ 。
+it's terrible .	ひどいです 。
+it's the best .	最高です 。
+it's the cops !	それは警察だ ！
+it's too cold .	寒すぎるよ 。
+it's too dark .	暗すぎます 。
+it's too easy .	簡単すぎます 。
+it's too hard .	大変です 。
+it's too late .	もう手遅れです 。
+it's too loud .	うるさすぎる 。
+it's too thin .	薄すぎるよ 。
+it's unlikely .	それはありそうにありません 。
+it's unlocked .	ロックが解除されています 。
+it's upstairs .	上の階です 。
+it's very big .	とても大きいです 。
+it's very dry .	とても乾燥しています 。
+it's very low .	とても低いです 。
+it's worth it .	それは価値があります 。
+just a minute .	ちょっと待ってください 。
+just be quiet .	ただ静かにしてください 。
+just leave it .	そのままにしておいてください 。
+just trust me .	私を信じてください 。
+keep tom safe .	トムを安全に保ってください 。
+keep in touch !	連絡を取り合う ！
+keep in touch .	連絡を取り合う 。
+learn italian .	イタリア語を学びます 。
+let tom sleep .	トムを寝かせてください 。
+let her sleep .	彼女を寝かせてください 。
+let me finish .	最後にさせてください 。
+let me see it .	見せてください 。
+let me try it .	試してみます 。
+let's ask him .	彼に聞いてみましょう 。
+let's do this .	これをやってみましょう 。
+let's drop it .	それを落としましょう 。
+let's go away .	行きましょう 。
+let's go , tom .	行きましょう、トム 。
+let's proceed .	続けましょう 。
+life is crazy .	人生は狂っている 。
+life is short .	人生は短い 。
+life is sweet .	人生は甘い 。
+lock the door !	ドアをロックしてください ！
+lock the door .	ドアをロックしてください 。
+look up there .	そこを見上げてください 。
+love is blind .	恋は盲目 。
+luck is blind .	運は盲目です 。
+make a choice .	選択してください 。
+make an offer .	オファーを出します 。
+make it quick .	早くしてください 。
+make me happy .	私を幸せにしてください 。
+make your bed .	ベッドを整えてください 。
+man is mortal .	人間は死すべき存在です 。
+mary is weird .	メアリーは変だ 。
+may i ask why ?	理由を聞いてもいいですか ？
+may i come in ?	入ってもいいですか ？
+may i go home ?	家に帰ってもいいですか ？
+men never cry .	男は決して泣かない 。
+my back aches .	背中が痛いです 。
+my dog ate it .	私の犬がそれを食べました 。
+my dog is big .	私の犬は大きいです 。
+my feet stink .	足が臭いです 。
+my foot hurts .	足が痛いです 。
+my name's tom .	私の名前はトムです 。
+never give up .	決してあきらめない 。
+no one saw me .	誰も私を見ませんでした 。
+no one saw us .	誰も私たちを見ませんでした 。
+no one's here .	ここには誰もいません 。
+no one's home .	誰も家にいない 。
+no , he didn't .	いいえ、彼はしませんでした 。
+no , you can't .	いいえ、できません 。
+nobody got up .	誰も起きなかった 。
+nobody saw me .	誰も私を見ませんでした 。
+nobody's busy .	誰も忙しくありません 。
+now means now .	今は今という意味です 。
+oh , i'm sorry .	ああ、ごめんなさい 。
+open the door .	ドアを開けてください 。
+open the safe .	金庫を開けます 。
+our team lost .	私たちのチームは負けました 。
+out of my way !	邪魔にならない ！
+pick a number .	番号を選択してください 。
+pick a weapon .	武器を選ぶ 。
+please fix it .	修正してください 。
+please get in .	入ってください 。
+quiet , please .	静かにしてください 。
+quit gambling .	ギャンブルをやめる 。
+read after me .	私の後に読んでください 。
+read it to me .	読んであげてください 。
+read this now .	今すぐこれを読んでください 。
+red is better .	赤の方が良いです 。
+rest in peace .	安らかに眠る 。
+ring the bell .	ベルを鳴らしてください 。
+russia is big .	ロシアは大きいです 。
+save yourself .	自分を救ってください 。
+seal the room .	部屋を密閉します 。
+see you again .	また会いましょう 。
+see you later .	また後で 。
+see you there .	また会いましょう 。
+shake my hand .	握手してください 。
+shall i begin ?	始めましょうか ？
+she avoids me .	彼女は私を避けます 。
+she came last .	彼女は最後に来ました 。
+she can skate .	彼女はスケートができます 。
+she can't ski .	彼女はスキーができません 。
+she could die .	彼女は死ぬかもしれない 。
+she dumped me .	彼女は私を捨てました 。
+she got angry .	彼女は怒った 。
+she had twins .	彼女には双子がいました 。
+she hated him .	彼女は彼を嫌っていた 。
+she hates him .	彼女は彼が嫌いです 。
+she hired him .	彼女は彼を雇った 。
+she is french .	彼女はフランス人です 。
+she is a twin .	彼女は双子です 。
+she is active .	彼女は活動的です 。
+she is crying .	彼女は泣いています 。
+she is gentle .	彼女は優しいです 。
+she is strong .	彼女は強いです 。
+she just left .	彼女はちょうど去ったところです 。
+she likes him .	彼女は彼が好きです 。
+she looks sad .	彼女は悲しそうだ 。
+she loves tom .	彼女はトムが大好きです 。
+she loves him .	彼女は彼を愛しています 。
+she needs you .	彼女はあなたを必要としています 。
+she obeys him .	彼女は彼に従います 。
+she overslept .	彼女は寝坊しました 。
+she seems sad .	彼女は悲しそうだ 。
+she wants him .	彼女は彼が欲しいのです 。
+she was brave .	彼女は勇敢でした 。
+she was livid .	彼女は激怒した 。
+she was lying .	彼女は嘘をついていた 。
+she was naive .	彼女は純朴だった 。
+she went home .	彼女は家に帰りました 。
+she's a cutie .	彼女はかわいいです 。
+she's a model .	彼女はモデルです 。
+she's awesome .	彼女は素晴らしいです 。
+she's dieting .	彼女はダイエット中です 。
+she's my type .	彼女は私のタイプです 。
+should i come ?	来るべきですか ？
+should i wait ?	待ったほうがいいですか ？
+show it to me .	それを私に見せてください 。
+show it to us .	それを私たちに見せてください 。
+show yourself .	自分自身を見せてください 。
+shut the door .	ドアを閉めてください 。
+sit beside me .	私の隣に座ってください 。
+sit down , tom !	座って、トム ！
+sit down , tom .	座って、トム 。
+sit near here .	ここの近くに座ってください 。
+speak clearly .	はっきりと話してください 。
+speak quietly .	静かに話してください 。
+start running .	走り始めます 。
+start the car .	車をスタートさせます 。
+start writing .	書き始めます 。
+stay a moment .	ちょっと待ってください 。
+stay positive .	ポジティブでいてください 。
+stay together .	一緒にいてください 。
+stir the soup .	スープをかき混ぜます 。
+stop bragging .	自慢はやめてください 。
+stop dreaming .	夢を見るのはやめてください 。
+stop frowning .	眉をひそめるのはやめてください 。
+stop shooting .	撮影を停止します 。
+stop shouting .	叫ぶのはやめてください 。
+stop that now .	もうやめてください 。
+stop worrying .	心配するのはやめてください 。
+straighten up .	まっすぐにしてください 。
+stuff happens .	何かが起こる 。
+suit yourself .	自分に合ったものを 。
+sweep my room .	私の部屋を掃除してください 。
+take a breath .	息を吸ってください 。
+take a chance .	チャンスを掴んでください 。
+take a cookie .	クッキーを取ります 。
+take a number .	番号を取ります 。
+take a shower .	シャワーを浴びてください 。
+tastes differ .	好みが異なります 。
+thanks a heap .	山ほどありがとう 。
+thanks anyway .	とにかくありがとう 。
+that meant no .	それはノーを意味しました 。
+that suits me .	それが私に合っている 。
+that was cool .	かっこよかったです 。
+that was easy .	それは簡単でした 。
+that was mean .	それは意地悪でした 。
+that was nice .	それはよかったです 。
+that was ours .	それは私たちのものでした 。
+that's saturn .	それは土星です 。
+that's a boat .	それはボートです 。
+that's a book .	それは本です 。
+that's a copy .	それはコピーです 。
+that's a doll .	それは人形です 。
+that's a fact .	それは事実です 。
+that's a fake .	それは偽物です 。
+that's a joke .	それは冗談だよ 。
+that's a myth .	それは神話です 。
+that's a pity .	それは残念だ 。
+that's a plan .	それは計画です 。
+that's a risk .	それはリスクです 。
+that's a sign .	それはサインです 。
+that's a tree .	それは木です 。
+that's clever .	それは賢いですね 。
+that's enough .	それで十分です 。
+that's lovely .	それは素敵ですね 。
+that's my boy .	それは私の男の子です 。
+that's my car .	それは私の車です 。
+that's my cat .	それは私の猫です 。
+that's my dog .	それは私の犬です 。
+that's no fun .	それは面白くない 。
+that's normal .	それは正常です 。
+that's pretty .	それはきれいですね 。
+that's simple .	それは簡単です 。
+that's so rad .	それはとてもひどいです 。
+that's so sad .	それはとても悲しいです 。
+that's stupid .	それは愚かだ 。
+that's unfair .	それは不公平だ 。
+that's untrue .	それは真実ではありません 。
+the girls won .	女子が勝ちました 。
+there is hope .	希望はあります 。
+there you are .	そこにいます 。
+they all died .	彼らは皆死んでしまいました 。
+they all knew .	彼らは皆知っていました 。
+they all know .	彼らは皆知っています 。
+they are here .	彼らはここにいます 。
+they canceled .	彼らはキャンセルした 。
+they embraced .	彼らは抱き合った 。
+they found it .	彼らはそれを見つけました 。
+they found us .	彼らは私たちを見つけました 。
+they know him .	彼らは彼を知っています 。
+they look sad .	彼らは悲しそうな顔をしています 。
+they love tom .	彼らはトムが大好きです 。
+they need him .	彼らには彼が必要だ 。
+they said yes .	彼らはそうだと言いました 。
+they saved us .	彼らは私たちを救ってくれました 。
+they're asian .	彼らはアジア人です 。
+they're alive .	彼らは生きています 。
+they're angry .	彼らは怒っています 。
+they're armed .	彼らは武装している 。
+they're awake .	彼らは起きています 。
+they're brave .	彼らは勇敢です 。
+they're broke .	彼らは破産している 。
+they're clean .	彼らはきれいです 。
+they're crazy .	彼らは狂っている 。
+they're drunk .	彼らは酔っている 。
+they're dying .	彼らは死につつある 。
+they're early .	彼らは早いです 。
+they're happy .	彼らは幸せです 。
+they're lying .	彼らは嘘をついています 。
+they're small .	彼らは小さいです 。
+they're spies .	彼らはスパイだ 。
+they're there .	彼らはそこにいるよ 。
+they're tired .	彼らは疲れています 。
+they're twins .	彼らは双子です 。
+they're weird .	彼らは変だ 。
+they're wrong .	彼らは間違っています 。
+this is italy .	ここはイタリアです 。
+this is japan .	ここは日本です 。
+this is a dvd .	これはDVDです 。
+this is a dog .	これは犬です 。
+this is a map .	これは地図です 。
+this is a pen .	これはペンです 。
+this is a pun .	これはダジャレです 。
+this is a wig .	これはウィッグです 。
+this is awful .	これはひどいです 。
+this is cheap .	これは安いです 。
+this is crazy .	これはクレイジーだ 。
+this is funny .	これは面白いですね 。
+this is great .	これは素晴らしいですね 。
+this is legal .	これは合法です 。
+this is my cd .	これは私のCDです 。
+this is silly .	これはばかげています 。
+this is sweet .	これは甘いですね 。
+this is weird .	これは変だ 。
+this is wrong .	これは間違っています 。
+this is yours .	これはあなたのものです 。
+this was easy .	これは簡単でした 。
+tie your shoe .	靴紐を結びます 。
+time is money .	時は金なり 。
+tom can do it .	トムならできるよ 。
+tom can drive .	トムは運転できます 。
+tom can't ski .	トムはスキーができません 。
+tom can't win .	トムには勝てない 。
+tom confessed .	トムは告白した 。
+tom disagreed .	トムは同意しませんでした 。
+tom dumped me .	トムは私を捨てた 。
+tom felt safe .	トムは安心した 。
+tom felt sick .	トムは気分が悪くなった 。
+tom got stuck .	トムは行き詰まってしまった 。
+tom graduated .	トムは卒業しました 。
+tom had a gun .	トムは銃を持っていた 。
+tom has a dog .	トムは犬を飼っています 。
+tom has a son .	トムには息子がいます 。
+tom has plans .	トムには計画がある 。
+tom hates you .	トムはあなたが嫌い​​です 。
+tom hesitated .	トムは躊躇した 。
+tom is ok now .	トムはもう大丈夫です 。
+tom is a hero .	トムはヒーローです 。
+tom is a monk .	トムは僧侶です 。
+tom is afraid .	トムは怖いです 。
+tom is boring .	トムは退屈だ 。
+tom is chubby .	トムはぽっちゃりしています 。
+tom is eating .	トムは食事をしています 。
+tom is guilty .	トムは有罪だ 。
+tom is hiding .	トムは隠れています 。
+tom is hungry .	トムはお腹が空いています 。
+tom is in bed .	トムはベッドにいます 。
+tom is joking .	トムは冗談です 。
+tom is skiing .	トムはスキーをしています 。
+tom is voting .	トムは投票しています 。
+tom is vulgar .	トムは下品だ 。
+tom just died .	トムが亡くなったばかりです 。
+tom left town .	トムは町を去った 。
+tom let us go .	トム、行かせてください 。
+tom likes her .	トムは彼女が好きです 。
+tom likes him .	トムは彼が好きです 。
+tom looks sad .	トムは悲しそうだ 。
+tom lost hope .	トムは希望を失った 。
+tom loves you .	トムはあなたを愛しています 。
+tom missed it .	トムは見逃した 。
+tom overslept .	トムは寝坊しました 。
+tom runs fast .	トムは速く走ります 。
+tom said that .	トムはそう言いました 。
+tom shot mary .	トムショットメアリー 。
+tom trusts me .	トムは私を信頼しています 。
+tom walked in .	トムが入ってきた 。
+tom wanted it .	トムはそれを望んでいた 。
+tom was alive .	トムは生きていた 。
+tom was cruel .	トムは残酷だった 。
+tom was dying .	トムは死にかけていた 。
+tom was fired .	トムは解雇された 。
+tom was lucky .	トムは幸運でした 。
+tom was scary .	トムは怖かった 。
+tom was tense .	トムは緊張していました 。
+tom was third .	トムは3番目でした 。
+tom was upset .	トムは動揺していた 。
+tom went pale .	トムは青くなった 。
+tom will obey .	トムは従うだろう 。
+tom will swim .	トムは泳ぎます 。
+tom won't eat .	トムは食べません 。
+tom's adopted .	トムスを採用しました 。
+tom's arrived .	トムが到着しました 。
+tom's cooking .	トムの料理 。
+tom's excited .	トムは興奮しています 。
+tom's healthy .	トムは健康です 。
+tom's helping .	トムが手伝ってくれます 。
+tom's married .	トムは結婚しています 。
+tom's packing .	トムスの梱包 。
+tom's unarmed .	トムは丸腰だ 。
+tom's violent .	トムは暴力的だ 。
+tom's working .	トムは働いています 。
+tom's wounded .	トムは負傷した 。
+try this cake .	このケーキを試してみてください 。
+try to resist .	抵抗してみてください 。
+turn the page .	ページをめくってください 。
+wait a minute .	ちょっと待って 。
+wait a second .	ちょっと待ってください 。
+wait till six .	6時まで待ってください 。
+wake the kids .	子供たちを起こしてください 。
+walk this way .	この道を歩いてください 。
+was i snoring ?	私はいびきをかいてましたか ？
+was tom there ?	トムはそこにいましたか ？
+was it a joke ?	冗談だったのか ？
+was that a no ?	それはノーでしたか ？
+watch closely .	注意深く観察してください 。
+watch my back .	私の背中を見守ってください 。
+water , please .	お水をください 。
+wax the floor .	床にワックスをかけます 。
+we admire you .	私たちはあなたを尊敬します 。
+we all agreed .	私たちは全員同意しました 。
+we all change .	私たちは皆変わります 。
+we are at war .	私たちは戦争中です 。
+we are doomed .	私たちは運命にあります 。
+we can try it .	試してみることができます 。
+we can't fail .	私たちは失敗できません 。
+we can't lose .	私たちは負けられません 。
+we caught you .	私たちはあなたを捕まえました 。
+we could read .	読むことができました 。
+we could wait .	待ってもいいでしょう 。
+we could walk .	歩けました 。
+we don't know .	私たちには分かりません 。
+we had a deal .	私たちは取引をしました 。
+we have a car .	私たちは車を持っています 。
+we have plans .	計画があります 。
+we have rules .	私たちにはルールがあります 。
+we have to go .	私たちは行かなければなりません 。
+we kept quiet .	私たちは黙っていました 。
+we meant well .	良い意味でした 。
+we met before .	私たちは前に会った 。
+we missed you .	あなたがいなくて寂しかったです 。
+we must check .	確認しなければなりません 。
+we must focus .	私たちは集中しなければなりません 。
+we must hurry .	急がなければなりません 。
+we must leave .	私たちは出発しなければなりません 。
+we must speak .	私たちは話さなければなりません 。
+we need a car .	車が必要です 。
+we need a map .	地図が必要です 。
+we need money .	お金が必要です 。
+we need proof .	証拠が必要です 。
+we need rules .	ルールが必要です 。
+we need sleep .	睡眠が必要です 。
+we need to go .	私たちは行かなければなりません 。
+we need tools .	道具が必要です 。
+we need water .	水が必要です 。
+we never lose .	私たちは決して負けません 。
+we should eat .	食べるべきです 。
+we took a cab .	私たちはタクシーに乗りました 。
+we understand .	分かりました 。
+we want candy .	私たちはキャンディーが欲しいです 。
+we want peace .	私たちは平和を望んでいます 。
+we want to go .	私たちは行きたいです 。
+we wanted you .	私たちはあなたが欲しかったのです 。
+we were alone .	私たちは一人でした 。
+we were bored .	私たちは退屈していました 。
+we were close .	私たちは近くにいました 。
+we were lucky .	私たちは幸運でした 。
+we were right .	私たちは正しかった 。
+we were there .	私たちはそこにいました 。
+we will fight .	私たちは戦います 。
+we wonder why .	なぜだろうと不思議に思います 。
+we'll all die .	私たちは皆死ぬでしょう 。
+we'll both go .	二人とも行きます 。
+we'll explain .	説明します 。
+we'll find it .	私たちが見つけます 。
+we'll rebuild .	再構築します 。
+we'll respond .	対応させていただきます 。
+we'll succeed .	私たちは成功します 。
+we'll survive .	私たちは生き残るでしょう 。
+we're a group .	私たちはグループです 。
+we're anxious .	私たちは不安です 。
+we're ashamed .	私たちは恥ずかしいです 。
+we're baffled .	私たちは当惑しています 。
+we're careful .	私たちは気をつけています 。
+we're certain .	私たちは確信しています 。
+we're cousins .	私たちはいとこです 。
+we're dancing .	私たちは踊っています 。
+we're dieting .	私たちはダイエット中です 。
+we're doctors .	私たちは医者です 。
+we're enemies .	私たちは敵だ 。
+we're engaged .	私たちは婚約しています 。
+we're fasting .	私たちは断食中です 。
+we're friends .	私たちは友達です 。
+we're in love .	私たちは恋をしています 。
+we're in luck .	私たちは幸運です 。
+we're in pain .	私たちは苦しんでいます 。
+we're in sync .	私たちは同期しています 。
+we're in town .	私たちは町にいます 。
+we're jealous .	私たちは羨ましいです 。
+we're kidding .	冗談だよ 。
+we're leaving .	私たちは出発します 。
+we're married .	私たちは結婚しています 。
+we're not fit .	私たちは適していない 。
+we're not mad .	私たちは怒っていません 。
+we're not old .	私たちは年を取っていません 。
+we're reading .	私たちは読んでいます 。
+we're relaxed .	私たちはリラックスしています 。
+we're serious .	私たちは真剣です 。
+we're shocked .	私たちはショックを受けています 。
+we're sincere .	私たちは誠実です 。
+we're sinking .	私たちは沈んでいます 。
+we're sloshed .	私たちはスロッシュです 。
+we're smashed .	私たちは打ちのめされました 。
+we're special .	私たちは特別です 。
+we're stalled .	私たちは行き詰まっています 。
+we're starved .	私たちは飢えています 。
+we're staying .	私たちは滞在しています 。
+we're stuffed .	私たちはお腹がいっぱいです 。
+we're stunned .	私たちはびっくりしています 。
+we're through .	私たちは終わった 。
+we're too old .	私たちは年をとりすぎています 。
+we're touched .	私たちは感動しています 。
+we're trapped !	私たちは閉じ込められてしまった ！
+we're trapped .	私たちは閉じ込められてしまった 。
+we're unhappy .	私たちは不幸です 。
+we're unlucky .	私たちは不運です 。
+we're useless .	私たちは役に立たない 。
+we're waiting .	待っています 。
+we're wealthy .	私たちは裕福です 。
+we're winners .	私たちは勝者です 。
+we're winning .	私たちは勝っています 。
+we're working .	私たちは働いています 。
+we're worried .	私たちは心配しています 。
+we've arrived .	到着しました 。
+we've no time .	時間がない 。
+we've refused .	私たちは拒否しました 。
+we've seen it .	私たちはそれを見てきました 。
+were you busy ?	忙しかったですか ？
+were you hurt ?	怪我をしましたか ？
+were you shot ?	撃たれたの ？
+what a bummer !	なんて残念なことでしょう ！
+what a fiasco !	何という大失敗だ ！
+what a hassle !	なんと面倒なことでしょう ！
+what a relief !	なんという安堵でしょう ！
+what a scream !	何という叫び声でしょう ！
+what about us ?	私たちについてはどうですか ？
+what an idiot !	なんというバカだ ！
+what did i do ?	私は何をしましたか ？
+what do i get ?	何が得られますか ？
+what happened ?	どうしたの ？
+what is a ufo ?	UFOとは何ですか ？
+what'll we do ?	何をしましょうか ？
+what's inside ?	中には何があるの ？
+when was that ?	それはいつでしたか ？
+where are you ?	どこにいるの ？
+where were we ?	私たちはどこにいたの ？
+which is mine ?	どれが私のものですか ？
+who hates you ?	誰があなたを嫌っていますか ？
+who helps her ?	誰が彼女を助けますか ？
+who hired you ?	誰があなたを雇ったのですか ？
+who is absent ?	誰が欠席していますか ？
+who is hungry ?	誰がお腹が空いていますか ？
+who said that ?	誰がそんなこと言ったの ？
+who says that ?	誰がそんなこと言うの ？
+who wants tea ?	誰がお茶が欲しいですか ？
+who washed it ?	誰が洗ったんですか ？
+who won today ?	今日は誰が勝ちましたか ？
+who's at home ?	誰が家にいるの ？
+who's dieting ?	誰がダイエットしてるの ？
+who's driving ?	誰が運転していますか ？
+who's talking ?	誰が話しているのですか ？
+who's winning ?	誰が勝ってますか ？
+who's with me ?	誰が私と一緒にいるの ？
+whose is this ?	これは誰ですか ？
+will she come ?	彼女は来ますか ？
+you all right ?	大丈夫ですか ？
+you are crazy .	あなたは狂っている 。
+you are drunk !	あなたは酔っています ！
+you are early .	早いですね 。
+you are lying .	あなたは嘘をついています 。
+you are wrong .	あなたは間違っている 。
+you can do it .	できますよ 。
+you have mail .	メールがあります 。
+you look busy .	忙しそうですね 。
+you look fine .	元気そうだね 。
+you look pale .	あなたは青白く見えます 。
+you look sick .	あなたは病気のようです 。
+you must come .	必ず来てください 。
+you must rest .	休まなければなりません 。
+you must stay .	あなたは留まらなければなりません 。
+you need this .	これが必要です 。
+you needed me .	あなたには私が必要でした 。
+you seem busy .	忙しそうですね 。
+you should go .	行くべきです 。
+you stay here .	あなたはここにいてください 。
+you want this ?	これが欲しいですか ？
+you were mine .	あなたは私のものでした 。
+you work hard .	頑張ってね 。
+you'd love it .	気に入っていただけると思います 。
+you'll go far .	あなたは遠くへ行くでしょう 。
+you're a doll !	あなたは人形ですよ ！
+you're a liar .	あなたは嘘つきです 。
+you're a nerd .	あなたはオタクです 。
+you're a slob .	あなたはだらしない人です 。
+you're a snob .	あなたは俗物です 。
+you're a star .	あなたはスターです 。
+you're biased .	あなたは偏見を持っています 。
+you're boring .	あなたは退屈です 。
+you're bright .	あなたは明るいですね 。
+you're clever .	あなたは賢いですね 。
+you're crafty .	あなたはずるいです 。
+you're creepy .	あなたは不気味だ 。
+you're famous .	あなたは有名です 。
+you're greedy .	あなたは貪欲ですね 。
+you're grumpy .	あなたは不機嫌です 。
+you're insane .	あなたは正気じゃない 。
+you're joking !	冗談だよ ！
+you're loaded .	ロードされました 。
+you're losing .	あなたは負けています 。
+you're no fun .	あなたは面白くないよ 。
+you're pretty .	あなたはきれいですね 。
+you're single .	あなたは独身です 。
+you're skinny .	あなたは痩せていますね 。
+you're sleepy .	眠いですよ 。
+you're sneaky .	あなたは卑劣です 。
+you're stupid .	あなたは愚かです 。
+you're unfair .	あなたは不公平です 。
+you've failed .	あなたは失敗しました 。
+a beer , please .	ビールをください 。
+a coke , please .	コーラをください 。
+act like a man .	男らしく行動する 。
+ain't she cute ?	彼女はかわいくないですか ？
+allow me to go .	行かせてください 。
+am i intruding ?	私は侵入していますか ？
+am i not right ?	私は間違っていますか ？
+am i qualified ?	私には資格がありますか ？
+apples are red .	リンゴは赤いです 。
+are there kids ?	子供はいますか ？
+are we friends ?	私たちは友達ですか ？
+are we leaving ?	私たちは出発しますか ？
+are we sinking ?	私たちは沈んでいますか ？
+are you afraid ?	怖いですか ？
+are you coming ?	来ますか ？
+are you crying ?	泣いていますか ？
+are you famous ?	あなたは有名ですか ？
+are you hiring ?	雇用していますか ？
+are you honest ?	あなたは正直ですか ？
+are you hungry ?	お腹がすきましたか ？
+are you insane ?	あなたは正気ですか ？
+are you joking ?	冗談ですか ？
+are you lonely ?	寂しいですか ？
+are you single ?	あなたは独身ですか ？
+are you sleepy ?	眠いですか ？
+aren't you hot ?	暑くないですか ？
+autumn is here .	秋がやって来ました 。
+be a good girl .	良い子になってね 。
+be nice to her .	彼女に優しくしてください 。
+blow your nose .	鼻をかむ 。
+boats can sink .	ボートは沈む可能性があります 。
+both are alive .	両方とも生きています 。
+bring a camera .	カメラを持ってきてください 。
+bring a shovel .	シャベルを持ってきてください 。
+bring it to me .	それを私に持ってきてください 。
+bring the kids .	子供たちを連れてきてください 。
+buy him a beer .	彼にビールを買ってください 。
+buy me a drink .	飲み物を買ってください 。
+call a plumber .	配管工に電話してください 。
+can i eat that ?	それを食べてもいいですか ？
+can i eat this ?	これを食べてもいいですか ？
+can i go first ?	先に行ってもいいですか ？
+can i have one ?	一つもらえますか ？
+can i help you ?	いかがなさいましたか ？
+can i join you ?	参加してもいいですか ？
+can i kiss you ?	キスしてもいいですか ？
+can i see that ?	それが見えますか ？
+can i see this ?	これを見てもいいですか ？
+can i see , too ?	私も見てもいいですか ？
+can i sit down ?	座ってもいいですか ？
+can i sit here ?	ここに座ってもいいですか ？
+can i touch it ?	触ってもいいですか ？
+can tom see us ?	トムには私たちが見えますか ？
+can we come in ?	入ってもいいですか ？
+can you cancel ?	キャンセルできますか ？
+can you juggle ?	ジャグリングできますか ？
+can you see it ?	見えますか ？
+cash is better .	現金の方が良いです 。
+catch the ball .	ボールをキャッチします 。
+cats are smart .	猫は賢い 。
+change is good .	変化は良いです 。
+check that out .	それをチェックしてください 。
+check this out .	これをチェックしてください 。
+close the door .	ドアを閉める 。
+close the gate .	ゲートを閉めてください 。
+coffee , please .	コーヒーをください 。
+come back here .	ここに戻ってください 。
+come back home .	家に帰ってください 。
+come back soon .	すぐに戻ってきてください 。
+come down here .	ここに来てください 。
+contact my son .	息子に連絡してください 。
+cows eat grass .	牛は草を食べます 。
+cows give milk .	牛はミルクを与えます 。
+cut it in half .	それを半分に切ります 。
+did i break it ?	私が壊したの ？
+did i hurt you ?	私はあなたを傷つけましたか ？
+did i say that ?	私がそれを言いましたか ？
+did i wake you ?	私があなたを起こしましたか ？
+did tom buy it ?	トムはそれを買いましたか ?
+did she say it ?	彼女はそれを言いましたか ？
+did you forget ?	忘れましたか ？
+did you get it ?	分かりましたか ？
+did you go out ?	出かけましたか ？
+did you say 30 ?	30って言いましたか ？
+did you see it ?	見ましたか ？
+dinner's ready .	夕食の準備ができました 。
+do i annoy you ?	私はあなたを困らせていますか ？
+do i need this ?	これは必要ですか ？
+do as you like .	好きなようにしてください 。
+do as you want .	好きなようにしてください 。
+do it this way .	このようにしてください 。
+do it tomorrow .	明日やろう 。
+do it yourself .	自分でやってください 。
+do not do that .	そんなことはしないでください 。
+do tigers purr ?	トラは喉を鳴らしますか ？
+do we know you ?	私たちはあなたを知っていますか ？
+do you deny it ?	あなたはそれを否定しますか ？
+do you hate me ?	私が嫌いですか ？
+do you hear me ?	聞こえますか ？
+do you know me ?	あなたは私を知っていますか ？
+do you know us ?	私たちを知っていますか ？
+do you like it ?	あなたはそれが好きですか ？
+do you love me ?	あなたは私を愛していますか ？
+do you mean us ?	私たちのことですか ？
+do you miss it ?	懐かしいですか ？
+do you promise ?	約束しますか ？
+do you read me ?	私のことを読んでいますか ？
+do you recycle ?	リサイクルしますか ？
+does tom drink ?	トムは飲みますか ？
+does tom smoke ?	トムはタバコを吸いますか ？
+does it matter ?	関係ありますか ？
+does this hurt ?	これは痛いですか ？
+dogs are smart .	犬は賢いです 。
+don't be angry .	怒らないでください 。
+don't be crazy .	おかしくないでください 。
+don't be crude .	粗暴なことはしないでください 。
+don't be naive .	ナイーブにならないでください 。
+don't be silly .	ふざけるなよ 。
+don't be sorry .	ごめんなさい 。
+don't be upset .	動揺しないでください 。
+don't blame me .	私を責めないでください 。
+don't buy that .	それは買わないでください 。
+don't complain .	文句を言わないでください 。
+don't fall off !	落ちないでください ！
+don't force it .	無理強いしないでください 。
+don't judge me .	勝手に決めつけないで 。
+don't leave me .	置いていかないでください 。
+don't leave us .	私たちを置いて行かないでください 。
+don't mind her .	彼女は気にしないでください 。
+don't obey him .	彼に従わないでください 。
+don't run here .	ここで走らないでください 。
+don't say that .	そんなことは言わないでください 。
+don't show off .	見せびらかさないでください 。
+don't stand up .	立ち上がらないでください 。
+don't stop him .	彼を止めないでください 。
+don't tease me .	私をからかわないでください 。
+don't tempt me .	私を誘惑しないでください 。
+don't touch it .	触らないでください 。
+don't touch me !	触らないでください ！
+don't touch me .	触らないでください 。
+don't you care ?	気にしませんか ？
+drink some tea .	お茶を飲みましょう 。
+drop me a line .	連絡してください 。
+eat everything .	全部食べる 。
+eat more fruit .	もっと果物を食べてください 。
+empty your bag .	バッグを空にしてください 。
+enjoy the game .	ゲームをお楽しみください 。
+enjoy the show .	ショーをお楽しみください 。
+enjoy your day .	一日をお楽しみください 。
+enter the room .	部屋に入ります 。
+everybody knew .	誰もが知っていました 。
+everybody left .	全員が去りました 。
+everybody lies .	誰もが嘘をつきます 。
+everybody paid .	誰もが支払いました 。
+everyone gasps .	誰もが息を呑む 。
+everyone's out .	みんな外出中 。
+fight like men .	男らしく戦う 。
+fishing is fun .	釣りは楽しいです 。
+form two lines .	2列を形成します 。
+get in the car .	車に乗ります 。
+get in the van .	バンに乗ります 。
+get off my car .	私の車から降りてください 。
+get on a horse .	馬に乗ります 。
+get on the bus .	バスに乗ります 。
+get on with it .	それをやってください 。
+get out of bed !	ベッドから出てください ！
+get out of bed .	ベッドから出てください 。
+get rid of her .	彼女を追い出しなさい 。
+get some sleep .	少し寝てください 。
+get the camera .	カメラを手に入れてください 。
+give him a hug .	彼を抱きしめてください 。
+give it a shot .	試してみてください 。
+give it to her .	それを彼女にあげてください 。
+give it to him .	それを彼にあげてください 。
+give me a beer .	ビールをください 。
+give me a hand .	手を貸してください 。
+give me a hint .	ヒントをください 。
+give me a kiss .	キスをしてください 。
+give me a week .	一週間ください 。
+go back to bed .	ベッドに戻ってください 。
+go get changed .	着替えに行ってください 。
+go look for it .	探しに行ってください 。
+go right ahead .	すぐに行ってください 。
+go take a walk .	散歩に行ってください 。
+go to the park .	公園に行きます 。
+good afternoon .	こんにちは 。
+grab your gear .	ギアを手に取りましょう 。
+guess who i am .	私が誰なのか推測してください 。
+hand me my mug .	私のマグカップを渡してください 。
+happy new year !	あけましておめでとう ！
+happy birthday !	お誕生日おめでとう ！
+happy holidays .	楽しい休暇を過ごしてください 。
+have you eaten ?	食べましたか ？
+have you slept ?	寝ましたか ？
+he almost died .	彼は危うく死にそうになった 。
+he also saw it .	彼もそれを見ました 。
+he asked me to .	彼は私にこう頼んだ 。
+he became rich .	彼は金持ちになった 。
+he bit his lip .	彼は唇を噛んだ 。
+he came by bus .	彼はバスで来ました 。
+he came by car .	彼は車で来ました 。
+he can't count .	彼は数えられない 。
+he can't do it .	彼にはそれができない 。
+he can't drive .	彼は運転できません 。
+he cannot swim .	彼は泳げません 。
+he could do it .	彼ならそれができるだろう 。
+he counts fast .	彼は数を数えるのが速い 。
+he deserved it .	彼はそれに値する 。
+he dislikes me .	彼は私が嫌いです 。
+he doesn't lie .	彼は嘘をつきません 。
+he doesn't tan .	彼は日焼けしません 。
+he felt uneasy .	彼は不安を感じた 。
+he flew a kite .	彼は凧を揚げた 。
+he gazed at me .	彼は私を見つめた 。
+he got the job .	彼はその仕事に就いた 。
+he has a beard .	彼はひげを生やしています 。
+he has a lunch .	彼は昼食を食べています 。
+he has a point .	彼の言うことは一理ある 。
+he has a video .	彼はビデオを持っています 。
+he has changed .	彼は変わってしまった 。
+he has left us .	彼は私たちのもとを去りました 。
+he has no fear .	彼には恐れがありません 。
+he has to come .	彼は来なければなりません 。
+he hated lying .	彼は嘘が大嫌いだった 。
+he is american .	彼はアメリカ人です 。
+he is canadian .	彼はカナダ人です 。
+he is japanese .	彼は日本人です 。
+he is a doctor .	彼は医者です 。
+he is a genius .	彼は天才です 。
+he is a writer .	彼は作家です 。
+he is an actor .	彼は俳優です 。
+he is bankrupt .	彼は破産しました 。
+he is in tokyo .	彼は東京にいます 。
+he is my uncle .	彼は私の叔父です 。
+he is outgoing .	彼は社交的です 。
+he is powerful .	彼は力強いです 。
+he is well off .	彼は裕福です 。
+he keeps a cat .	彼は猫を飼っています 。
+he lay face up .	彼は仰向けに横たわった 。
+he likes jelly .	彼はゼリーが好きです 。
+he likes money .	彼はお金が好きです 。
+he lives alone .	彼は一人で住んでいます 。
+he looked back .	彼は振り返った 。
+he looked well .	彼はよく見えた 。
+he looks tired .	彼は疲れているようだ 。
+he looks young .	彼は若く見えます 。
+he lost a book .	彼は本をなくしました 。
+he loves music .	彼は音楽が大好きです 。
+he makes sense .	彼の言うことは理にかなっている 。
+he needs money .	彼はお金が必要です 。
+he owes me one .	彼は私に借りがあります 。
+he passed away .	彼は亡くなりました 。
+he respects me .	彼は私を尊敬しています 。
+he sang a song .	彼は歌を歌いました 。
+he saw it also .	彼もそれを見ました 。
+he saw it , too .	彼もそれを見ました 。
+he scolded her .	彼は彼女を叱った 。
+he seems angry .	彼は怒っているようだ 。
+he seems happy .	彼は幸せそうだ 。
+he seems tired .	彼は疲れているようだ 。
+he sells fruit .	彼は果物を売っています 。
+he should come .	彼は来るはずだ 。
+he slapped her .	彼は彼女を平手打ちした 。
+he sold us out .	彼は私たちを売り飛ばした 。
+he surrendered .	彼は降伏した 。
+he talks a lot .	彼はよく話します 。
+he trusted you .	彼はあなたを信頼していました 。
+he walked away .	彼は立ち去った 。
+he wants to go .	彼は行きたいと思っています 。
+he was english .	彼はイギリス人でした 。
+he was in pain .	彼は苦しんでいた 。
+he was invited .	彼は招待されました 。
+he was panting .	彼は喘いでいた 。
+he was patient .	彼は我慢強かった 。
+he was perfect .	彼は完璧でした 。
+he was stunned .	彼は驚いた 。
+he went skiing .	彼はスキーに行きました 。
+he went to bed .	彼は寝ました 。
+he will not go .	彼は行かないでしょう 。
+he worked hard .	彼は一生懸命働きました 。
+he works a lot .	彼はよく働きます 。
+he's a big boy .	彼は大きな男の子だ 。
+he's a bit shy .	彼は少し恥ずかしがり屋です 。
+he's a gambler .	彼はギャンブラーです 。
+he's a man now .	彼は今では男です 。
+he's a slacker .	彼は怠け者だ 。
+he's all right .	彼は大丈夫です 。
+he's an author .	彼は作家です 。
+he's an ex-con .	彼は前科者です 。
+he's an outlaw .	彼は無法者だ 。
+he's depressed .	彼は落ち込んでいます 。
+he's henpecked .	彼は困っています 。
+he's in danger .	彼は危険にさらされている 。
+he's in prison .	彼は刑務所にいる 。
+he's not going .	彼は行かないよ 。
+he's not ready .	彼は準備ができていない 。
+he's so stupid .	彼はとても愚かだ 。
+he's too drunk .	彼は酔っぱらっている 。
+he's very open .	彼はとてもオープンです 。
+hello everyone !	こんにちは、みんな ！
+here comes tom .	トムが来ました 。
+here is a book .	ここに本があります 。
+here is my key .	ここに私の鍵があります 。
+here she comes .	彼女が来ました 。
+here's my room .	ここが私の部屋です 。
+hey , what's up ?	やぁ、何やってんの ？
+hi ! what's new ?	こんにちは ！新着情報 ？
+hide the money .	お金を隠してください 。
+his head ached .	彼の頭は痛かった 。
+his name's tom .	彼の名前はトムです 。
+how can i help ?	どうすれば助けられますか ？
+how can i lose ?	どうやって負けるの ？
+how deep is it ?	深さはどれくらいですか ？
+how did i look ?	私はどう見えましたか ？
+how did it end ?	どうやって終わりましたか ？
+how did you do ?	どうしましたか ？
+how good is he ?	彼はどれくらい上手ですか ？
+how high is it ?	どのくらい高いですか ？
+how long is it ?	どれくらいですか ？
+how much is it ?	いくらですか ？
+how old is tom ?	トムは何歳ですか ？
+how tall is he ?	彼の身長はどれくらいですか ?
+how was boston ?	ボストンはどうでしたか ？
+how wide is it ?	どのくらい広いですか ？
+how's it going ?	調子はどう ？
+how's your job ?	仕事はどうですか ？
+hurry up , guys .	急いでください 。
+i already know .	私はすでに知っています 。
+i am hungarian .	私はハンガリー人です 。
+i am a shy boy .	私は内気な男の子です 。
+i am a student .	私は学生です 。
+i am a teacher .	私は教師です 。
+i am a tourist .	私は観光客です 。
+i am an artist .	私は芸術家です 。
+i am exhausted .	私は疲れ果てています 。
+i am in london .	私はロンドンにいます 。
+i am in a spot .	私は現場にいる 。
+i am not happy .	私は幸せではありません 。
+i am off today .	今日は休みです 。
+i am too short .	私は短すぎます 。
+i am very tall .	私はとても背が高いです 。
+i ate a banana .	バナナを食べました 。
+i ate too much .	食べすぎました 。
+i believe that .	私はそれを信じています 。
+i believed you .	私はあなたを信じていました 。
+i bike to work .	私は自転車で通勤しています 。
+i borrow money .	お金を借ります 。
+i bought a hat .	帽子を買いました 。
+i broke a nail .	爪を折ってしまいました 。
+i broke my arm .	腕を骨折してしまいました 。
+i broke my leg .	足を骨折してしまいました 。
+i brought mine .	私は私のものを持ってきました 。
+i brought wine .	ワインを持ってきました 。
+i called ahead .	先に電話しました 。
+i came for you .	私はあなたのために来ました 。
+i can hear tom .	トムの声が聞こえる 。
+i can hear you .	聞こえますよ 。
+i can help tom .	トムを手伝うことができます 。
+i can help you .	お手伝いしましょう 。
+i can prove it .	私はそれを証明できます 。
+i can't get in .	入れません 。
+i can't go out .	外出できない 。
+i can't see it .	見えない 。
+i can't use it .	使えません 。
+i changed that .	私はそれを変更しました 。
+i corrected it .	修正しました 。
+i cut the rope .	私はロープを切りました 。
+i decorated it .	飾りました 。
+i deserve that .	私はそれに値する 。
+i deserve this .	私はこれに値する 。
+i did have fun .	楽しかったです 。
+i did warn you .	私はあなたに警告しました 。
+i didn't argue .	私は議論しませんでした 。
+i didn't cheat .	私は騙しませんでした 。
+i didn't do it .	私はしませんでした 。
+i didn't drive .	私は運転しませんでした 。
+i didn't flunk .	私は失敗しませんでした 。
+i didn't laugh .	笑わなかった 。
+i didn't sleep .	寝ませんでした 。
+i didn't speak .	私は話さなかった 。
+i dislike eggs .	私は卵が嫌いです 。
+i do apologize .	お詫び申し上げます 。
+i do know that .	それは知っています 。
+i don't belong .	私は属していません 。
+i don't follow .	フォローしません 。
+i don't gamble .	私はギャンブルはしません 。
+i don't get it .	理解できません 。
+i don't gossip .	私は噂話をしません 。
+i drank a beer .	ビールを飲みました 。
+i enjoy movies .	私は映画が好きです 。
+i fed the pigs .	私は豚に餌をあげました 。
+i feel ashamed .	恥ずかしいです 。
+i feel blessed .	恵まれていると感じます 。
+i feel for you .	私はあなたのことを思っています 。
+i feel honored .	光栄に思います 。
+i feel nothing .	何も感じません 。
+i feel so cold .	とても寒く感じます 。
+i feel strange .	変な気がする 。
+i feel trapped .	閉じ込められているように感じます 。
+i feel useless .	無駄だと感じます 。
+i fell in love .	私は恋に落ちた 。
+i felt cheated .	だまされたと感じました 。
+i felt excited .	興奮しました 。
+i followed him .	私は彼を追った 。
+i followed you .	あなたをフォローしました 。
+i gave it away .	私はそれをあげました 。
+i gave it back .	返しました 。
+i gave my word .	私は言葉を尽くしました 。
+i gave up hope .	私は希望を捨てました 。
+i get off here .	ここで降ります 。
+i get the idea .	分かりました 。
+i get up early .	私は早起きします 。
+i give my word .	私は言葉を尽くします 。
+i go to school .	私は学校に行きます 。
+i got a suntan .	日焼けしてしまいました 。
+i got arrested .	私は逮捕されました 。
+i got confused .	混乱してしまいました 。
+i got divorced .	私は離婚しました 。
+i got expelled .	私は追放されました 。
+i got nauseous .	吐き気がした 。
+i grew up here .	私はここで育ちました 。
+i guarantee it .	私が保証します 。
+i had a mishap .	事故を起こしてしまいました 。
+i had a stroke .	脳卒中を患いました 。
+i had a vision .	私にはビジョンがありました 。
+i had fun here .	ここは楽しかったです 。
+i had some fun .	楽しかったです 。
+i had to do it .	やらなければならなかった 。
+i hate mondays .	私は月曜日が嫌いです 。
+i hate sundays .	私は日曜日が嫌いです 。
+i hate dancing .	私はダンスが嫌いです 。
+i hate dieting .	私はダイエットが嫌いです 。
+i hate driving .	私は運転が嫌いです 。
+i hate her now .	今では彼女が大嫌いです 。
+i hate insects .	私は虫が嫌いです 。
+i hate ironing .	私はアイロンがけが嫌いです 。
+i hate it here .	ここは嫌いだ 。
+i hate karaoke .	私はカラオケが嫌いです 。
+i hate lawyers .	私は弁護士が嫌いです 。
+i hate my boss .	私は上司が嫌いです 。
+i hate my life .	私は自分の人生が嫌いです 。
+i hate parties .	私はパーティーが嫌いです 。
+i hate secrets .	私は秘密が嫌いです 。
+i hate spiders .	私はクモが嫌いです 。
+i hate spinach .	私はほうれん草が嫌いです 。
+i hate to iron .	私はアイロンをかけるのが嫌いです 。
+i hate to lose .	私は負けるのが嫌いです 。
+i hate to wait .	私は待つのが嫌いです 。
+i hate working .	私は働くのが嫌いです 。
+i hate zealots .	私は狂信者が嫌いです 。
+i hated school .	学校が嫌いでした 。
+i have a dream .	私には夢があります 。
+i have a horse .	私は馬を飼っています 。
+i have a ranch .	私は牧場を持っています 。
+i have a table .	私はテーブルを持っています 。
+i have a truck .	私はトラックを持っています 。
+i have amnesia .	私は健忘症です 。
+i have an idea .	アイデアがある 。
+i have hiccups .	しゃっくりがある 。
+i have no clue .	見当もつきません 。
+i have no food .	食べ物がない 。
+i have no idea .	わからない 。
+i have no kids .	私には子供がいません 。
+i have no time .	時間がありません 。
+i have nothing .	私には何もない 。
+i have sisters .	私には姉妹がいます 。
+i have the flu .	インフルエンザにかかっています 。
+i have the key .	私は鍵を持っています 。
+i have to stop .	やめなければなりません 。
+i have to wait .	待たなければなりません 。
+i heard a thud .	ドスンという音が聞こえました 。
+i heard voices .	声が聞こえました 。
+i hiccup a lot .	しゃっくりをよくします 。
+i hurried home .	私は急いで家に帰りました 。
+i hurt my foot .	足を痛めました 。
+i just gave up .	私はただあきらめました 。
+i just guessed .	私はただ推測しました 。
+i just met him .	彼に会ったばかりです 。
+i keep a diary .	私は日記をつけています 。
+i keep my word .	私は約束を守ります 。
+i kept my word .	私は約束を守りました 。
+i kept singing .	私は歌い続けました 。
+i know the boy .	私はその少年を知っています 。
+i left my wife .	私は妻と別れました 。
+i left on time .	私は時間通りに出発しました 。
+i let you down .	私はあなたを失望させました 。
+i like english .	私は英語が好きです 。
+i like castles .	私はお城が好きです 。
+i like cookies .	私はクッキーが好きです 。
+i like cooking .	私は料理が好きです 。
+i like fishing .	私は釣りが好きです 。
+i like flowers .	私は花が好きです 。
+i like history .	私は歴史が好きです 。
+i like jogging .	私はジョギングが好きです 。
+i like lobster .	ロブスターが好きです 。
+i like mahjong .	私は麻雀が好きです 。
+i like my life .	私は自分の人生が好きです 。
+i like oysters .	私は牡蠣が好きです 。
+i like picnics .	私はピクニックが好きです 。
+i like puzzles .	私はパズルが好きです 。
+i like reading .	私は読書が好きです 。
+i like running .	私は走るのが好きです 。
+i like sashimi .	私は刺身が好きです 。
+i like seafood .	私はシーフードが好きです 。
+i like singing .	私は歌うのが好きです 。
+i like stories .	私は物語が好きです 。
+i like talking .	私は話すのが好きです 。
+i like to sing .	私は歌うのが好きです 。
+i like to swim .	私は泳ぐのが好きです 。
+i like to talk .	私は話すのが好きです 。
+i like turtles .	私はカメが好きです 。
+i like walking .	私は歩くのが好きです 。
+i like working .	私は働くのが好きです 。
+i lit the fire .	私は火をつけました 。
+i lit the oven .	オーブンに火をつけました 。
+i live in kobe .	私は神戸に住んでいます 。
+i live in town .	私は町に住んでいます 。
+i live upstate .	私は北部に住んでいます 。
+i lost control .	コントロールを失った 。
+i lost my keys .	カギをなくした 。
+i lost the bet .	賭けに負けました 。
+i love animals .	私は動物が大好きです 。
+i love bananas .	私はバナナが大好きです 。
+i love cookies .	私はクッキーが大好きです 。
+i love cooking .	私は料理が大好きです 。
+i love flowers .	私は花が大好きです 。
+i love it here .	ここが大好きです 。
+i love lasagna .	私はラザニアが大好きです 。
+i love my home .	私は自分の家が大好きです 。
+i love my kids .	私は子供たちを愛しています 。
+i love my life .	私は自分の人生を愛しています 。
+i love my work .	私は自分の仕事が大好きです 。
+i love parties .	私はパーティーが大好きです 。
+i love puzzles .	私はパズルが大好きです 。
+i love reading .	私は読書が大好きです 。
+i love secrets .	私は秘密が大好きです 。
+i love sunsets .	私は夕日が大好きです 。
+i love the sun .	私は太陽が大好きです 。
+i love to cook .	私は料理するのが大好きです 。
+i love to read .	私は読書が大好きです 。
+i love to swim .	私は泳ぐのが大好きです 。
+i love winning .	私は勝つことが大好きです 。
+i love you all .	私はみんなを愛しています 。
+i made cookies .	クッキーを作りました 。
+i made her cry .	彼女を泣かせてしまった 。
+i made him cry .	私は彼を泣かせてしまった 。
+i made muffins .	マフィンを作りました 。
+i may be wrong .	私は間違っているかもしれません 。
+i mean no harm .	つまり害はありません 。
+i met a friend .	友達に会った 。
+i met him once .	一度彼に会ったことがあります 。
+i miss college .	大学が恋しいです 。
+i missed a lot .	たくさん見逃した 。
+i must buy one .	買わなければなりません 。
+i must decline .	断らなければなりません 。
+i must protest .	抗議しなければなりません 。
+i must see you .	会わなければなりません 。
+i need a break .	休憩が必要です 。
+i need a drink .	飲み物が必要です 。
+i need a favor .	お願いがあります 。
+i need a knife .	ナイフが必要です 。
+i need a raise .	昇給が必要です 。
+i need a snack .	おやつが必要です 。
+i need a stamp .	切手が要ります 。
+i need answers .	答えが必要です 。
+i need friends .	友達が必要です 。
+i need it asap .	できるだけ早く必要です 。
+i need support .	サポートが必要です 。
+i need surgery .	手術が必要です 。
+i need to know .	知る必要があります 。
+i need to stop .	やめなければなりません 。
+i need you now .	私は今あなたを必要とする 。
+i needed money .	お金が必要だった 。
+i never go out .	私は決して外出しません 。
+i noticed that .	私はそれに気づきました 。
+i often hiccup .	私はよくしゃっくりをします 。
+i often travel .	私はよく旅行します 。
+i owe him $100 .	私は彼に100ドル借りています 。
+i own this car .	私はこの車を所有しています 。
+i paid in cash .	私は現金で支払いました 。
+i paid nothing .	私は何も支払いませんでした 。
+i painted that .	私はそれを描きました 。
+i plead guilty .	私は有罪を認めます 。
+i predicted it .	私はそれを予測しました 。
+i promised tom .	トムと約束したよ 。
+i quit smoking .	私は喫煙をやめました 。
+i raise cattle .	私は牛を育てています 。
+i ran upstairs .	私は二階に駆け上がりました 。
+i realize that .	私はそれを認識しています 。
+i really tried .	本当に試してみました 。
+i remember her .	彼女のことを覚えています 。
+i remember now .	今思い出しました 。
+i remember you .	私はあなたのことを覚えています 。
+i said get out .	私は出て行けと言った 。
+i said not now .	私は今はダメだと言いました 。
+i said nothing .	私は何も言いませんでした 。
+i said shut up !	私は黙って言った ！
+i saw her home .	彼女の家を見ました 。
+i saw her swim .	彼女が泳ぐのを見ました 。
+i saw him jump .	彼がジャンプするのを見た 。
+i saw him once .	一度彼に会ったことがあります 。
+i saw it first .	初めて見ました 。
+i saw it on tv .	テレビで見ました 。
+i saw somebody .	誰かを見ました 。
+i saw the cook .	私は料理人を見ました 。
+i saw the file .	ファイルを見ました 。
+i saw the game .	試合を見ました 。
+i sell flowers .	花を売っています 。
+i serve no one .	私は誰にも奉仕しません 。
+i should do it .	やるべきだ 。
+i smell coffee .	コーヒーの匂いがする 。
+i sneeze a lot .	くしゃみがたくさん出ます 。
+i speak french .	私はフランス語を話します 。
+i started that .	私はそれを始めました 。
+i study french .	私はフランス語を勉強しています 。
+i study korean .	私は韓国語を勉強しています 。
+i sure am cold .	確かに寒いです 。
+i sure hope so .	確かにそう願っています 。
+i take it back .	私はそれを取り戻します 。
+i teach french .	私はフランス語を教えています 。
+i think we can .	できると思います 。
+i thought hard .	一生懸命考えました 。
+i took her arm .	私は彼女の腕を取りました 。
+i took the job .	私はその仕事を引き受けました 。
+i travel light .	私は軽く旅行します 。
+i trusted them .	私は彼らを信頼していました 。
+i turned right .	右に曲がりました 。
+i urge caution .	注意してください 。
+i usually walk .	私は普段歩いています 。
+i walked alone .	私は一人で歩きました 。
+i want a chair .	椅子が欲しいです 。
+i want a donut .	ドーナツが欲しいです 。
+i want a drink .	飲み物が欲しいです 。
+i want a puppy .	子犬が欲しいです 。
+i want a raise .	昇給が欲しいです 。
+i want answers .	答えが欲しいです 。
+i want details .	詳細が欲しいです 。
+i want justice .	私は正義が欲しいです 。
+i want revenge .	復讐したい 。
+i want the fan .	ファンが欲しいです 。
+i want to come .	行きたいです 。
+i want to help .	助けたいです 。
+i want to live .	生きたい 。
+i want to play .	遊びたいです 。
+i want to quit .	辞めたいです 。
+i want to stay .	泊まりたいです 。
+i want to talk .	話したいです 。
+i want to walk .	歩きたいです 。
+i want to work .	働きたいです 。
+i wanted to go .	行きたかったです 。
+i was a doctor .	私は医者でした 。
+i was a member .	私は会員でした 。
+i was attacked .	攻撃されました 。
+i was barefoot .	私は裸足でした 。
+i was bluffing .	私はハッタリをしていた 。
+i was captured .	私は捕らえられました 。
+i was careless .	私は不注意でした 。
+i was cleaning .	掃除をしていました 。
+i was detained .	私は拘留されました 。
+i was grateful .	ありがたかったです 。
+i was hammered .	ハンマーで叩かれました 。
+i was impolite .	私は失礼でした 。
+i was offended .	私は腹を立てました 。
+i was outdoors .	私は屋外にいました 。
+i was pardoned .	私は許されました 。
+i was so happy .	とても嬉しかったです 。
+i was speaking .	私は話していました 。
+i was starving .	私は飢えていました 。
+i was studying .	勉強していました 。
+i was thinking .	と思っていました 。
+i was too fast .	速すぎた 。
+i was unharmed .	私は無傷でした 。
+i was upstairs .	私は上の階にいました 。
+i was watching .	私は見ていました 。
+i wasn't drunk .	酔っていなかった 。
+i wasn't hired .	私は雇われませんでした 。
+i wear glasses .	私はメガネをかけています 。
+i went fishing .	釣りに行きました 。
+i will sue you .	私はあなたを訴えます 。
+i will survive .	死にはしません 。
+i will take it .	承ります 。
+i will testify .	私は証言します 。
+i wish i could .	私もそう出来ればいいけど 。
+i won't forget .	忘れません 。
+i won't return .	戻りません 。
+i work for tom .	私はトムの下で働いています 。
+i wrote a memo .	メモを書きました 。
+i'd be careful .	気をつけます 。
+i'd be honored .	光栄に思います 。
+i'd like a hug .	ハグがしたいです 。
+i'd rather die .	むしろ死んだほうがいい 。
+i'd rather not .	むしろやめたほうがいいです 。
+i'll apologize .	お詫び申し上げます 。
+i'll ask later .	後で聞いてみます 。
+i'll be around .	私はそばにいるよ 。
+i'll be direct .	直接伺います 。
+i'll be honest .	正直に言います 。
+i'll be inside .	私は中にいます 。
+i'll call them .	私は彼らに電話します 。
+i'll cancel it .	キャンセルさせていただきます 。
+i'll come back .	戻ってきます 。
+i'll cooperate .	協力します 。
+i'll do it now .	今からやります 。
+i'll get these .	これらをもらいます 。
+i'll go anyway .	とにかく行きます 。
+i'll go change .	着替えに行きます 。
+i'll go myself .	私は自分で行きます 。
+i'll guide you .	私が案内します 。
+i'll handle it .	私が対応します 。
+i'll just wait .	ただ待ちます 。
+i'll manage it .	私がなんとかします 。
+i'll marry you .	あなたと結婚します 。
+i'll need that .	それが必要です 。
+i'll need this .	これが必要です 。
+i'll pay later .	後で支払います 。
+i'll pray hard .	一生懸命祈ります 。
+i'll risk that .	私はその危険を冒すつもりだ 。
+i'll scold him .	私は彼を叱ります 。
+i'll see to it .	やってみます 。
+i'll stay here .	ここにいます 。
+i'll stay home .	家にいます 。
+i'll take over .	私が引き継ぎます 。
+i'll take that .	それを受け取ります 。
+i'll treat you .	治療します 。
+i'll trust you .	私はあなたを信頼します 。
+i'll try again .	もう一度試してみます 。
+i'll wait here .	ここで待っています 。
+i'll work hard .	頑張ります 。
+i'm a canadian .	私はカナダ人です 。
+i'm a bit busy .	少し忙しいです 。
+i'm a diabetic .	私は糖尿病です 。
+i'm a free man .	私は自由人です 。
+i'm a freshman .	私は新入生です 。
+i'm a good guy .	私は良い奴だ 。
+i'm a minister .	私は大臣です 。
+i'm a musician .	私はミュージシャンです 。
+i'm a nice guy .	私はいい奴だよ 。
+i'm a real man .	私は本物の男です 。
+i'm a salesman .	私はセールスマンです 。
+i'm afraid not .	そうではないと思います 。
+i'm against it .	私はそれに反対です 。
+i'm all thumbs .	私はすべて親指です 。
+i'm an old man .	私は老人です 。
+i'm astonished .	びっくりしました 。
+i'm behind him .	私は彼の後ろにいます 。
+i'm being used .	私は利用されています 。
+i'm contagious .	私は伝染性です 。
+i'm dead tired .	死ぬほど疲れた 。
+i'm dehydrated .	脱水症状です 。
+i'm dependable .	私は頼りになります 。
+i'm devastated .	私は打ちのめされました 。
+i'm doing fine .	私は元気です 。
+i'm doing well .	私は元気です 。
+i'm downstairs .	私は階下にいます 。
+i'm eating now .	今食べています 。
+i'm exercising .	私は運動しています 。
+i'm farsighted .	遠視です 。
+i'm fascinated .	私は魅了されています 。
+i'm firing you .	あなたを解雇します 。
+i'm free today .	今日は暇です 。
+i'm from kyoto .	私は京都から来ました 。
+i'm going back .	帰ります 。
+i'm going bald .	ハゲるよ 。
+i'm going home .	家に帰ります 。
+i'm happy here .	私はここで幸せです 。
+i'm happy , too .	私も嬉しいです 。
+i'm having fun .	楽しんでます 。
+i'm hungry now .	私は今お腹が空いています 。
+i'm illiterate .	私は文盲です 。
+i'm in the car .	車にいます 。
+i'm interested .	興味があります 。
+i'm just bored .	ただ退屈しているだけだ 。
+i'm just tired .	ただ疲れているだけです 。
+i'm mad at you .	私はあなたに怒っています 。
+i'm making tea .	お茶を作っています 。
+i'm meditating .	私は瞑想しています 。
+i'm methodical .	私は几帳面です 。
+i'm no quitter .	私は辞めたわけではない 。
+i'm not a fool .	私は愚か者ではありません 。
+i'm not a hero .	私はヒーローではありません 。
+i'm not a liar .	私は嘘つきではありません 。
+i'm not amused .	面白くないよ 。
+i'm not asleep .	眠っていません 。
+i'm not bitter .	私は苦くないです 。
+i'm not cranky .	私は不機嫌ではありません 。
+i'm not crying .	泣いてないよ 。
+i'm not guilty .	私は無罪です 。
+i'm not insane .	私は正気ではありません 。
+i'm not joking .	冗談じゃないよ 。
+i'm not lonely .	私は孤独ではありません 。
+i'm not normal .	私は普通ではありません 。
+i'm not pretty .	私は可愛くない 。
+i'm not racist .	私は人種差別主義者ではありません 。
+i'm not scared .	怖くないよ 。
+i'm not skinny .	私は痩せていません 。
+i'm not sleepy .	眠くないよ 。
+i'm not so old .	私はそんなに年老いていない 。
+i'm not strong .	私は強くない 。
+i'm old enough .	私はもう十分な年齢です 。
+i'm on holiday .	私は休暇中です 。
+i'm one of you .	私もあなたの一人です 。
+i'm optimistic .	私は楽観的です 。
+i'm out of gas .	ガス欠です 。
+i'm overweight .	私は太りすぎです 。
+i'm overworked .	私は過労です 。
+i'm prejudiced .	私は偏見を持っています 。
+i'm rather shy .	私はかなり恥ずかしがり屋です 。
+i'm really old .	私は本当に年をとりました 。
+i'm reasonable .	私は合理的です 。
+i'm remodeling .	改造中です 。
+i'm right here .	私はここにいます 。
+i'm sick of it .	もううんざりです 。
+i'm so thirsty .	喉が渇いた 。
+i'm so unlucky !	私は本当に不運です ！
+i'm speechless .	言葉が出ない 。
+i'm still busy .	私はまだ忙しいです 。
+i'm still here .	私はまだここにいます 。
+i'm stuck here .	私はここで立ち往生しています 。
+i'm successful .	私は成功しました 。
+i'm sure of it .	私はそれを確信しています 。
+i'm the killer .	私が殺人者です 。
+i'm the oldest .	私が最年長です 。
+i'm undressing .	私は服を脱いでいます 。
+i'm unemployed .	私は失業中です 。
+i'm untalented .	私には才能がない 。
+i'm used to it .	私はそれに慣れています 。
+i'm vegetarian .	私はベジタリアンです 。
+i'm very happy .	とても嬉しいです 。
+i'm very short .	私はとても背が低いです 。
+i'm very sorry .	大変申し訳ございません 。
+i'm very tired .	とても疲れています 。
+i'm very upset .	とても動揺しています 。
+i'm wide awake .	すっかり目が覚めました 。
+i've been busy .	忙しかったです 。
+i've done that .	私はそれをやりました 。
+i've forgotten .	忘れてしまいました 。
+i've got plans .	計画があるよ 。
+i've messed up .	めちゃくちゃになってしまった 。
+i've remarried .	私は再婚しました 。
+i've seen that .	私はそれを見ました 。
+i've upset you .	私はあなたを怒らせてしまいました 。
+if only i knew !	私が知っていれば ！
+is tom jealous ?	トムは嫉妬していますか ？
+is tom working ?	トムは働いていますか ？
+is anyone here ?	誰かここにいますか ？
+is anyone hurt ?	負傷者はいますか ？
+is he american ?	彼はアメリカ人ですか ？
+is he japanese ?	彼は日本人ですか ？
+is he sleeping ?	彼は寝ていますか ？
+is it any good ?	それは良いですか ？
+is it credible ?	それは信じられますか ？
+is it finished ?	終わったの ？
+is it in there ?	そこにいるの ？
+is it reliable ?	それは信頼できますか ？
+is lunch ready ?	昼食の準備はできていますか ？
+is she at home ?	彼女は家にいますか ？
+is she married ?	彼女は結婚していますか ？
+is that a bear ?	それはクマですか ？
+is that a bird ?	それは鳥ですか ？
+is that a fact ?	それは事実ですか ？
+is that a wolf ?	それは狼ですか ？
+is that better ?	その方が良いですか ？
+is that enough ?	それで十分ですか ？
+is that for me ?	それは私のためですか ？
+is that likely ?	それはありそうですか ？
+is that my hat ?	それは私の帽子ですか ？
+is that normal ?	それは普通ですか ？
+is that so bad ?	それはそんなに悪いことですか ？
+is that unfair ?	それは不公平ですか ？
+is this a date ?	これはデートですか ？
+is this a joke ?	これは冗談ですか ？
+is this a wine ?	これはワインですか ？
+is this enough ?	これで十分ですか ？
+is this normal ?	これは普通ですか ？
+isn't it black ?	黒じゃないですか ？
+isn't it scary ?	怖くないですか ？
+isn't it weird ?	おかしくないですか ？
+it all changed .	すべてが変わりました 。
+it didn't help .	それは役に立ちませんでした 。
+it didn't work .	うまくいきませんでした 。
+it feels silly .	ばかばかしい気がします 。
+it feels weird .	奇妙に感じます 。
+it gets better .	良くなります 。
+it has to stop .	止めなければなりません 。
+it is saturday .	土曜日です 。
+it is possible .	可能です 。
+it is so early .	早いですね 。
+it is too late .	もう手遅れです 。
+it looked real .	本物に見えました 。
+it makes sense .	それは理にかなっています 。
+it may be true .	それは本当かもしれません 。
+it smells good !	良い香りがします ！
+it sounds easy .	それは簡単そうに思えます 。
+it was a dream .	それは夢でした 。
+it was a fluke .	それはまぐれでした 。
+it was a rumor .	それは噂でした 。
+it was awesome .	最高でした 。
+it was perfect .	完璧でした 。
+it was planned .	それは計画されていました 。
+it was raining .	雨が降っていた 。
+it was snowing .	雪が降っていました 。
+it was so dark .	とても暗かったです 。
+it was so good .	とても良かったです 。
+it was working .	動作していました 。
+it wasn't easy .	それは簡単ではありませんでした 。
+it wasn't luck .	それは幸運ではありませんでした 。
+it wasn't mine .	それは私のものではありませんでした 。
+it'll work now .	今はうまくいきます 。
+it's christmas .	クリスマスです 。
+it's wednesday .	水曜日です 。
+it's a bargain .	お買い得ですよ 。
+it's a big one .	それは大きいです 。
+it's a classic .	それは古典的です 。
+it's a miracle .	それは奇跡です 。
+it's a mistake .	それは間違いです 。
+it's a problem .	それは問題です 。
+it's all clear .	それはすべて明らかです 。
+it's all right .	大丈夫です 。
+it's all there .	それはすべてそこにあります 。
+it's all white .	真っ白です 。
+it's all wrong .	それはすべて間違っています 。
+it's all yours .	それはすべてあなたのものです 。
+it's an ambush !	それは待ち伏せだ ！
+it's an excuse .	それは言い訳だ 。
+it's beautiful .	それは美しいです 。
+it's beyond me .	それは私を超えています 。
+it's brand new .	新品です 。
+it's dangerous !	危ないよ ！
+it's dangerous .	危険です 。
+it's different .	それは違います 。
+it's dishonest .	それは不誠実です 。
+it's expensive .	高いです 。
+it's forbidden .	それは禁止されています 。
+it's important .	それは重要です 。
+it's inspiring .	感動的です 。
+it's no secret .	それは秘密ではありません 。
+it's not a dog .	それは犬ではありません 。
+it's not funny .	面白くないよ 。
+it's not right .	それは正しくありません 。
+it's not weird .	変なことじゃないよ 。
+it's our fault .	それは私たちのせいです 。
+it's redundant .	それは冗長です 。
+it's revolting .	それは腹立たしいです 。
+it's safe here .	ここは安全です 。
+it's so pretty .	とてもきれいです 。
+it's the truth .	それは真実です 。
+it's this book .	それはこの本です 。
+it's too early .	まだ早いです 。
+it's too large .	大きすぎます 。
+it's too quiet .	静かすぎるよ 。
+it's too risky .	それは危険すぎる 。
+it's too small .	小さすぎます 。
+it's undamaged .	無傷です 。
+it's up to you .	それはあなた次第です 。

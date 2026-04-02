@@ -1,0 +1,20 @@
+# Generated folders
+
+## bin_gcc
+/bin_gcc/models/*.bin
+
+## bin_msvc
+/bin_msvc/Debug/*.ilk
+/bin_msvc/Debug/*.pdb
+/bin_msvc/Debug/models/*.bin
+
+/bin_msvc/obj/**
+
+/bin_msvc/Release/*.ilk
+/bin_msvc/Release/*.pdb
+/bin_msvc/Release/models/*.bin
+
+# source codes
+/bin_python/**
+/build/**
+/src/**

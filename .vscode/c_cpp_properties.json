@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "WSL2",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "D:/msys64/ucrt64/include"
+      ],
+      "defines": [
+        "WSL2"
+      ],
+      "compilerPath": "D:/msys64/ucrt64/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}

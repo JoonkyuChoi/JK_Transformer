@@ -1,0 +1,5000 @@
+go .	가다 .
+hi .	안녕 .
+run !	달리다 !
+who ?	WHO ?
+wow !	우와 !
+fire !	불 !
+help !	돕다 !
+jump .	점프 .
+stop !	멈추다 !
+wait !	기다리다 !
+go on .	계속하세요 .
+hello !	안녕하세요 !
+i see .	알겠어요 .
+i try .	나는 노력한다 .
+i won !	내가 이겼어 !
+i won .	내가 이겼다 .
+oh no !	안 돼 !
+attack !	공격 !
+cheers !	건배 !
+get up .	일어나다 .
+go now .	지금 가세요 .
+got it !	알았어요 !
+got it ?	알았어요 ?
+hop in .	타세요 .
+hug me .	나를 안아주세요 .
+i fell .	나는 떨어졌다 .
+i know .	알아요 .
+i left .	나는 떠났다 .
+i lost .	나는 졌다 .
+i paid .	나는 지불했다 .
+i'm 19 .	나는 19 살입니다 .
+i'm ok .	난 괜찮아 .
+listen .	듣다 .
+no way !	안 돼요 !
+really ?	정말 ?
+thanks .	감사해요 .
+we try .	우리는 노력합니다 .
+we won .	우리가 이겼어요 .
+ask tom .	톰에게 물어보세요 .
+awesome !	엄청난 !
+be calm .	침착해라 .
+be cool .	침착해라 .
+be fair .	공정해라 .
+be kind .	친절하세요 .
+be nice .	친절해라 .
+beat it .	그것을 이길 .
+call me .	나에게 전화해 .
+call us .	우리에게 전화하세요 .
+come in .	들어오세요 .
+come on !	어서 해봐요 !
+come on .	어서 해봐요 .
+drop it !	버려라 !
+get tom .	톰을 잡아라 .
+get out !	나가세요 !
+get out .	나가세요 .
+go away !	저리 가요 !
+go away .	저리 가요 .
+go home .	집에 가세요 .
+go slow .	천천히 가세요 .
+goodbye !	안녕히 가세요 !
+hang on !	잠깐만요 !
+hang on .	잠깐만요 .
+he quit .	그는 그만뒀다 .
+he runs .	그는 달린다 .
+help me !	도와주세요 !
+help me .	도와주세요 .
+help us .	우리를 도와주세요 .
+hold it !	잡아 !
+hold on .	기다리다 .
+hug tom .	톰 안아줘 .
+i agree .	나는 동의한다 .
+i cried .	나는 울었다 .
+i dozed .	나는 졸았다 .
+i drive .	나는 운전한다 .
+i smoke .	나는 담배를 피운다 .
+i snore .	나는 코를 고는다 .
+i stink .	냄새가 나 .
+i stood .	나는 섰다 .
+i swore .	나는 맹세했다 .
+i tried .	나는 노력했다 .
+i waved .	나는 손을 흔들었다 .
+i'll go .	내가 갈게 .
+i'm tom .	나는 톰이에요 .
+i'm fat .	나는 뚱뚱해 .
+i'm fit .	나는 건강하다 .
+i'm hit !	나 맞았어 !
+i'm ill .	나 아파요 .
+i'm sad .	나는 슬프다 .
+i'm shy .	난 부끄러워요 .
+i'm wet .	나 젖었어 .
+it's me !	나야 !
+join us .	우리와 함께 하세요 .
+keep it .	그것을 유지하십시오 .
+kiss me .	나에게 키스해줘 .
+me , too .	저도요 .
+open up .	열어라 .
+perfect !	완벽한 !
+see you .	또 봐요 .
+show me .	나에게 보여줘 .
+shut up !	입 다물어 !
+so long .	너무 오래 .
+take it .	가져가세요 .
+tell me .	말해 주세요 .
+tom won .	톰이 이겼어요 .
+wake up !	깨우다 !
+wake up .	깨우다 .
+wash up .	씻어라 .
+we know .	우리는 알고 있습니다 .
+we lost .	우리는졌다 .
+welcome .	환영 .
+who won ?	누가 이겼어 ?
+you run .	당신은 달린다 .
+am i fat ?	나 뚱뚱해 ?
+ask them .	그들에게 물어보세요 .
+back off !	물러서라 !
+back off .	물러서라 .
+be a man .	남자가 되십시오 .
+be still .	가만히 있어라 .
+beats me .	나를 이겼다 .
+call tom .	톰에게 전화해 .
+cheer up !	기운을 내다 !
+cool off !	진정해 !
+cuff him .	그에게 수갑을 채워라 .
+drive on .	운전하다 .
+find tom .	톰을 찾아요 .
+fix this .	이것을 고쳐라 .
+get down !	내려와 !
+get down .	내려와 .
+get lost !	길을 잃다 !
+get real !	진짜가 되다 !
+go ahead .	어서 가세요 .
+good job !	잘했어요 !
+grab him .	그를 잡아라 .
+have fun .	재미있게 보내세요 .
+he tries .	그는 시도합니다 .
+he's wet .	그 사람은 젖었어 .
+help tom .	톰 도와줘 .
+hi , guys .	안녕, 얘들아 .
+how cute !	얼마나 귀엽습니까 !
+how deep ?	얼마나 깊어 ?
+how nice !	정말 좋아요 !
+humor me .	나한테 유머를 줘 .
+hurry up .	서둘러요 .
+i am fat .	나는 뚱뚱하다 .
+i did ok .	난 괜찮아 .
+i did it .	내가 해냈어 .
+i failed .	나는 실패했다 .
+i forgot .	나는 잊었다 .
+i get it .	나는 그것을 이해한다 .
+i got it .	알겠어요 .
+i helped .	내가 도와줬어 .
+i jumped .	나는 뛰어내렸다 .
+i looked .	나는 보았다 .
+i moaned .	나는 신음했다 .
+i nodded .	나는 고개를 끄덕였다 .
+i obeyed .	나는 순종했다 .
+i phoned .	내가 전화했어요 .
+i refuse .	나는 거절한다 .
+i rested .	나는 쉬었다 .
+i saw it .	나는 그것을 보았다 .
+i sighed .	나는 한숨을 쉬었다 .
+i stayed .	나는 머물렀다 .
+i talked .	나는 말했다 .
+i use it .	나는 그것을 사용합니다 .
+i'll pay .	내가 지불할게 .
+i'll try .	내가 노력할게 .
+i'm back .	나는 돌아왔다 .
+i'm bald .	나는 대머리입니다 .
+i'm busy .	나는 바빠요 .
+i'm calm .	나는 침착하다 .
+i'm cold .	나는 추워요 .
+i'm cool .	난 괜찮아 .
+i'm deaf .	나는 귀머거리입니다 .
+i'm done .	난 끝났어 .
+i'm fair .	나는 공정하다 .
+i'm fast .	나는 빠르다 .
+i'm fine .	잘 지내요 .
+i'm free !	난 자유야 !
+i'm free .	난 시간이 있어 .
+i'm full .	난 꽉 찼어 .
+i'm game .	나는 게임이다 .
+i'm glad .	기쁘다 .
+i'm home .	나는 집에있다 .
+i'm late .	나 늦었어 .
+i'm lazy .	나는 게으르다 .
+i'm okay .	난 괜찮아 .
+i'm rich .	나는 부자입니다 .
+i'm safe .	나는 안전해요 .
+i'm sick .	나 아파요 .
+i'm sure .	나는 확신한다 .
+i'm tall .	나는 키가 크다 .
+i'm thin .	나는 말랐다 .
+i'm tidy .	나는 깔끔해요 .
+i'm ugly .	나는 못생겼다 .
+i'm weak .	나는 약해요 .
+i'm well .	나는 괜찮아 .
+i've won .	내가 이겼어 .
+it helps .	그것은 도움이됩니다 .
+it hurts .	아파요 .
+it works .	그것은 작동합니다 .
+it's tom .	톰이에요 .
+it's fun .	재미있어요 .
+it's his .	그것은 그의 것입니다 .
+it's new .	그것은 새로운 것입니다 .
+it's odd .	이상해요 .
+it's red .	그것은 빨간색입니다 .
+it's sad .	슬프다 .
+keep out !	비켜라 !
+keep out .	밖으로 나가십시오 .
+kiss tom .	톰에게 키스해줘 .
+leave it .	그것을 남겨주세요 .
+leave me .	나를 떠나라 .
+leave us .	우리를 떠나세요 .
+let's go !	갑시다 !
+let's go .	갑시다 .
+look out !	조심해 !
+marry me .	나랑 결혼해 줘 .
+may i go ?	내가 가도 될까 ?
+save tom .	톰을 구해줘 .
+she came .	그녀가 왔어 .
+she died .	그녀는 죽었습니다 .
+she runs .	그녀는 달린다 .
+sit down !	앉아 !
+sit down .	앉으세요 .
+sit here .	여기 앉아 .
+speak up !	말하다 !
+stop tom .	톰 그만해 .
+taste it .	맛보세요 .
+tell tom .	톰에게 말해줘 .
+terrific !	훌륭해요 !
+they won .	그들은 이겼다 .
+tom came .	톰이 왔어요 .
+tom died .	톰이 죽었어 .
+tom knew .	톰은 알고 있었어요 .
+tom left .	톰이 떠났다 .
+tom lied .	톰은 거짓말을 했어요 .
+tom lies .	톰은 거짓말을 해요 .
+tom lost .	톰이 졌어요 .
+tom paid .	톰이 지불했어요 .
+too late .	너무 늦었어 .
+trust me .	나를 믿어라 .
+try hard .	열심히 노력해 보세요 .
+try some .	좀 시도해 보세요 .
+try this .	이것을 시도하십시오 .
+use this .	이것을 사용하십시오 .
+warn tom .	톰에게 경고해요 .
+watch me .	나를 조심해 .
+watch us .	우리를 조심해 .
+we agree .	우리는 동의합니다 .
+we'll go .	우리는 갈 것이다 .
+what for ?	무엇을 위해 ?
+what fun !	정말 재미있어요 !
+who came ?	누가 왔어 ?
+who died ?	누가 죽었나요 ?
+who fell ?	누가 떨어졌어 ?
+who quit ?	누가 그만뒀어 ?
+who's he ?	그 사람은 누구야 ?
+write me .	나에게 편지를 보내주세요 .
+you lost .	당신은 잃었습니다 .
+after you .	당신 후에 .
+aim . fire !	목표 . 불 !
+am i late ?	나 늦었어 ?
+answer me .	대답해 줘 .
+be seated .	앉으세요 .
+birds fly .	새들은 날아간다 .
+bless you .	축복합니다 .
+call home !	집에 전화해 !
+calm down !	진정하다 !
+calm down .	진정하다 .
+can we go ?	우리 갈 수 있어 ?
+catch tom .	톰을 잡아라 .
+catch him .	그를 잡아라 .
+come back .	돌아와 .
+come here .	이리 오세요 .
+come over !	이리와 !
+come over .	이리와 .
+come soon .	곧 오세요 .
+cool down .	진정해 .
+did i win ?	내가 이겼어 ?
+do it now .	지금 하세요 .
+dogs bark .	개들이 짖는다 .
+don't ask .	묻지 마세요 .
+don't cry .	울지 마세요 .
+don't die .	죽지 마세요 .
+don't lie .	거짓말하지 마세요 .
+don't run .	뛰지 마세요 .
+excuse me .	실례합니다 .
+fantastic !	환상적이다 !
+feel this .	이것을 느껴라 .
+follow me .	나를 따르라 .
+follow us .	우리를 따르십시오 .
+forget it !	잊어 버려 !
+forget it .	잊어 버려 .
+get a job .	취직 .
+get ready .	준비하세요 .
+go get it .	가서 가져와 .
+go inside .	안으로 들어가세요 .
+go to bed .	자러 가세요 .
+good luck .	행운을 빌어요 .
+grab that .	그거 잡아 .
+grab this .	이것을 잡아라 .
+hands off .	손 떼세요 .
+he is ill .	그는 아프다 .
+he is old .	그는 늙었어요 .
+he's a dj .	그 사람은 DJ예요 .
+he's good .	그는 좋다 .
+he's lazy .	그는 게으르다 .
+he's rich .	그는 부자입니다 .
+he's sexy .	그는 섹시해요 .
+here i am .	여기 있어요 .
+here's $5 .	여기 5달러 있어요 .
+hold fire .	불을 잡아라 .
+hold this .	이것을 잡아라 .
+how awful !	정말 끔찍해요 !
+how weird !	정말 이상해요 !
+how's tom ?	톰은 어때요 ?
+i am busy .	나는 바빠요 .
+i am calm .	나는 침착하다 .
+i am cold .	나는 추워요 .
+i am fine .	괜찮아요 .
+i am good .	나는 좋다 .
+i am here .	나는 여기 있다 .
+i am lazy .	나는 게으르다 .
+i am okay .	나는 괜찮아 .
+i am sick .	나는 아파요 .
+i am sure .	나는 확신한다 .
+i am weak .	나는 약하다 .
+i beg you .	부탁드립니다 .
+i can run .	나는 달릴 수 있어요 .
+i can ski .	나는 스키를 탈 수 있어요 .
+i cringed .	나는 움츠러들었다 .
+i exhaled .	나는 숨을 내쉬었다 .
+i gave up .	나는 포기했다 .
+i give in .	나는 포기한다 .
+i give up .	나는 포기한다 .
+i got hot .	나 더워졌어 .
+i had fun .	나는 재미 있었다 .
+i hate it .	싫어 .
+i have it .	나는 그것을 가지고 있습니다 .
+i hit tom .	내가 톰을 때렸어 .
+i hope so .	그러기를 바랍니다 .
+i hurried .	나는 서둘렀다 .
+i inhaled .	나는 흡입했다 .
+i knew it .	나는 그것을 알고 있었다 .
+i like it .	좋아요 .
+i lost it .	나는 그것을 잃었다 .
+i love it !	나는 그것을 좋아한다 !
+i love it .	나는 그것을 좋아한다 .
+i mean it !	내 말은 !
+i mean it .	내 말은 .
+i must go .	나는 가야 해요 .
+i need it .	나한테는 그게 필요해 .
+i noticed .	나는 알아차렸다 .
+i prepaid .	나는 선불 .
+i promise .	약속해요 .
+i relaxed .	나는 긴장을 풀었다 .
+i retired .	나는 은퇴했다 .
+i said no .	나는 아니라고 말했다 .
+i said so .	내가 그렇게 말했어 .
+i saw him .	나는 그를 봤어요 .
+i saw one .	나는 하나를 보았다 .
+i saw you .	나는 당신을 보았다 .
+i see tom .	톰이 보여요
+i shouted .	나는 소리쳤다 .
+i tripped .	나는 넘어졌다 .
+i want it .	나는 그것을 원한다 .
+i was new .	나는 새로운 사람이었습니다 .
+i will go .	나는 갈 것이다 .
+i woke up .	나는 일어났다 .
+i'd agree .	나는 동의한다 .
+i'd leave .	나는 떠날 것이다 .
+i'll call .	내가 전화할게 .
+i'll cook .	내가 요리할게 .
+i'll help .	내가 도와줄게 .
+i'll live .	나는 살 것이다 .
+i'll obey .	나는 순종할 것이다 .
+i'll pack .	내가 싸줄게 .
+i'll pass .	나는 통과할 것이다 .
+i'll quit .	그만둘게요 .
+i'll sing .	내가 노래할게 .
+i'll stop .	그만할게 .
+i'll swim .	나는 수영할 것이다 .
+i'll talk .	내가 얘기할게 .
+i'll wait .	기다릴게 .
+i'll walk .	내가 걸을게 .
+i'll work .	나는 일할 것이다 .
+i'm a cop .	나는 경찰이다 .
+i'm a man .	나는 남자입니다 .
+i'm alive .	나는 살아있다 .
+i'm alone .	나 혼자야 .
+i'm angry .	나는 화가 났다 .
+i'm armed .	나는 무장했다 .
+i'm awake .	나 일어났어 .
+i'm blind .	나는 장님이다 .
+i'm broke .	나는 파산했다 .
+i'm clean .	나는 깨끗해요 .
+i'm crazy .	나 미쳤어 .
+i'm cured .	나는 치료되었습니다 .
+i'm dizzy .	어지러워 .
+i'm drunk .	나 취했어 .
+i'm dying .	나는 죽어 가고있다 .
+i'm early .	나는 일찍이다 .
+i'm first .	내가 처음이야 .
+i'm fussy .	나는 까다롭다 .
+i'm going .	나는 간다 .
+i'm loyal .	나는 충성 스럽습니다 .
+i'm lucky .	나는 운이 좋다 .
+i'm lying .	나는 거짓말을하고있다 .
+i'm naked .	나는 알몸이다 .
+i'm quiet .	나는 조용하다 .
+i'm ready !	난 준비됐어 !
+i'm ready .	난 준비됐어 .
+i'm right .	내가 맞아요 .
+i'm sober .	나는 술에 취하지 않았다 .
+i'm sorry .	죄송합니다 .
+i'm stuck .	나는 붙어있다 .
+i'm timid .	나는 소심하다 .
+i'm tired .	피곤해요 .
+i'm tough .	난 힘들어 .
+i'm yours .	나는 당신 것입니다 .
+i've lost .	나는 졌다 .
+is tom ok ?	톰 괜찮아 ?
+is it bad ?	나쁜가요 ?
+is it far ?	멀리 있나요 ?
+is it hot ?	덥나요 ?
+is it you ?	당신인가요 ?
+it failed .	실패했습니다 .
+it is new .	그것은 새로운 것입니다 .
+it snowed .	눈이 내렸다 .
+it stinks .	냄새가 나요 .
+it was ok .	괜찮아요 .
+it worked .	그것은 효과가 있었다 .
+it's 3:30 .	3시 30분이에요 .
+it's 8:30 .	8시 30분이야 .
+it's a tv .	그것은 TV입니다 .
+it's cold .	춥다 .
+it's dark .	어두워요 .
+it's dead .	죽었어 .
+it's done .	끝났어 .
+it's easy .	쉽습니다 .
+it's food .	그것은 음식입니다 .
+it's free .	그것은 무료입니다 .
+it's here .	여기 있어요 .
+it's hers .	그것은 그녀의 것입니다 .
+it's late .	늦었어 .
+it's lost .	그것은 분실되었습니다 .
+it's mine .	그것은 내 것입니다 .
+it's open .	열려 있어요 .
+it's ours .	그것은 우리 것입니다 .
+it's sand .	모래야 .
+it's time .	시간이다 .
+it's true !	그것은 사실이다 !
+it's work .	일이야 .
+keep that .	그걸 유지하세요 .
+keep this .	이것을 보관하세요 .
+let it be .	그렇게 놔두세요 .
+let me go !	날 보내줘 !
+let me go .	나를 보내줘 .
+let me in .	나를 들여 보내줘 .
+let's ask .	물어보자 .
+let's eat .	먹자 .
+let's see .	보자 .
+lie still .	가만히 누워 있어라 .
+look back !	뒤를 돌아봐 !
+look here .	여기를 보세요 .
+loosen up .	긴장을 풀어라 .
+move over .	이동하세요 .
+nice shot !	좋은 슛 !
+of course !	물론 !
+of course .	물론 .
+oh please !	아 제발 !
+pardon me ?	실례합니다 ?
+read this .	이것을 읽어보세요 .
+say hello .	인사해 .
+see above .	위를 참조하세요 .
+see below .	아래를 참조하세요 .
+seize him !	그를 붙잡아라 !
+seriously ?	진지하게 ?
+she cried .	그녀는 울었다 .
+she tried .	그녀는 노력했다 .
+she walks .	그녀는 걷는다 .
+she's hot .	그녀는 섹시해요 .
+sign here .	여기에 서명하세요 .
+sign this .	이것에 서명하세요 .
+slow down .	속도를 늦추세요 .
+stay back .	물러서라 .
+stay calm .	침착해라 .
+stay down !	가만히 있어 !
+stay down .	가만히 있어라 .
+stay here .	여기있어 .
+stay thin .	날씬하게 지내라 .
+step back .	뒤로 물러나세요 .
+stop that !	그만해 !
+stop that .	그만해 .
+stop them .	그들을 멈춰라 .
+take care !	잘 지내세요 !
+take care .	잘 지내세요 .
+take mine .	내 것을 가져가세요 .
+take this .	이것을 받아라 .
+thank you .	감사합니다 .
+that's ok .	괜찮아요 .
+that's it .	그게 다야 .
+they fell .	그들은 떨어졌다 .
+they left .	그들은 떠났다 .
+they lied .	그들은 거짓말을 했어요 .
+they lost .	그들은 졌다 .
+they swam .	그들은 수영했다 .
+time's up .	시간이 다 됐어 .
+tom cooks .	톰은 요리를 해요 .
+tom cried .	톰은 울었다 .
+tom is ok .	톰은 괜찮아요 .
+tom knits .	톰은 뜨개질을 한다 .
+tom knows .	톰은 알아요 .
+tom rocks .	톰 록스 .
+tom spoke .	톰이 말했다 .
+tom walks .	톰은 걷는다 .
+tom waved .	톰이 손을 흔들었다 .
+tom works .	톰은 일해요 .
+tom's fat .	톰이 뚱뚱해 .
+tom's mad .	톰은 화가 났어요 .
+tom's sad .	톰은 슬퍼요 .
+trust tom .	톰을 믿어라 .
+try again .	다시 시도하십시오 .
+try it on .	그것을 시도하십시오 .
+turn left .	좌회전하세요 .
+wait here .	여기서 기다리세요 .
+watch out !	조심해 !
+we agreed .	우리는 동의했습니다 .
+we did it !	우리가 해냈어 !
+we did it .	우리가 해냈어 .
+we forgot .	우리는 잊어버렸어요 .
+we saw it .	우리는 그것을 보았다 .
+we smiled .	우리는 웃었다 .
+we talked .	우리는 이야기했습니다 .
+we waited .	우리는 기다렸다 .
+we'll try .	우리는 노력할 것입니다 .
+we'll win .	우리는 이길 것이다 .
+we're hot .	우리는 뜨겁다 .
+we're sad .	우리는 슬프다 .
+we're shy .	우리는 부끄러워요 .
+well done !	잘하셨어요 !
+what else ?	또 뭐야 ?
+what's up ?	무슨 일이야 ?
+who cares ?	누가 신경쓰나요 ?
+who is he ?	그는 누구입니까 ?
+who is it ?	누구야 ?
+who knows ?	누가 알겠어 ?
+who spoke ?	누가 말했어 ?
+who'll go ?	누가 갈거야 ?
+who's tom ?	톰은 누구야 ?
+who's ill ?	누가 아프니 ?
+wonderful !	아주 멋진 !
+write tom .	톰에게 편지를 보내세요 .
+you drive .	당신은 운전합니다 .
+you idiot !	바보야 !
+you start .	당신은 시작합니다 .
+you tried .	당신은 노력했습니다 .
+all aboard !	모두 탑승하세요 !
+am i clear ?	난 분명해 ?
+am i dying ?	나 죽어가는 중이야 ?
+am i early ?	나 일찍 왔어 ?
+am i fired ?	나 해고됐어 ?
+am i first ?	내가 처음이야 ?
+am i hired ?	나 고용됐어 ?
+am i right ?	내 말이 맞지 ?
+am i wrong ?	내가 틀렸어 ?
+answer tom .	대답해 톰 .
+are you ok ?	괜찮으세요 ?
+are you up ?	일어났어 ?
+ask anyone .	누구에게나 물어보세요 .
+ask around .	주변에 물어보세요 .
+be careful !	조심하세요 !
+be careful .	조심하세요 .
+be content .	만족해라 .
+be on time .	시간을 지키세요 .
+be serious .	진지해지세요 .
+birds sing .	새들이 노래한다 .
+bottoms up !	바닥까지 !
+bring food .	음식을 가져오세요 .
+bring wine .	와인을 가져오세요 .
+can i come ?	내가 가도 돼 ?
+can i help ?	내가 도와드릴까요 ?
+can i stay ?	내가 머물 수 있을까 ?
+carry this .	이것을 가지고 가세요 .
+check that .	확인해 보세요 .
+check this .	이것을 확인하세요 .
+choose one .	하나를 선택하세요 .
+come alone .	혼자 오세요 .
+come along .	함께 와라 .
+come on in !	들어와 !
+come on in .	들어와 .
+come quick !	빨리와 !
+come to me .	나에게로 와라 .
+come to us .	우리에게 오세요 .
+cut it out !	잘라버려 !
+cut it out .	잘라내세요 .
+did we win ?	우리가 이겼나요 ?
+dig faster .	더 빨리 파내세요 .
+do i stink ?	나한테 냄새가 나니 ?
+do men cry ?	남자들은 울어요 ?
+don't fret .	걱정하지 마세요 .
+don't jump !	뛰어내리지 마세요 !
+don't move !	움직이지 마세요 !
+don't move .	움직이지 마세요 .
+don't rush .	서두르지 마세요 .
+don't sing .	노래하지 마세요 .
+don't talk !	말하지 마세요 !
+don't talk .	말하지 마세요 .
+don't wait .	기다리지 마세요 .
+duty calls .	의무 전화 .
+face facts !	사실을 직시하세요 !
+fill it up .	그것을 채워라 .
+find a job .	일자리를 찾으세요 .
+follow tom .	톰을 따라가세요 .
+follow him .	그를 따르라 .
+forget tom .	톰은 잊어버려 .
+forget him .	그를 잊어 버려 .
+forgive me .	용서해주세요 .
+forgive us .	우리를 용서하세요 .
+get a life !	인생을 얻으십시오 !
+get to bed .	잠자리에 드세요 .
+give it up .	포기해 .
+go outside .	밖으로 나가라 .
+go warm up .	워밍업하러 가세요 .
+he gave in .	그는 포기했다 .
+he hung up .	그는 전화를 끊었습니다 .
+he is a dj .	그는 DJ입니다 .
+he is busy .	그는 바쁘다 .
+he is here !	그는 여기 있어요 !
+he is kind .	그는 친절해요 .
+he is late .	그는 늦었어요 .
+he is lazy .	그는 게으르다 .
+he is poor .	그는 가난하다 .
+he is sick .	그는 아프다 .
+he made it .	그는 해냈다 .
+he's swiss .	그 사람은 스위스 사람이에요 .
+he's broke .	그는 파산했다 .
+he's drunk .	그는 취했어요 .
+he's smart .	그는 똑똑해요 .
+head north .	북쪽으로 가세요 .
+here he is !	여기 있어요 !
+here it is .	여기 있어요 .
+here we go .	여기 갑니다 .
+hold still .	가만히 있어라 .
+how is tom ?	톰은 어때 ?
+how lovely !	정말 사랑스러워요 !
+how's work ?	일은 어때 ?
+hurry home .	서둘러 집에 .
+i admit it .	나는 그것을 인정한다 .
+i am a man .	나는 남자입니다 .
+i am going .	나는 간다 .
+i am human .	나는 인간이다 .
+i am ready .	나는 준비됐다 .
+i am right .	내가 맞아요 .
+i am sorry .	미안해요 .
+i am tired .	나는 피곤하다 .
+i broke it .	내가 그걸 깨뜨렸어 .
+i built it .	내가 만들었어 .
+i can come .	난 갈 수 있어요 .
+i can cook .	나는 요리할 수 있어요 .
+i can jump .	나는 점프할 수 있어요 .
+i can read .	나는 읽을 수 있어요 .
+i can sing .	나는 노래할 수 있어요 .
+i can stay .	난 머물 수 있어요 .
+i can swim .	나는 수영할 수 있어요 .
+i can wait .	난 기다릴 수 있어요 .
+i can walk .	나는 걸을 수 있어요 .
+i can't go .	나는 갈 수 없다 .
+i canceled .	나는 취소했다 .
+i did that .	내가 그랬어 .
+i disagree .	나는 동의하지 않는다 .
+i do worry .	나는 걱정한다 .
+i doubt it .	나는 그것을 의심한다 .
+i eat here .	난 여기서 먹어요 .
+i envy tom .	난 톰이 부러워요 .
+i envy her .	나는 그녀가 부러워요 .
+i envy him .	나는 그를 부러워해요 .
+i envy you .	나는 당신이 부러워요 .
+i exercise .	나는 운동한다 .
+i feel bad .	기분이 안 좋아 .
+i feel old .	나는 늙었다고 느낀다 .
+i felt bad .	기분이 나빴어요 .
+i felt ill .	나는 기분이 좋지 않았다 .
+i felt sad .	나는 슬펐다 .
+i fixed it .	내가 고쳤어 .
+i found it .	내가 찾았어 .
+i got busy .	나 바빠 .
+i got hurt .	나 다쳤어 .
+i got lost .	나는 길을 잃었다 .
+i got sick .	나 아팠어 .
+i guess so .	그런 것 같아요 .
+i had help .	나는 도움을 받았습니다 .
+i hate you .	당신이 싫어요 .
+i have one .	나한테 하나 있어요 .
+i have won .	내가 이겼다 .
+i hear you .	나는 당신을 듣고 있습니다 .
+i help him .	내가 그를 도와요 .
+i hope not .	나는 그렇지 않기를 바랍니다 .
+i know cpr .	난 심폐소생술을 알아요 .
+i know her .	나는 그녀를 알아요 .
+i know him .	나는 그를 알아요 .
+i like tom .	나는 톰을 좋아해요 .
+i like art .	나는 예술을 좋아해요 .
+i like him .	나는 그를 좋아한다 .
+i like tea .	나는 차를 좋아해요 .
+i like you .	좋아해요 .
+i liked it .	나는 그것을 좋아했다 .
+i listened .	나는 들었다 .
+i love tom .	나는 톰을 사랑해요 .
+i love rice	난 밥을 좋아해
+i love tea .	나는 차를 좋아해요 .
+i love you .	사랑해요 .
+i loved it .	나는 그것을 좋아했다 .
+i made tea .	나는 차를 만들었습니다 .
+i made two .	나는 두 개를 만들었습니다 .
+i met them .	나는 그들을 만났다 .
+i must run .	나는 달려야 해 .
+i need air .	나는 공기가 필요해요 .
+i need ice .	얼음이 필요해 .
+i need you .	나는 당신이 필요합니다 .
+i panicked .	나는 당황했다 .
+i promised .	나는 약속했다 .
+i ran away .	나는 도망쳤다 .
+i ran home .	나는 집으로 달려갔다 .
+i remember .	나는 기억한다 .
+i said yes .	나는 그렇다고 말했다 .
+i sat down .	나는 앉았다 .
+i saw that .	나는 그것을 보았다 .
+i saw them .	나는 그들을 보았다 .
+i screamed .	나는 비명을 질렀다 .
+i see them .	나는 그들을 본다 .
+i shrugged .	나는 어깨를 으쓱했다 .
+i survived .	나는 살아남았다 .
+i threw up .	나는 토했다 .
+i tried it .	나는 그것을 시도했다 .
+i use this .	나는 이것을 사용합니다 .
+i want one !	나는 하나를 원한다 !
+i want one .	나는 하나를 원한다 .
+i want you .	나는 당신을 원합니다 .
+i was away .	나는 자리에 없었다 .
+i was busy .	나는 바빴다 .
+i was good .	나는 좋았다 .
+i was hurt .	나는 다쳤습니다 .
+i was last .	나는 마지막이었다 .
+i was late .	내가 늦었어 .
+i was lost .	나는 길을 잃었다 .
+i was sick .	나는 아팠다 .
+i whistled .	나는 휘파람을 불었다 .
+i will try .	나는 노력할 것이다 .
+i won't go .	나는 가지 않을 것이다 .
+i work out .	나는 운동한다 .
+i wrote it .	나는 그것을 썼다 .
+i'd accept .	나는 받아들일 것이다 .
+i'll check .	내가 확인해 볼게 .
+i'll do it .	내가 할게 .
+i'll drive .	내가 운전할게 .
+i'll go in .	내가 들어갈게 .
+i'll hurry .	서두르겠습니다 .
+i'll leave .	나는 떠날 것이다 .
+i'll shoot .	내가 쏠게 .
+i'll stand .	나는 설 것이다 .
+i'll start .	시작하겠습니다 .
+i'm a hero .	나는 영웅이다 .
+i'm a liar .	나는 거짓말쟁이야 .
+i'm a twin .	나는 쌍둥이예요 .
+i'm baking !	난 굽고 있어 !
+i'm better .	내가 더 나아 .
+i'm biased .	나는 편견이 있어요 .
+i'm buying .	나는 사고 있어요 .
+i'm chubby .	나는 통통하다 .
+i'm eating .	나는 먹고 있어요 .
+i'm famous .	나는 유명해요 .
+i'm faster .	내가 더 빠르다 .
+i'm flabby .	나는 연약하다 .
+i'm greedy .	나는 욕심이 많다 .
+i'm hiding .	나는 숨어있다 .
+i'm honest .	나는 정직하다 .
+i'm humble .	나는 겸손해요 .
+i'm hungry !	배고파요 !
+i'm hungry .	배고파요 .
+i'm immune .	나는 면역이다 .
+i'm in bed .	나 지금 침대에 있어 .
+i'm inside .	나는 안에 있어요 .
+i'm joking .	농담이에요 .
+i'm loaded .	난 짐이 찼어 .
+i'm lonely .	나는 외롭다 .
+i'm losing .	나는지고있다 .
+i'm moving .	나 이사해요 .
+i'm normal .	나는 정상이다 .
+i'm paying .	내가 지불하고 있어요 .
+i'm pooped .	나 똥났어 .
+i'm rested .	나는 쉬었다 .
+i'm ruined .	난 망가졌어 .
+i'm shaken .	나는 흔들렸다 .
+i'm single .	나는 싱글이다 .
+i'm skinny .	나는 말랐다 .
+i'm sleepy !	나 졸려 !
+i'm sneaky .	나는 교활하다 .
+i'm so fat .	나 너무 뚱뚱해 .
+i'm strict .	나는 엄격하다 .
+i'm strong .	나는 강하다 .
+i'm thirty .	나는 서른 살이에요 .
+i'm trying .	나는 노력하고 있어요 .
+i'm wasted .	난 낭비야 .
+i've tried .	나는 노력했다 .
+ignore tom .	톰은 무시하세요 .
+ignore him .	그를 무시하세요 .
+is tom ill ?	톰은 아프니 ?
+is he busy ?	그 사람 바빠 ?
+is he dead ?	그 사람 죽었나요 ?
+is he tall ?	그 사람 키가 크니 ?
+is it blue ?	파란색이야 ?
+is it done ?	끝났어 ?
+is it free ?	무료인가요 ?
+is it hard ?	어렵나요 ?
+is it love ?	사랑인가요 ?
+is it nice ?	좋은가요 ?
+is it safe ?	안전합니까 ?
+is it time ?	시간이야 ?
+is it true ?	사실인가요 ?
+is that it ?	그게 그거야 ?
+is that so ?	그렇습니까 ?
+it is 7:30 .	그것은 7시 30분이다 .
+it is cold .	춥다 .
+it matters .	그것은 중요하다 .
+it went ok .	괜찮아요 .
+it'll work .	그것은 작동할 것이다 .
+it's a fad .	그것은 유행이다 .
+it's awful .	정말 끔찍해요 .
+it's bogus .	그것은 가짜입니다 .
+it's bulky .	그것은 부피가 크다 .
+it's cheap .	싸다 .
+it's clean .	깨끗해요 .
+it's close .	가깝습니다 .
+it's early .	일찍이야 .
+it's funny .	재미있다 .
+it's green .	그것은 녹색이다 .
+it's my cd .	내 CD야 .
+it's night .	밤이야 .
+it's on me .	그것은 나에게 달려있다 .
+it's phony .	그것은 가짜입니다 .
+it's quiet .	조용해요 .
+it's ready .	준비됐어요 .
+it's right .	맞아요 .
+it's safer .	그것은 더 안전합니다 .
+it's sweet .	달콤해요 .
+it's weird .	이상해요 .
+it's wrong .	그건 틀렸어 .
+it's yours .	그것은 당신 것입니다 .
+jesus wept .	예수님은 눈물을 흘리셨습니다 .
+just do it .	그냥 해 .
+just relax .	그냥 긴장을 풀어라 .
+keep quiet !	조용히 해 !
+keep quiet .	조용히 하세요 .
+keep still .	가만히 있어라 .
+let him go !	그를 보내줘 !
+let him go .	그를 보내줘 .
+let him in .	그를 들여 보내세요 .
+let me die .	내가 죽게 해주세요 .
+let me out !	날 내보내줘 !
+let me pay .	지불하겠습니다 .
+let me see .	좀 보자 .
+let me try .	시도해 보겠습니다 .
+let us out .	우리를 내보내주세요 .
+let's chat .	채팅하자 .
+let's kiss .	키스하자 .
+let's pray .	기도하자 .
+let's talk .	얘기하자 .
+let's work .	일하자 .
+lighten up .	가볍게 하세요 .
+look again .	다시 봐 .
+look at it .	그것 좀 봐 .
+look at me .	나를 봐 .
+look it up .	찾아보세요 .
+love hurts .	사랑은 아프다 .
+mama cried .	엄마는 울었다 .
+never mind !	괜찮아요 !
+no comment .	코멘트가 없습니다 .
+no kidding ?	농담 아냐 ?
+no problem !	괜찮아요 !
+no problem .	괜찮아요 .
+oh , really ?	오, 진짜 ?
+once again .	다시 한번 .
+pick it up .	그것을 집으십시오 .
+please sit .	앉으세요 .
+run for it !	그것을 위해 달려라 !
+say please .	제발이라고 말해주세요 .
+shadow him .	그를 그림자로 삼아라 .
+she is old .	그녀는 늙었어요 .
+she smiled .	그녀는 미소 지었다 .
+she's busy .	그녀는 바빠요 .
+she's nice .	그녀는 착해요 .
+smell this .	이 냄새를 맡아라 .
+stand back !	물러서라 !
+start here .	여기서 시작하세요 .
+stay alert .	경계를 유지하십시오 .
+stay awake .	깨어있어 .
+stay close .	가까이 있어라 .
+stay sharp .	예리하게 지내십시오 .
+stay still .	가만히 있어라 .
+step aside .	물러나세요 .
+stop lying .	거짓말은 그만해 .
+study hard .	열심히 공부해 .
+take a bus .	버스를 타세요 .
+take a nap .	낮잠을 자다 .
+take cover !	엄폐하다 !
+take notes .	메모를 하세요 .
+talk to me !	나에게 말을 걸어 !
+talk to me .	나에게 말을 걸어보세요 .
+taste this .	이것을 맛보세요 .
+that a boy !	그 소년 !
+that hurts .	그거 아파요 .
+that works .	작동합니다 .
+that's all .	그게 다야 .
+that's fun .	그거 재밌어 .
+that's her .	그 사람이야 .
+that's his .	그게 그 사람이야 .
+that's odd .	이상해요…
+they agree .	그들은 동의합니다 .
+they cheat .	그들은 속임수를 쓴다 .
+they voted .	그들은 투표했습니다 .
+this is it .	이것이다 .
+this works .	이것은 작동합니다 .
+time flies .	시간이 빨리 간다 .
+time is up .	시간이 다 됐어 .
+tom agrees .	톰도 동의해요 .
+tom cheats .	톰은 속임수를 쓴다 .
+tom cursed .	톰이 저주를 받았어요 .
+tom drinks .	톰은 술을 마신다 .
+tom drives .	톰이 운전해요 .
+tom forgot .	톰이 잊어버렸어요 .
+tom helped .	톰이 도와줬어요 .
+tom is fat .	톰은 뚱뚱해 .
+tom is mad .	톰은 화났어요 .
+tom is new .	톰이 새로 왔어 .
+tom is sad .	톰은 슬퍼요 .
+tom jumped .	톰이 뛰어내렸어 .
+tom looked .	톰은 보았다 .
+tom nodded .	톰은 고개를 끄덕였다 .
+tom obeyed .	톰은 순종했다 .
+tom paints .	톰은 그림을 그린다 .
+tom sighed .	톰은 한숨을 쉬었다 .
+tom smokes .	톰은 담배를 피운다 .
+tom snores .	톰 코골이 .
+tom stayed .	톰은 머물렀어요 .
+tom stinks .	톰 냄새나 .
+tom talked .	톰이 얘기했어요 .
+tom yawned .	톰은 하품을 했어요 .
+tom'll cry .	톰은 울 것이다 .
+tom'll pay .	톰이 지불할 거예요 .
+tom's dead .	톰이 죽었어 .
+tom's deaf .	톰은 귀머거리야 .
+tom's died .	톰이 죽었어 .
+tom's fast .	톰은 빨라요 .
+tom's free .	톰은 시간이 있어 .
+tom's glad .	톰은 기뻐요 .
+tom's gone .	톰이 없어졌어요 .
+tom's here .	톰이 여기 있어요 .
+tom's home .	톰의 집 .
+tom's left .	톰은 왼쪽이야 .
+tom's safe .	톰은 안전해요 .
+tom's weak .	톰은 약해요 .
+tom's well .	톰은 잘 지내요 .
+tough luck !	행운을 빕니다 !
+turn it up .	볼륨을 높여라 .
+wait a bit .	조금만 기다려요 .
+wait a sec .	잠깐만요 .
+we all die .	우리 모두는 죽는다 .
+we all lie .	우리 모두 거짓말을 해요 .
+we are men .	우리는 남자입니다 .
+we buy cds .	우리는 CD를 산다 .
+we can pay .	우리는 지불할 수 있습니다 .
+we can try .	우리는 시도할 수 있습니다 .
+we can win .	우리는 이길 수 있어요 .
+we like it .	우리는 그것을 좋아합니다 .
+we made it .	우리는 그것을 만들었습니다 .
+we must go .	우리는 가야 해요 .
+we need it .	우리는 그것이 필요합니다 .
+we saw you .	우리는 당신을 봤어요 .
+we want it .	우리는 그것을 원합니다 .
+we'll cook .	우리가 요리할게 .
+we'll fail .	우리는 실패할 것이다 .
+we'll help .	우리가 도와드리겠습니다 .
+we'll obey .	우리는 순종할 것이다 .
+we'll pass .	우리는 통과할 것이다 .
+we'll swim .	우리는 수영할 거예요 .
+we'll wait .	기다리겠습니다 .
+we'll walk .	우리는 걸을 것이다 .
+we'll work .	우리는 일할 것이다 .
+we're back .	우리는 돌아왔다 .
+we're busy .	우리는 바빠요 .
+we're done .	우리는 끝났습니다 .
+we're even .	우리는 심지어 .
+we're fine .	우리는 괜찮아요 .
+we're here .	우리는 여기 있어요 .
+we're home .	우리는 집에 있어요 .
+we're late .	우리는 늦었어요 .
+we're lazy .	우리는 게으르다 .
+we're lost .	우리는 길을 잃었습니다 .
+we're rich .	우리는 부자입니다 .
+we're safe .	우리는 안전해요 .
+we're sunk .	우리는 침몰했습니다 .
+we're weak .	우리는 약해요 .
+what a day !	정말 좋은 하루야 !
+what is it ?	그것은 무엇입니까 ?
+what's new ?	새로운 소식은 무엇입니까 ?
+where am i ?	나는 어디에 있나요 ?
+who are we ?	우리는 누구입니까 ?
+who did it ?	누가 그랬어 ?
+who has it ?	누가 가지고 있어 ?
+who is tom ?	톰은 누구야 ?
+who phoned ?	누가 전화했어 ?
+who saw me ?	누가 나를 봤어 ?
+who stayed ?	누가 머물렀나요 ?
+who talked ?	누가 얘기했어 ?
+who yelled ?	누가 소리쳤어 ?
+who's here ?	여기 누구야 ?
+who's that ?	저 사람은 누구야 ?
+why bother ?	왜 귀찮게 ?
+you decide .	당신이 결정합니다 .
+you did it !	당신이 해냈어요 !
+you may go .	당신은 갈 수 있습니다 .
+you're bad .	당신은 나쁘다 .
+you're big .	당신은 크다 .
+you're fun .	당신은 재미 있어요 .
+you're old .	당신은 늙었어요 .
+you're sad .	당신은 슬프다 .
+you're shy .	당신은 부끄러워요 .
+you've won !	당신이 이겼어요 !
+all is well .	다 괜찮아요 .
+am i hungry !	나 배고파 ?
+am i stupid ?	내가 바보인가요 ?
+anyone home ?	집에 누구 없나요 ?
+anyone hurt ?	다친 사람 있어 ?
+are we done ?	우리 끝났어 ?
+are we lost ?	우리 길을 잃었나요 ?
+are we safe ?	우리는 안전합니까 ?
+are you tom ?	너 톰이야 ?
+are you hot ?	너 덥니 ?
+are you mad ?	너 화났어 ?
+are you new ?	너 처음 왔니 ?
+are you sad ?	슬프니 ?
+as you like .	당신이 원하는대로 .
+ask anybody .	누구에게나 물어보세요 .
+be creative .	창의력을 발휘하세요 .
+be discreet .	신중하세요 .
+be friendly .	친절해라 .
+be generous .	관대하라 .
+be merciful .	자비를 베풀어라 .
+be prepared .	준비하세요 .
+be punctual .	시간을 잘 지키십시오 .
+be ruthless .	무자비하다 .
+be sensible .	현명해지세요 .
+be watchful .	조심하세요 .
+be yourself .	너 자신이 되어라 .
+beer's good .	맥주는 좋아 .
+break it up !	그것을 깨뜨려라 !
+can i begin ?	시작해도 될까요 ?
+can it wait ?	기다릴 수 있나요 ?
+can we come ?	우리 가도 돼 ?
+can we help ?	우리가 도와드릴까요 ?
+can we stop ?	우리 그만하면 안 될까 ?
+can we talk ?	우리 얘기 좀 할 수 있을까 ?
+can you see ?	볼 수 있나요 ?
+can you ski ?	스키 탈 수 있어 ?
+can you try ?	시도해 볼 수 있나요 ?
+clean it up .	그것을 청소하십시오 .
+come get it .	와서 가져와 .
+come get me .	나를 데리러 와요 .
+come inside .	안으로 들어와 .
+come off it !	꺼져 !
+come off it .	그것에서 벗어나십시오 .
+cook for me .	나를 위해 요리해 주세요 .
+count me in .	나를 포함해 보세요 .
+cover it up .	그것을 덮어라 .
+deal me out .	나를 처리해 줘 .
+did tom eat ?	톰은 먹었어 ?
+did it hurt ?	상처받았어 ?
+did you win ?	당신이 이겼나요 ?
+do it again !	다시 해봐 !
+do it right .	제대로 해 .
+do you fish ?	당신은 낚시를 합니까 ?
+do your job .	일을 하세요 .
+don't cheat .	속이지 마십시오 .
+don't do it !	하지 마세요 !
+don't do it .	하지 마세요 .
+don't fight .	싸우지 마세요 .
+don't gloat .	칭찬하지 마십시오 .
+don't laugh .	웃지 마 .
+don't leave !	떠나지 마세요 !
+don't leave .	떠나지 마세요 .
+don't panic !	당황하지 말 것 !
+don't shoot !	쏘지 마세요 !
+don't shoot .	쏘지 마세요 .
+don't shout .	소리치지 마세요 .
+don't smile .	웃지 마 .
+don't smoke .	담배를 피우지 마십시오 .
+don't speak .	말하지 마세요 .
+don't worry .	괜찮아요 .
+finish this .	이걸 끝내세요 .
+flip a coin .	동전을 던지다 .
+forgive tom .	톰을 용서하세요 .
+get dressed .	옷을 입다 .
+get serious .	심각해 .
+get the box .	상자를 얻으십시오 .
+go have fun .	가서 즐겨라 .
+go home now .	지금 집에 가세요 .
+go on ahead .	계속하세요 .
+go to sleep .	자러 가세요 .
+go with tom .	톰이랑 같이 가 .
+grab a seat .	자리에 앉으세요 .
+have a beer .	맥주를 마셔라 .
+have a look .	보세요 .
+have a seat .	자리에 앉으세요 .
+have we met ?	우리 만난 적 있어 ?
+he can come .	그는 올 수 있어요 .
+he can read .	그는 읽을 수 있어요 .
+he can swim .	그는 수영할 수 있어요 .
+he chuckled .	그는 낄낄 웃었다 .
+he found it .	그는 그것을 찾았습니다 .
+he got away .	그는 도망쳤다 .
+he grew old .	그는 늙어갔다 .
+he has come !	그가 왔어 !
+he has guts .	그는 배짱이 있어요 .
+he has wine .	그 사람은 와인을 갖고 있어요 .
+he helps us .	그는 우리를 도와줍니다 .
+he is drunk .	그는 취했어요 .
+he is eight .	그는 여덟살이에요 .
+he is hated .	그는 미움을 받습니다 .
+he is nasty .	그는 심술궂다 .
+he is young .	그는 어리다 .
+he likes me .	그 사람은 나를 좋아해요 .
+he loves me .	그는 나를 사랑합니다 .
+he loves us .	그는 우리를 사랑합니다 .
+he needs it .	그는 그것이 필요해요 .
+he resigned .	그는 사임했다 .
+he squinted .	그는 눈을 가늘게 뜨며 말했다 .
+he stood up .	그는 일어섰다 .
+he was busy .	그는 바빴다 .
+he's a hunk .	그는 덩어리입니다 .
+he's a jerk .	그 사람은 바보야 .
+he's a liar .	그는 거짓말쟁이야 .
+he's a nerd .	그 사람은 괴짜야 .
+he's a slob .	그는 멍청이야 .
+he's asleep .	그는 자고 있어요 .
+he's coming .	그 사람이 온다 .
+he's crying .	그 사람이 울고 있어요 .
+he's faking .	그는 가짜입니다 .
+he's loaded .	그는 짐을 쌌다 .
+he's my age .	그 사람은 내 나이야 .
+he's not in .	그 사람은 에 없어 .
+help me out .	나 좀 도와줘 .
+here i come .	내가 왔어 .
+here she is !	여기 있어요 !
+here we are !	여기 있어요 !
+here we are .	여기 있습니다 .
+here , catch !	여기, 잡아 !
+how are you ?	어떻게 지내세요 ?
+how curious !	얼마나 궁금해요 !
+how is life ?	인생은 어때 ?
+i also went .	나도 갔다 .
+i am a cook .	나는 요리사입니다 .
+i am a monk .	나는 스님입니다 .
+i am a twin .	나는 쌍둥이입니다 .
+i am better .	내가 더 나아요 .
+i am coming .	나는 간다 .
+i am joking .	농담이에요 .
+i am single .	나는 싱글이에요 .
+i am taller .	나는 키가 더 크다 .
+i apologize .	사과드립니다 .
+i asked tom .	내가 톰에게 물어봤어 .
+i assume so .	나는 그렇게 생각한다 .
+i bought it .	나는 그것을 샀다 .
+i buried it .	나는 그것을 묻었다 .
+i burned it .	내가 태웠어 .
+i came back .	나는 돌아왔다 .
+i can dance .	나는 춤을 출 수 있어요 .
+i can do it .	나는 그것을 할 수 있다 .
+i can't eat .	나는 먹을 수 없다 .
+i can't say .	나는 말할 수 없다 .
+i can't see .	나는 볼 수 없다 .
+i can't win .	나는 이길 수 없다 .
+i caught it .	나는 그것을 잡았다 .
+i confessed .	나는 고백했다 .
+i could try .	나는 시도할 수 있었다 .
+i cut class .	나 수업 빼먹었어 .
+i didn't go .	나는 가지 않았다 .
+i disagreed .	나는 동의하지 않았다 .
+i dozed off .	나는 졸았다 .
+i eat a lot .	나는 많이 먹는다 .
+i eat alone .	나 혼자 먹어요 .
+i eat bread .	나는 빵을 먹는다 .
+i eat fruit .	나는 과일을 먹습니다 .
+i exercised .	나는 운동했다 .
+i feel blue .	기분이 우울해요 .
+i feel cold .	추워요 .
+i feel fine .	기분이 괜찮아요 .
+i feel good .	기분이 좋아 .
+i feel lost .	나는 길을 잃은 기분이다 .
+i feel safe .	나는 안전하다고 느낀다 .
+i feel sick .	나 아파요 .
+i feel weak .	나 약해졌어 .
+i feel well .	기분이 좋아 .
+i felt dumb .	나는 멍청하다고 느꼈다 .
+i felt fear .	나는 두려움을 느꼈다 .
+i felt good .	기분이 좋았어 .
+i felt safe .	나는 안전하다고 느꼈다 .
+i got bored .	지루해졌어 .
+i got dizzy .	어지러워 졌어 .
+i got fined .	나 벌금 ​​받았어 .
+i got lucky .	나는 운이 좋았다 .
+i got upset .	나 화났어 .
+i guess not .	내 생각엔 아닌 것 같아 .
+i had to go .	나는 가야만 했다 .
+i hate dogs .	나는 개를 싫어한다 .
+i hate fish .	나는 물고기를 싫어한다 .
+i hate golf .	나는 골프를 싫어한다 .
+i hate milk .	나는 우유를 싫어한다 .
+i hate sand .	나는 모래를 싫어한다 .
+i hate that .	난 그거 싫어 .
+i hate them .	난 그 사람들이 싫어요 .
+i hate this .	난 이거 싫어 .
+i hate work .	나는 일을 싫어한다 .
+i have cash .	나에겐 현금이 있어요 .
+i have eyes .	나에겐 눈이 있다 .
+i have food .	나에겐 음식이 있어요 .
+i have news .	나한테 소식이 있어 .
+i have time .	나에겐 시간이 있어 .
+i have wine .	나에겐 와인이 있어요 .
+i hesitated .	나는 망설였다 .
+i know that .	나도 알아요 .
+i know them .	나는 그들을 알고 있습니다 .
+i know this .	나는 이것을 알고 있다 .
+i like beer .	나는 맥주를 좋아해요 .
+i like blue .	나는 파란색을 좋아해요 .
+i like both .	나는 둘 다 좋아해요 .
+i like cake .	나는 케이크를 좋아해요 .
+i like cats .	나는 고양이를 좋아해요 .
+i like dogs .	나는 개를 좋아해요 .
+i like jazz .	나는 재즈를 좋아해요 .
+i like math .	나는 수학을 좋아해요 .
+i like milk .	나는 우유를 좋아해요 .
+i like rice .	나는 쌀을 좋아한다 .
+i like rock .	나는 록을 좋아해요 .
+i like that .	나는 그것을 좋아한다 .
+i like them .	나는 그들을 좋아한다 .
+i like this .	나는 이것을 좋아한다 .
+i liked tom .	나는 톰을 좋아했어요 .
+i live here .	나는 여기에 산다 .
+i love mary .	나는 메리를 사랑해요 .
+i love golf .	나는 골프를 좋아해요 .
+i love kids .	나는 아이들을 사랑합니다 .
+i love life .	나는 인생을 사랑합니다 .
+i loved you .	나는 당신을 사랑했습니다 .
+i made rice .	내가 밥을 만들었어요 .
+i messed up .	내가 망쳤어 .
+i must hide .	나는 숨어야 해 .
+i must obey .	나는 순종해야 한다 .
+i nailed it .	나는 그것을 못 박았다 .
+i need food .	음식이 필요해 .
+i need glue .	접착제가 필요해 .
+i need more .	난 더 필요해요 .
+i need some .	좀 필요해요 .
+i need that .	나한테는 그게 필요해 .
+i need them .	난 그게 필요해 .
+i need time .	시간이 필요해 .
+i never bet .	난 절대 내기하지 않아 .
+i never win .	나는 결코 이기지 못한다 .
+i often ski .	나는 종종 스키를 타요 .
+i oppose it .	나는 그것에 반대한다 .
+i pay taxes .	나는 세금을 낸다 .
+i protested .	나는 항의했다 .
+i read lips .	나는 입술을 읽었다 .
+i recovered .	나는 회복했다 .
+i said stop .	내가 그만하라고 했어 .
+i said that .	나는 그렇게 말했다 .
+i saved you .	내가 당신을 구했어요 .
+i saw a dog .	나는 개를 보았다 .
+i sell cars .	나는 차를 팔아요 .
+i should go .	나는 가야 해 .
+i smell gas .	가스 냄새가 나요 .
+i struggled .	나는 어려움을 겪었다 .
+i succeeded .	나는 성공했다 .
+i surrender .	나는 항복한다 .
+i thank you .	고마워요 .
+i trust her .	나는 그녀를 믿습니다 .
+i trust him .	나는 그를 신뢰합니다 .
+i trust you .	나는 당신을 믿습니다 .
+i waited up .	나는 기다렸다 .
+i want mary .	나는 메리를 원해요 .
+i want cash .	나는 현금을 원해요 .
+i want eggs .	나는 계란을 원해요 .
+i want kids .	나는 아이들을 원해요 .
+i want mine .	나는 내 것을 원한다 .
+i want more .	나는 더 원해요 .
+i want soup .	나는 수프를 원해요 .
+i want that .	나는 그것을 원한다 .
+i want them .	나는 그들을 원해요 .
+i want this .	나는 이것을 원한다 .
+i want time .	나는 시간을 원해요 .
+i was alone .	나는 혼자였다 .
+i was bored .	나는 지루했다 .
+i was broke .	나는 파산했다 .
+i was dizzy .	나는 어지러웠다 .
+i was drunk .	나는 취했다 .
+i was fired .	나는 해고됐다 .
+i was hired .	나는 고용되었다 .
+i was lucky .	나는 운이 좋았다 .
+i was moved .	나는 감동받았다 .
+i was naive .	나는 순진했다 .
+i was ready .	나는 준비가 되어 있었다 .
+i was sober .	나는 술에 취하지 않았다 .
+i was sorry .	미안했어요 .
+i was there .	나는 거기에 있었다 .
+i was third .	나는 세 번째였습니다 .
+i was tired .	나는 피곤했다 .
+i was wrong .	내가 틀렸어 .
+i washed it .	나는 그것을 씻었다 .
+i went home .	나는 집에 갔다 .
+i went , too .	나도 갔다 .
+i will come .	내가 갈게 .
+i will help .	내가 도와줄게 .
+i will obey .	나는 순종할 것이다 .
+i will wait .	나는 기다릴 것이다 .
+i will walk .	나는 걸을 것이다 .
+i will work .	나는 일할 것이다 .
+i won again .	내가 또 이겼어 .
+i won't cry .	나는 울지 않을 것이다 .
+i work here .	나는 여기서 일해요 .
+i'll attend .	나는 참석할 것이다 .
+i'll buy it .	내가 사줄게 .
+i'll cancel .	취소하겠습니다 .
+i'll change .	내가 바꿀게 .
+i'll decide .	내가 결정할게 .
+i'll get in .	나는 들어갈 것이다 .
+i'll get it .	내가 가져갈게 .
+i'll get up .	나는 일어날 것이다 .
+i'll go now .	나는 지금 갈 것이다 .
+i'll go see .	내가 보러 갈게 .
+i'll manage .	내가 관리할게 .
+i'll scream .	나는 비명을지를 것이다 .
+i'll try it .	내가 시도해 볼게 .
+i'm 17 , too .	나도 17살이에요 .
+i'm a baker .	나는 빵 굽는 사람이에요 .
+i'm a child .	나는 어린 아이입니다 .
+i'm a medic .	나는 의료진입니다 .
+i'm all set .	난 다 됐어 .
+i'm ashamed .	부끄럽다…
+i'm at home .	나 집에 있어 .
+i'm at work .	나는 일하고 있어요 .
+i'm baffled .	나는 당황했다 .
+i'm blessed .	나는 축복 받았습니다 .
+i'm careful .	나는 조심해요 .
+i'm certain .	나는 확신한다 .
+i'm chicken .	나는 닭이야 .
+i'm cooking .	나는 요리 중이야 .
+i'm correct .	내가 맞아요 .
+i'm curious .	나는 궁금하다 .
+i'm dancing .	나는 춤을 추고 있어요 .
+i'm dieting .	나 다이어트 중이야 .
+i'm driving .	나는 운전 중이야 .
+i'm engaged .	나 약혼했어 .
+i'm excited .	나는 신난다 .
+i'm falling .	나는 떨어지고있다 .
+i'm fasting .	나는 금식 중입니다 .
+i'm finicky .	나는 까다롭다 .
+i'm frantic .	나는 미쳤다 .
+i'm furious .	나는 화가 난다 .
+i'm healthy .	나는 건강해요 .
+i'm humming .	나 흥얼거리고 있어 .
+i'm in love .	나는 사랑에 빠졌습니다 .
+i'm in luck .	나는 운이 좋다 .
+i'm jealous .	나는 질투한다 .
+i'm jittery .	나는 불안하다 .
+i'm kidding .	농담이에요 .
+i'm leaving .	나는 떠난다 .
+i'm married .	나는 결혼했어요 .
+i'm nervous .	긴장돼요 .
+i'm neutral .	나는 중립이다 .
+i'm no fool .	난 바보가 아니야 .
+i'm no hero .	나는 영웅이 아니다 .
+i'm no liar .	나는 거짓말쟁이가 아니다 .
+i'm not tom .	난 톰이 아니야 .
+i'm not fat .	나는 뚱뚱하지 않아요 .
+i'm not mad .	나 화 안 났어 .
+i'm not old .	난 늙지 않았어 .
+i'm not sad .	나는 슬프지 않다 .
+i'm not shy .	난 부끄러워하지 않아요 .
+i'm on duty .	나는 근무 중이야 .
+i'm patient .	짜증난 .
+i'm popular .	나는 인기가 있어요 .
+i'm psyched .	나 정신이 이상해 .
+i'm psychic .	나는 심령술사야 .
+i'm puzzled .	나는 의아해한다 .
+i'm reading .	나는 읽고 있어요 .
+i'm relaxed .	나는 편안하다 .
+i'm retired .	나는 은퇴했다 .
+i'm selfish .	나는 이기적이다 .
+i'm serious .	난 진심이야 .
+i'm shocked .	나는 충격을 받았습니다 .
+i'm sincere .	나는 진심이다 .
+i'm sloshed .	나는 출렁거렸다 .
+i'm smashed .	나는 박살났다 .
+i'm so cold .	나 너무 추워 .
+i'm so full .	너무 배불러요 .
+i'm so glad .	정말 기뻐요 .
+i'm starved .	나는 배고프다 .
+i'm staying .	나는 머물고있다 .
+i'm stuffed .	난 꽉 찼어 .
+i'm stunned .	나는 깜짝 놀랐다 .
+i'm talking .	나는 말하고있다 .
+i'm teasing .	나는 놀리고있다 .
+i'm thirsty .	나는 목이 마르다 .
+i'm through .	난 끝났어 .
+i'm too fat .	나는 너무 뚱뚱해요 .
+i'm touched .	감동받았어 .
+i'm trapped .	나는 갇혀있다 .
+i'm unarmed .	나는 비무장이야 .
+i'm unhappy .	나는 불행하다 .
+i'm unlucky .	나는 운이 좋지 않다 .
+i'm wealthy .	나는 부자입니다 .
+i'm winning .	내가 이기고 있어요 .
+i'm working .	나는 일하고 있어요 .
+i'm worried .	걱정돼요 .
+i've failed .	나는 실패했다 .
+ignore them .	그들을 무시하십시오 .
+is tom here ?	톰 여기 있어요 ?
+is tom hurt ?	톰은 다쳤나요 ?
+is tom lazy ?	톰은 게으르다 ?
+is tom safe ?	톰은 안전해 ?
+is tom sure ?	톰은 확실한가요 ?
+is tom well ?	톰은 잘 지내 ?
+is he right ?	그 사람 맞지 ?
+is it clean ?	깨끗해요 ?
+is it clear ?	분명해요 ?
+is it dirty ?	더럽나요 ?
+is it fatal ?	치명적인가요 ?
+is it legal ?	그것은 합법적입니까 ?
+is it ready ?	준비됐나요 ?
+is it to go ?	가는 거야 ?
+is it yours ?	그것은 당신 것입니까 ?
+is she gone ?	그 사람 없어졌어 ?
+is that tom ?	저 사람 톰이야 ?
+is that all ?	그게 다야 ?
+is that you ?	그게 당신이에요 ?
+is this art ?	이게 예술이야 ?
+it can't be !	그럴 리가 없어 !
+it happened .	그것은 일어났습니다 .
+it is foggy .	안개가 낀다 .
+it may rain .	비가 올 수도 있습니다 .
+it may snow .	눈이 올 수도 있습니다 .
+it was fair .	그것은 공평했다 .
+it was flat .	그것은 평평했다 .
+it was hard .	힘들었다 .
+it was long .	길었다 .
+it'll break .	그것은 깨질 것이다 .
+it's 50 yen .	50엔이에요 .
+it's monday .	월요일이에요 .
+it's a doll .	인형이에요 .
+it's a fact .	그것은 사실이다 .
+it's a fake .	그것은 가짜입니다 .
+it's a rule .	그것은 규칙입니다 .
+it's a scam .	그것은 사기입니다 .
+it's a sign .	그것은 표시입니다 .
+it's a song .	그것은 노래입니다 .
+it's all ok .	다 괜찮아요 .
+it's broken .	고장 났어요 .
+it's cloudy .	날씨가 흐려요 .
+it's ironic .	아이러니하다 .
+it's locked .	잠겨 있어요 .
+it's my job .	그건 내 일이야 .
+it's no use .	그것은 소용이 없습니다 .
+it's not us .	우리가 아니야 .
+it's poison .	그것은 독이다 .
+it's secret .	그것은 비밀입니다 .
+it's silent .	조용해요 .
+it's stupid .	그것은 바보입니다 .
+it's urgent .	긴급해요 .
+it's warmer .	더 따뜻해요 .
+just say no .	그냥 안 된다고 하세요 .
+keep trying .	계속 노력하세요 .
+let me help .	제가 도와드리겠습니다 .
+let me know .	알려줘요 .
+let me talk .	얘기 좀 하자 .
+let's begin .	시작하자 .
+let's dance .	춤추자 .
+let's do it !	해보자 !
+let's do it .	해보자 .
+let's drink .	마시자 .
+let's hurry .	서두르자 .
+let's party .	파티하자 .
+let's split .	헤어지자 .
+let's start !	시작하자 !
+let's start .	시작하자 .
+life is fun .	인생은 재미 있습니다 .
+look around .	주위를 둘러보세요 .
+lunch is on .	점심 시간입니다 .
+make a list .	목록을 만드세요 .
+make a wish .	소원을 빌다 .
+many thanks .	많은 감사드립니다 .
+may i begin ?	시작해도 될까요 ?
+memorize it .	그것을 외워라 .
+money talks .	돈 이야기 .
+need a lift ?	리프트가 필요해 ?
+nice timing .	좋은 타이밍 .
+no means no .	아니오 는 아니오 를 의미 합니다 .
+no one came .	아무도 안 왔어 .
+no one died .	아무도 죽지 않았습니다 .
+no one left .	아무도 남지 않았습니다 .
+nobody came .	아무도 안 왔어 .
+nobody died .	아무도 죽지 않았습니다 .
+now i'm sad .	지금 나는 슬프다 .
+now we wait .	이제 우리는 기다립니다 .
+ok . i agree .	좋아요 . 나는 동의한다 .
+oh , come on .	아, 어서 .
+pick a card .	카드를 골라라 .
+pick a date .	날짜를 선택하세요 .
+plants grow .	식물이 자랍니다 .
+please come .	꼭 와주세요 .
+please sing .	노래해주세요 .
+please stay .	머물러 주세요 .
+please stop .	그만하세요 .
+put it back .	다시 넣어 .
+put it down .	그것을 내려 놓으십시오 .
+release him .	그를 풀어줘 .
+remember it .	그것을 기억하세요 .
+say goodbye .	작별 인사를 하세요 .
+send him in .	그를 안으로 보내세요 .
+shall we go ?	우리 갈까 ?
+she blushed .	그녀는 얼굴을 붉혔다 .
+she fainted .	그녀는 기절했다 .
+she hit him .	그녀는 그를 때렸다 .
+she is curt .	그녀는 무뚝뚝해요 .
+she is dead .	그녀는 죽었습니다 .
+she is kind .	그녀는 친절해요 .
+she is late .	그녀는 늦었어요 .
+she woke up .	그녀는 일어났습니다 .
+she's a dog .	그 사람은 개야 .
+she's a fox .	그 사람은 여우야 .
+should i go ?	내가 가야 하나 ?
+sleep tight .	푹 자요 .
+stand aside .	옆으로 서라 .
+stand still !	가만히 있어 !
+stay in bed .	침대에 누워있어 .
+stay inside .	안에있어 .
+step inside .	안으로 들어가세요 .
+stop crying .	그만 울어 .
+stop trying .	그만해 .
+take a bath .	목욕하다 .
+take a bite .	한 입 먹어라 .
+take a bite .	한 입 먹어라 .
+take a card .	카드를 받아라 .
+take a look .	보세요 .
+take a rest .	휴식을 취하세요 .
+take a seat .	자리에 앉으세요 .
+take a walk .	산책하다 .
+take it all .	다 가져가라 .
+that helped .	그게 도움이 됐어요 .
+that is all .	그게 전부입니다 .
+that worked .	그게 효과가 있었어 .
+that's cool .	그거 멋지다 .
+that's easy .	그건 쉽습니다 .
+that's free .	그것은 무료입니다 .
+that's hard .	그건 어렵다 .
+that's hers .	그건 그녀 거야 .
+that's icky .	그거 이상해 .
+that's lame .	그건 형편없어 .
+that's mine .	그건 내 꺼야 .
+that's true .	그건 사실이야 .
+that's ugly .	그거 못생겼어 .
+that's wise .	그게 현명해요 .
+the tv's on .	TV가 켜져 있어요 .
+there he is .	저기 그가 있어요 .
+there it is .	거기 있어요 .
+they burned .	그들은 불탔다 .
+they got it .	그들은 그것을 얻었습니다 .
+they hugged .	그들은 포옹했다 .
+they kissed .	그들은 키스했다 .
+they obeyed .	그들은 순종했습니다 .
+they smiled .	그들은 미소 지었다 .
+they're bad .	그들은 나쁘다 .
+they're old .	그들은 늙었어요 .
+this is bad .	이건 나쁘다 .
+this is big .	이건 크다 .
+this is fun .	이것은 재미있다 .
+this is his .	이것은 그의 것입니다 .
+this is new .	이것은 새로운 것입니다 .
+this is odd .	이건 이상해요 .
+this stinks .	이거 냄새나는데 .
+tom blinked .	톰은 눈을 깜박였다 .
+tom changed .	톰이 바뀌었어요 .
+tom coughed .	톰이 기침을 했어요 .
+tom drowned .	톰이 익사했어요 .
+tom inhaled .	톰이 흡입했다 .
+tom is bald .	톰은 대머리야 .
+tom is dead .	톰은 죽었어 .
+tom is lazy .	톰은 게으르다 .
+tom is nuts .	톰은 미쳤어 .
+tom is rude .	톰은 무례해요 .
+tom is sexy .	톰은 섹시해요 .
+tom is slow .	톰은 느려요 .
+tom is tall .	톰은 키가 커요 .
+tom is weak .	톰은 약해요 .
+tom is wise .	톰은 현명해요 .
+tom laughed .	톰은 웃었다 .
+tom left me .	톰이 나를 떠났어요 .
+tom listens .	톰은 듣는다 .
+tom refused .	톰은 거절했어요 .
+tom said hi .	톰이 안녕이라고 했어요 .
+tom said no .	톰은 안 된다고 했어요 .
+tom sweated .	톰은 땀을 흘렸다 .
+tom took it .	톰이 그걸 가져갔어 .
+tom'll call .	톰이 전화할게 .
+tom'll come .	톰이 올 거야 .
+tom'll quit .	톰은 그만둘 거야 .
+tom's alive .	톰은 살아 있어요 .
+tom's alone .	톰은 혼자예요 .
+tom's angry .	톰이 화가 났어요 .
+tom's awake .	톰이 일어났어요 .
+tom's bored .	톰은 지루해요 .
+tom's crazy .	톰은 미쳤어 .
+tom's drunk .	톰이 취했어요 .
+tom's dying .	톰이 죽어가고 있어 .
+tom's funny .	톰 재밌어 .
+tom's lucky .	톰은 운이 좋다 .
+tom's lying .	톰이 거짓말을 하고 있어요 .
+tom's sorry .	톰 미안해요 .
+tom's wrong .	톰이 틀렸어 .
+try to rest .	휴식을 취하십시오 .
+turn around .	돌아서 .
+turn it off .	꺼 줘 .
+wait for us .	우리를 기다려주세요 .
+wake tom up .	톰 일어나요 .
+walk slowly .	천천히 걸어요 .
+war is evil .	전쟁은 사악합니다 .
+war is hell .	전쟁은 지옥이다 .
+was i wrong ?	내가 틀렸어 ?
+was it good ?	좋았어 ?
+we all know .	우리 모두는 알고 있습니다 .
+we all quit .	우리 모두 그만뒀어요 .
+we all work .	우리 모두는 일합니다 .
+we are boys .	우리는 소년입니다 .
+we are even .	우리는 짝수입니다 .
+we are here .	우리는 여기에 있습니다 .
+we are late .	우리는 늦었어요 .
+we broke up .	우리는 헤어졌다 .
+we can meet .	우리는 만날 수 있어요 .
+we can talk .	우리는 얘기할 수 있어요 .
+we can wait .	우리는 기다릴 수 있습니다 .
+we can't go .	우리는 갈 수 없어 .
+we did fine .	우리는 잘 했어요 .
+we did that .	우리가 그랬어요 .
+we found it .	우리는 그것을 찾았습니다 .
+we know him .	우리는 그를 알고 있습니다 .
+we like tom .	우리는 톰을 좋아해요 .
+we like him .	우리는 그를 좋아해요 .
+we miss you .	우리는 당신이 그리워요 .
+we must act .	우리는 행동해야 합니다 .
+we must run .	우리는 달려야 해 .
+we must try .	우리는 시도해야합니다 .
+we need tom .	우리에겐 톰이 필요해요 .
+we need you .	우리는 당신이 필요합니다 .
+we promised .	우리는 약속했다 .
+we remember .	우리는 기억합니다 .
+we survived !	우리는 살아 남았습니다 !
+we survived .	우리는 살아 남았습니다 .
+we want tom .	우리는 톰을 원해요 .
+we want one .	우리는 하나를 원해요 .
+we'll check .	확인해 보겠습니다 .
+we'll dance .	우리는 춤을 출 것이다 .
+we'll drive .	우리는 운전할 것이다 .
+we'll fight .	우리는 싸울 것이다 .
+we'll hurry .	서두르겠습니다 .
+we'll share .	우리는 공유할 것입니다 .
+we'll shoot .	우리는 쏠거야 .
+we'll stand .	우리는 설 것이다 .
+we'll start .	시작하겠습니다 .
+we're alone .	우리는 혼자입니다 .
+we're angry .	우리는 화가 났습니다 .
+we're armed .	우리는 무장했습니다 .
+we're bored .	우리는 지루해요 .
+we're broke .	우리는 파산했습니다 .
+we're dying .	우리는 죽어가고 있어요 .
+we're early .	우리는 일찍이야 .
+we're going .	우리는 갈거야 .
+we're happy .	우리는 행복해요 .
+we're ready .	우리는 준비됐다 .
+we're saved .	우리는 구원받았습니다 .
+we're smart .	우리는 똑똑해요 .
+we're sorry .	죄송해요 .
+we're stuck .	우리는 붙어있다 .
+we're tired .	우리는 피곤해요 .
+we're twins .	우리는 쌍둥이예요 .
+what a bore !	정말 지루해 !
+what a dope !	정말 대단해요 !
+what a drag !	정말 드래그 !
+what a dump .	정말 쓰레기 야 .
+what a heel !	정말 발 뒤꿈치 !
+what a jerk !	정말 바보야 !
+what a joke !	정말 농담이에요 !
+what a loss !	정말 손실이에요 !
+what a mess !	정말 엉망이야 !
+what a pain !	정말 고통 스럽습니다 !
+what a pity !	정말 안타깝습니다 !
+what a team !	정말 멋진 팀이에요 !
+what is art ?	예술이란 무엇입니까 ?
+what was it ?	그게 뭐였지 ?
+what'd i do ?	내가 뭘 했지 ?
+what's that ?	그게 뭐야 ?
+what's this ?	이건 뭐야 ?
+where is he ?	그 사람은 어디 있어 ?
+where is it ?	어디야 ?
+where was i ?	내가 어디 있었어 ?
+where's tom ?	톰은 어디 있어 ?
+who are you ?	누구세요 ?
+who cheated ?	누가 속였어 ?
+who drew it ?	누가 그렸나요 ?
+who escaped ?	누가 탈출했나요 ?
+who is next ?	다음은 누구야 ?
+who's going ?	누가 가 ?
+who's there ?	거기 누구야 ?
+whose is it ?	누구야 ?
+will it fit ?	맞을거야 ?
+will you go ?	갈 거야 ?
+work slowly .	천천히 일해라 .
+you are big .	당신은 크다 .
+you are mad .	당신은 미쳤어요 .
+you cheated .	당신은 속였습니다 .
+you fainted .	당신은 기절했습니다 .
+you hurt me .	당신은 나에게 상처를 입혔습니다 .
+you may sit .	앉을 수도 있어요 .
+you must go .	당신은 가야 해요 .
+you woke me .	당신이 나를 깨웠어요 .
+you're back .	당신은 돌아왔다 .
+you're cool .	당신은 멋지다 .
+you're fair .	당신은 공평해요 .
+you're fine .	당신은 괜찮아요 .
+you're free .	당신은 무료입니다 .
+you're good .	당신은 괜찮아요 .
+you're kind .	당신은 친절해요 .
+you're late .	당신은 늦었어요 .
+you're lazy .	당신은 게으르다 .
+you're lost .	당신은 길을 잃었습니다 .
+you're nice .	당신은 착해요 .
+you're nuts !	너 미쳤어 !
+you're rich .	당신은 부자입니다 .
+you're rude .	당신은 무례해요 .
+you're safe .	당신은 안전해요 .
+you're sick !	너 아프다 !
+you're thin .	당신은 말랐어요 .
+you're weak .	당신은 약해요 .
+you're wise .	당신은 현명합니다 .
+a car cut in .	차가 끼어들었다 .
+abandon ship !	배를 버려라 !
+act your age .	나이대로 행동하세요 .
+all is quiet .	모두 조용해요 .
+all is still .	모두 아직 입니다 .
+am i correct ?	내 말이 맞나요 ?
+am i in love ?	내가 사랑에 빠졌나요 ?
+anybody here ?	여기 누구 없어요 ?
+anybody home ?	집에 누구 없나요 ?
+anybody hurt ?	다친 사람 없어 ?
+anything new ?	새로운 건 없어 ?
+are they new ?	그거 새로운 거야 ?
+are we alone ?	우리 혼자야 ?
+are we broke ?	우리 망했어 ?
+are we ready ?	우리 준비 됐어 ?
+are you bald ?	너 대머리니 ?
+are you busy ?	바쁘세요 ?
+are you deaf ?	당신은 귀머거리입니까 ?
+are you home ?	집에 있어요 ?
+are you hurt ?	다쳤어요 ?
+are you lost ?	길을 잃었나요 ?
+are you sick ?	너 아프니 ?
+are you sure ?	확실해요 ?
+be attentive .	주의를 기울이십시오 .
+be confident .	자신감을 가져라 .
+be realistic !	현실적이 되어라 !
+beef , please .	쇠고기 주세요 .
+bring a date .	데이트를 가져오세요 .
+bring him in .	그를 데려오세요 .
+call me back .	나에게 다시 전화해 주세요 .
+can i finish ?	내가 끝낼 수 있을까 ?
+can i go now ?	나 지금 가도 돼 ?
+can i go now ?	지금 가도 되나요 ?
+can i try it ?	내가 시도해봐도 될까 ?
+can we leave ?	우리 떠날 수 있을까 ?
+can we start ?	우리 시작해도 돼 ?
+can you come ?	올 수 있어 ?
+can you stay ?	머물 수 있나요 ?
+can you swim ?	수영할 수 있어요 ?
+can you walk ?	걸을 수 있어 ?
+check it out !	확인해 보세요 !
+come at once .	즉시 와라 .
+come back in .	다시 들어와 .
+come help me .	와서 도와주세요 .
+come in , tom .	들어와, 톰 .
+come join us .	와서 우리와 함께 하세요 .
+come outside .	밖으로 나오세요 .
+come quickly !	빨리와 !
+come quickly .	빨리 와 .
+come up here .	여기로 올라오세요 .
+come with me .	나와 함께 가자 .
+come with us .	우리와 함께 가자 .
+cool it down .	진정해 .
+could we sit ?	우리 앉을 수 있을까 ?
+cover for me .	나를 위해 커버 .
+cut that out !	그거 잘라 !
+did tom call ?	톰이 전화했어 ?
+did tom fall ?	톰이 넘어졌나요 ?
+did tom sing ?	톰이 노래를 불렀나요 ?
+did tom stay ?	톰은 머물렀나요 ?
+did tom swim ?	톰은 수영했어요 ?
+did you call ?	전화했어 ?
+did you sign ?	서명했어요 ?
+did you vote ?	투표했니 ?
+do i look ok ?	나 괜찮아 보여 ?
+do you agree ?	동의하시나요 ?
+do you drink ?	당신은 술을 마십니까 ?
+do you smoke ?	담배를 피우나요 ?
+do you teach ?	당신은 가르치나요 ?
+do your best !	최선을 다해 !
+do your best .	최선을 다하세요 .
+do your duty .	당신의 의무를 다하십시오 .
+does it hurt ?	아파요 ?
+does it work ?	작동합니까 ?
+don't ask me .	나에게 묻지 마세요 .
+don't be mad .	화내지 마세요 .
+don't be sad .	슬퍼하지 마세요 .
+don't be shy .	부끄러워하지 마세요 .
+don't bother .	귀찮게하지 마십시오 .
+don't forget .	잊지 마세요 .
+don't get up .	일어나지 마세요 .
+don't kid me !	놀리지 마세요 !
+don't litter !	쓰레기를 버리지 마세요 !
+don't ramble .	방황하지 마십시오 .
+don't resist .	저항하지 마십시오 .
+drive safely .	안전운전하세요 .
+drive slowly .	천천히 운전하세요 .
+drop the gun .	총을 버려라 .
+easy does it .	쉽습니다 .
+find the cat .	고양이를 찾아보세요 .
+fish , please .	물고기 주세요 .
+get a doctor .	의사를 만나다
+get my rifle .	내 소총 가져와 .
+ghosts exist .	유령은 존재한다 .
+give me half .	나에게 반을 줘 .
+go for broke !	파산하러 가세요 !
+go to school .	학교에 가다 .
+good evening .	좋은 저녁이에요 .
+good for you .	당신에게 좋습니다 .
+good morning .	좋은 아침이에요 .
+grab a spoon .	숟가락을 잡아라 .
+grab my hand .	내 손을 잡아 .
+hand it over .	넘겨주세요 .
+have a donut .	도넛을 먹어라 .
+have a drink .	마셔 라 .
+have a snack .	간식을 먹어라 .
+have a taste .	맛 좀 보세요 .
+have another .	또 다른 .
+he avoids me .	그는 나를 피한다 .
+he could die .	그는 죽을 수도 있다 .
+he denied it .	그는 그것을 부인했다 .
+he dozed off .	그는 졸았다 .
+he dumped me .	그 사람이 나를 버렸어요 .
+he got angry .	그는 화를 냈습니다 .
+he had a dog .	그는 개를 키웠어요 .
+he has a car .	그 사람은 차를 갖고 있어요 .
+he has money .	그 사람은 돈이 있어요 .
+he helps her .	그는 그녀를 도와줍니다 .
+he is a poet .	그는 시인이다 .
+he is asleep .	그는 자고 있어요 .
+he is cranky .	그는 까다로워요 .
+he is eating .	그는 먹고 있어요 .
+he is heroic .	그는 영웅적이다 .
+he is not in .	그는 에 없습니다 .
+he just left .	그는 방금 떠났어요 .
+he kicked it .	그는 그것을 찼다 .
+he let me go .	그는 나를 놓아주었다 .
+he let us go .	그는 우리를 보내주었다 .
+he likes tea .	그는 차를 좋아해요 .
+he lost face .	그는 체면을 잃었다 .
+he loves her .	그는 그녀를 사랑합니다 .
+he mocked me .	그는 나를 조롱했습니다 .
+he needs you .	그 사람은 당신이 필요해요 .
+he shall die .	그는 죽을 것이다 .
+he wants one .	그는 하나를 원해요 .
+he was alone .	그는 혼자였습니다 .
+he was brave .	그는 용감했습니다 .
+he was great .	그는 훌륭했어요 .
+he was lucky .	그는 운이 좋았습니다 .
+he was naive .	그는 순진했어요 .
+he was wrong .	그는 틀렸다 .
+he will come .	그는 올 것이다 .
+he will wait .	그는 기다릴 것이다 .
+he's a bigot .	그 사람은 편협한 사람이야 .
+he's in pain .	그는 고통스러워요 .
+he's married .	그 사람은 결혼했어요 .
+he's my hero .	그는 나의 영웅이야 .
+he's out now .	그는 지금 밖에 있어요 .
+he's so cute .	그는 너무 귀여워요 .
+hello , girls .	안녕, 얘들아 .
+here's a pen .	여기 펜이 있어요 .
+hey , wait up !	안녕, 기다려 !
+hold my hand .	내 손을 잡아요 .
+how annoying !	정말 짜증나 !
+how dare you !	어떻게 감히 !
+how did i do ?	내가 어떻게 했어 ?
+how horrible !	얼마나 끔찍한가 !
+how romantic !	얼마나 낭만적입니까 !
+how's school ?	학교는 어때 ?
+i admire you .	나는 당신을 존경합니다 .
+i always win .	나는 항상 승리한다 .
+i am ashamed .	부끄러워요 .
+i am at home .	나 집에 있어 .
+i am curious .	나는 궁금하다 .
+i am married .	나는 결혼했어요 .
+i am so sick .	나 너무 아파요 .
+i am thirsty .	나는 목이 마르다 .
+i am working .	나는 일하고 있어요 .
+i apologized .	나는 사과했다 .
+i ate apples .	나는 사과를 먹었다 .
+i ate caviar .	나는 캐비어를 먹었다 .
+i believe it .	나는 그것을 믿는다 .
+i called him .	내가 그 사람에게 전화했어요 .
+i called you .	내가 너한테 전화했어 .
+i can fix it .	내가 고칠 수 있어요 .
+i can manage .	내가 관리할 수 있어요 .
+i can't help .	나는 도울 수 없다 .
+i can't move .	나는 움직일 수 없다 .
+i can't sing .	나는 노래를 할 수 없습니다 .
+i can't swim .	나는 수영을 할 수 없습니다 .
+i can't wait .	나는 기다릴 수 없다 .
+i caught tom .	내가 톰을 잡았어요 .
+i could help .	내가 도와줄 수 있어요 .
+i could walk .	나는 걸을 수 있었다 .
+i cried , too .	나도 울었어요 .
+i cry easily .	나는 쉽게 울어요 .
+i cut myself .	나는 나 자신을 자른다 .
+i deserve it .	난 그럴 자격이 있어 .
+i did my job .	나는 내 일을 했다 .
+i did see it .	나는 그것을 보았다 .
+i didn't ask .	나는 묻지 않았다 .
+i didn't cry .	나는 울지 않았다 .
+i didn't pay .	나는 지불하지 않았다 .
+i didn't win .	나는 이기지 못했다 .
+i don't bite .	나는 물지 않는다 .
+i don't care .	난 상관 없어 .
+i don't date .	난 데이트 안 해 .
+i don't know .	모르겠습니다 .
+i don't mind .	난 상관 없어 .
+i don't read .	나는 읽지 않는다 .
+i doubt that .	나는 그것을 의심한다 .
+i drank milk .	나는 우유를 마셨다 .
+i drink beer .	나는 맥주를 마신다 .
+i enjoyed it .	나는 그것을 즐겼다 .
+i feel alive .	나는 살아있음을 느낀다 .
+i feel awful .	기분이 나빠요 .
+i feel dizzy .	어지러워요 .
+i feel faint .	기분이 나빠요 .
+i feel funny .	기분이 이상해요 .
+i feel giddy .	현기증이 나네요 .
+i feel happy .	나는 행복하다고 느낀다 .
+i feel lucky .	나는 행운을 느낀다 .
+i feel ready .	난 준비가 된 것 같아 .
+i feel silly .	나는 바보 같은 느낌이 든다 .
+i feel young .	나는 젊다고 느낀다 .
+i felt awful .	나는 끔찍하다고 느꼈다 .
+i felt great .	기분이 좋았어요 .
+i felt happy .	나는 행복하다고 느꼈다 .
+i felt naked .	나는 벌거벗은 기분이 들었다 .
+i felt safer .	나는 더 안전하다고 느꼈다 .
+i go jogging .	나는 조깅하러 간다 .
+i go to work .	나는 일하러 간다 .
+i got carded .	나 카드 받았어 .
+i got caught .	나는 잡혔다 .
+i got dumped .	나 버림받았어 .
+i got sleepy .	나 졸렸어 .
+i got soaked .	흠뻑 젖었어요 .
+i got the ax .	나는 도끼를 얻었다 .
+i had doubts .	나는 의심했다 .
+i handled it .	내가 처리했어 .
+i hate beans .	나는 콩을 싫어한다 .
+i hate flies .	나는 파리를 싫어한다 .
+i hate liars .	나는 거짓말쟁이를 싫어해요 .
+i have a car .	나에겐 차가 있어요 .
+i have a cat .	나에겐 고양이가 있어요 .
+i have a dog .	나에겐 개가 있어요 .
+i have a gun .	나에겐 총이 있어요 .
+i have a job .	나는 직업이 있어요 .
+i have a key .	나한테 열쇠가 있어요 .
+i have a kid .	나에겐 아이가 있어요 .
+i have a pen .	나에겐 펜이 있어요 .
+i have hives .	나는 두드러기가 있어요 .
+i have money .	나에겐 돈이 있어요 .
+i have needs .	나에게는 필요한 것이 있습니다 .
+i have plans .	나에겐 계획이 있어요 .
+i have proof .	나에겐 증거가 있어요 .
+i have to go .	나는 가야 해요 .
+i hear music .	나는 음악을 듣는다 .
+i heard that .	나는 그것을 들었다 .
+i helped tom .	내가 톰을 도왔어 .
+i helped out .	내가 도와줬어 .
+i honor that .	나는 그것을 존중합니다 .
+i hugged her .	나는 그녀를 안아주었다 .
+i improvised .	나는 즉석에서 .
+i just moved .	방금 이사했어요 .
+i keep a dog .	나는 개를 키운다 .
+i kissed tom .	나 톰한테 키스했어 .
+i know a way .	나는 방법을 알아요 .
+i like china .	나는 중국을 좋아한다 .
+i like r & b .	나는 R&B를 좋아해요 .
+i like bread .	나는 빵을 좋아해요 .
+i like chess .	나는 체스를 좋아해요 .
+i like fruit .	나는 과일을 좋아해요 .
+i like girls .	나는 여자를 좋아해요 .
+i like honey .	나는 꿀을 좋아한다 .
+i like music .	나는 음악을 좋아해요 .
+i like opera .	나는 오페라를 좋아해요 .
+i like sugar .	나는 설탕을 좋아해요 .
+i like sushi .	나는 초밥을 좋아해요 .
+i like these .	나는 이것들을 좋아한다 .
+i like women .	나는 여자를 좋아해요 .
+i liked that .	나는 그것을 좋아했다 .
+i lost a bet .	나는 내기를 잃었다 .
+i love books .	나는 책을 좋아해요 .
+i love bread .	나는 빵을 좋아해요 .
+i love games .	나는 게임을 좋아해요 .
+i love jokes .	나는 농담을 좋아해요 .
+i love music .	나는 음악을 좋아해요 .
+i love trips .	나는 여행을 좋아해요 .
+i loved that .	나는 그것을 좋아했다 .
+i made a bet .	나는 내기를 했다 .
+i made plans .	나는 계획을 세웠다 .
+i made these .	내가 이걸 만들었어 .
+i might stay .	난 남을지도 몰라 .
+i missed you .	나는 당신을 그리워했다 .
+i must hurry .	서둘러야 해요 .
+i must leave .	나는 떠나야 해요 .
+i must study .	나는 공부해야 해 .
+i need a bag .	가방이 필요해요 .
+i need a cab .	택시가 필요해요 .
+i need a car .	나는 차가 필요해요 .
+i need a hug .	포옹이 필요해요 .
+i need a job .	나는 직업이 필요해요 .
+i need a map .	지도가 필요해요 .
+i need a pen .	펜이 필요해요 .
+i need money .	나는 돈이 필요해요 .
+i need paint .	페인트가 필요해 .
+i need proof .	증거가 필요해 .
+i need sleep .	잠이 필요해 .
+i need space .	나에겐 공간이 필요해요 .
+i need sugar .	설탕이 필요해 .
+i need to go .	나 가야 해 .
+i need water .	물이 필요해 .
+i never lose .	나는 결코 잃지 않는다 .
+i often read .	나는 자주 읽는다 .
+i phoned him .	내가 그 사람에게 전화했어요 .
+i play piano .	나는 피아노를 친다 .
+i read books .	나는 책을 읽는다 .
+i rewrote it .	나는 그것을 다시 썼다 .
+i said maybe .	나는 아마도…
+i see a book .	나는 책을 본다 .
+i see a lion .	나는 사자를 본다 .
+i see a rose .	나는 장미를 본다 .
+i see a star .	나는 별을 본다 .
+i sell shoes .	나는 신발을 팔아요 .
+i started it .	내가 시작했어 .
+i still care .	난 아직도 신경쓰인다 .
+i suppose so .	내 생각엔 그럴 것 같아 .
+i swim a lot .	나는 수영을 많이 해요 .
+i sympathize .	나는 공감한다 .
+i teach here .	나는 여기서 가르친다 .
+i thought so .	나는 그렇게 생각했다 .
+i took a nap .	나는 낮잠을 잤다 .
+i took risks .	나는 위험을 감수했다 .
+i tried hard .	나는 열심히 노력했다 .
+i tried that .	나는 그것을 시도했다 .
+i understand .	이해합니다 .
+i understood .	나는 이해했다 .
+i want a job .	나는 직업을 원해요 .
+i want a lot .	나는 많은 것을 원한다 .
+i want facts .	나는 사실을 원해요 .
+i want proof .	나는 증거를 원해요 .
+i want these .	나는 이것을 원해요 .
+i want to go .	나는 가고 싶다 .
+i was asleep .	나는 자고 있었다 .
+i was beaten .	나는 구타당했습니다 .
+i was burned .	나는 화상을 입었다 .
+i was canned .	나는 통조림을 받았습니다 .
+i was framed .	나는 액자에 걸렸다 .
+i was lonely .	나는 외로웠다 .
+i was shaken .	나는 흔들렸다 .
+i was sleepy .	나는 졸렸다 .
+i was stupid .	나는 바보였다 .
+i was warned .	나는 경고를 받았습니다 .
+i weighed it .	나는 그것의 무게를 쟀다 .
+i went twice .	나는 두 번 갔다 .
+i will fight .	나는 싸울 것이다 .
+i will learn .	나는 배울 것이다 .
+i will shoot .	내가 쏠게 .
+i won't come .	나는 오지 않을 것이다 .
+i wonder who .	나는 누구인지 궁금하다 .
+i wonder why .	왜인지 궁금해요 .
+i work alone .	나는 혼자 일해요 .
+i wrote that .	나는 그것을 썼다 .
+i'd buy that .	나는 그것을 살 것이다 .
+i'll ask him .	내가 그에게 물어볼게 .
+i'll be back .	나는 돌아올 것이다 .
+i'll be fine .	난 괜찮을 거야 .
+i'll be free .	나는 자유로울 것이다 .
+i'll be late .	나는 늦을 것이다 .
+i'll be nice .	나는 친절할 것이다 .
+i'll explain .	내가 설명할게 .
+i'll get ice .	얼음 가져올게요 .
+i'll get you .	내가 데려다 줄게 .
+i'll go back .	나는 돌아갈 것이다 .
+i'll go home .	나는 집에 갈 것이다 .
+i'll go look .	내가 가서 볼게 .
+i'll go next .	내가 다음에 갈게 .
+i'll grab it .	내가 잡을게 .
+i'll jump in .	내가 뛰어들게 .
+i'll just go .	난 그냥 갈게 .
+i'll kill it .	내가 죽여버릴게 .
+i'll open it .	내가 열어볼게 .
+i'll pay you .	내가 지불할게 .
+i'll read it .	내가 읽어볼게 .
+i'll risk it .	위험을 감수하겠습니다 .
+i'll sign it .	내가 서명할게 .
+i'll sue you .	나는 당신을 고소할 것이다 .
+i'll take it .	내가 가져갈게 .
+i'm 99% sure .	나는 99% 확신한다 .
+i'm canadian .	나는 캐나다 사람이에요 .
+i'm a coward .	나는 겁쟁이입니다 .
+i'm a dancer .	나는 댄서입니다 .
+i'm a doctor .	나는 의사입니다 .
+i'm a farmer .	나는 농부입니다 .
+i'm a father .	나는 아버지입니다 .
+i'm a friend .	나는 친구입니다 .
+i'm a genius .	나는 천재입니다 .
+i'm a lawyer .	나는 변호사입니다 .
+i'm a member .	나는 회원이다 .
+i'm a priest .	나는 신부입니다 .
+i'm a purist .	나는 순수 주의자입니다 .
+i'm a singer .	나는 가수입니다 .
+i'm a surfer .	나는 서퍼입니다 .
+i'm addicted .	나는 중독됐다 .
+i'm all done .	난 다 끝났어 .
+i'm all ears .	난 다 귀를 기울이고 있어 .
+i'm an adult .	나는 어른이에요 .
+i'm an agent .	나는 대리인이다 .
+i'm bleeding .	피가 나고 있어요 .
+i'm bluffing .	난 허세를 부리고 있어 .
+i'm confused .	혼란스러워요 .
+i'm creative .	나는 창의적이다 .
+i'm cultured .	나는 교양있어 .
+i'm divorced .	나는 이혼했다 .
+i'm drowning .	나는 익사하고 있어요 .
+i'm eighteen .	나는 열여덟 살이에요 .
+i'm faithful .	나는 충실하다 .
+i'm famished .	나는 배고프다 .
+i'm fearless .	나는 겁이 없다 .
+i'm fighting .	나는 싸우고있다 .
+i'm finished .	난 끝났어 .
+i'm free now .	나는 지금 시간이다 .
+i'm freezing .	나 얼어붙었어 .
+i'm grateful .	나는 감사합니다 .
+i'm grounded .	나는 근거가 없다 .
+i'm gullible .	나는 속기 쉽다 .
+i'm homesick .	나 향수병이야 .
+i'm hungover .	나 숙취야 .
+i'm in paris .	나는 파리에 있어요 .
+i'm innocent .	나는 결백하다 .
+i'm involved .	나는 관련되어 있습니다 .
+i'm managing .	내가 관리하고 있어 .
+i'm mistaken .	내가 틀렸어 .
+i'm new here .	난 여기에 처음 왔어요 .
+i'm no rebel .	나는 반역자가 아니다 .
+i'm no saint .	나는 성자가 아니다 .
+i'm not busy .	난 안 바빠요 .
+i'm not deaf .	나는 귀머거리가 아니다 .
+i'm not done .	난 아직 안 끝났어 .
+i'm not dumb .	난 바보가 아니야 .
+i'm not evil .	나는 악하지 않다 .
+i'm not here .	난 여기 없어 .
+i'm not home .	나 집에 없어 .
+i'm not hurt .	나 안 다쳤어 .
+i'm not mean .	난 심술궂은 게 아니야 .
+i'm not rich .	나는 부자가 아니다 .
+i'm not sure .	잘 모르겠어요 .
+i'm not tall .	나는 키가 크지 않습니다 .
+i'm not ugly .	난 못생기지 않았어 .
+i'm not well .	나는 몸이 좋지 않다 .
+i'm obedient .	나는 순종적이다 .
+i'm off-duty .	난 비번이야 .
+i'm offended .	기분이 상했어요 .
+i'm outraged .	나는 분노한다 .
+i'm positive .	나는 긍정적이다 .
+i'm powerful .	나는 강력하다 .
+i'm pregnant .	나 임신했어 .
+i'm prepared .	나는 준비됐다 .
+i'm punctual .	나는 시간을 잘 지킨다 .
+i'm rational .	나는 합리적이다 .
+i'm reformed .	나는 개혁됐다 .
+i'm reliable .	나는 믿을 만해요 .
+i'm restless .	나는 불안하다 .
+i'm ruthless .	나는 무자비하다 .
+i'm shooting .	나는 촬영 중입니다 .
+i'm shopping .	나는 쇼핑 중이야 .
+i'm sleeping .	나 자고 있어 .
+i'm so happy .	정말 기뻐요 .
+i'm so sorry .	정말 미안해요 .
+i'm so tired !	나 너무 피곤해 !
+i'm so tired .	너무 피곤해요 .
+i'm speaking .	나는 말하고있다 .
+i'm starving !	나 배고파요 !
+i'm starving .	나는 배고프다 .
+i'm stubborn .	나는 고집이 세다 .
+i'm the best .	내가 최고야 .
+i'm the boss .	내가 사장이에요 .
+i'm thinking .	나는 생각하고있다 .
+i'm thorough .	나는 철저하다 .
+i'm thrilled .	나는 신난다 .
+i'm ticklish .	난 간지럽다 .
+i'm too busy .	나는 너무 바빠요 .
+i'm truthful .	나는 진실하다 .
+i'm unbiased .	나는 편견이 없습니다 .
+i'm upstairs .	나는 위층에 있어요 .
+i'm very fat .	나는 매우 뚱뚱해요 .
+i'm very sad .	나는 매우 슬프다 .
+i'm very shy .	나는 매우 부끄러워요 .
+i'm worn out .	나는 지쳤어요 .
+i've checked .	나는 확인했다 .
+i've decided .	나는 결정했다 .
+i've done it .	내가 해냈어 .
+i've got you .	나는 당신을 얻었다 .
+i've lost it .	나는 그것을 잃어버렸어요 .
+i've no idea .	난 모르겠어요 .
+i've retired .	나는 은퇴했다 .
+i've seen it .	나는 그것을 보았다 .
+iron is hard .	철은 단단하다 .
+is tom alive ?	톰은 살아 있나요 ?
+is tom drunk ?	톰 취했어 ?
+is tom right ?	톰 맞지 ?
+is tom there ?	톰 거기 있어요 ?
+is it a deal ?	거래야 ?
+is it a deer ?	사슴인가요 ?
+is it a joke ?	농담이야 ?
+is it a wolf ?	늑대야 ?
+is it an elk ?	엘크야 ?
+is it broken ?	고장 났나요 ?
+is it cancer ?	암인가요 ?
+is it cloudy ?	날씨가 흐려 ?
+is it enough ?	그것으로 충분합니까 ?
+is it nearby ?	근처야 ?
+is that a no ?	그거 아니오야 ?
+is that love ?	그게 사랑이야 ?
+is that true ?	그게 사실이야 ?
+is this fake ?	이거 가짜야 ?
+is this love ?	이게 사랑이야 ?
+is this true ?	이게 사실이야 ?
+is this wine ?	이게 와인이야 ?
+it amazed me .	그것은 나를 놀라게 했다 .
+it felt good .	기분이 좋았어요 .
+it has begun .	그것은 시작되었습니다 .
+it is a book .	그것은 책이다 .
+it is a song .	그것은 노래이다 .
+it is my cat .	내 고양이 야 .
+it is unfair .	그것은 불공평하다 .
+it isn't new .	그것은 새로운 것이 아닙니다 .
+it may break .	깨질 수도 있습니다 .
+it scared me .	그것은 나를 무서워했다 .
+it took time .	시간이 걸렸어요 .
+it was black .	그것은 검은색이었다 .
+it was night .	밤이었다 .
+it was noisy .	시끄러웠어요 .
+it was white .	그것은 흰색이었다 .
+it wasn't me .	내가 아니었어 .
+it will burn .	그것은 타버릴 것이다 .
+it will heal .	그것은 치유될 것이다 .
+it'll be hot .	더울 거예요 .
+it'll happen .	그것은 일어날 것이다 .
+it's a curse .	그것은 저주입니다 .
+it's a fruit .	그것은 과일이다 .
+it's a plant .	그것은 식물입니다 .
+it's a rumor .	그것은 소문이다 .
+it's a shame .	안타깝네요…
+it's a waste .	그건 낭비야 .
+it's all wet .	다 젖었어 .
+it's awesome .	정말 굉장해요 .
+it's bedtime .	취침 시간이야 .
+it's complex .	그것은 복잡합니다 .
+it's for you .	그것은 당신을위한 것입니다 .
+it's garbage .	쓰레기야 .
+it's genuine .	그것은 진짜입니다 .
+it's hideous .	그것은 끔찍하다 .
+it's missing .	누락되었습니다 .
+it's morning .	아침이에요 .
+it's my book .	내 책이야 .
+it's my turn .	내 차례야 .
+it's no good .	안 좋아 .
+it's no joke .	농담이 아닙니다 .
+it's not new .	그것은 새로운 것이 아닙니다 .
+it's nothing .	그것은 아무것도 아니다 .
+it's obvious .	그것은 명백하다 .
+it's on fire .	불이 났어요 .
+it's our car .	우리 차야 .
+it's perfect .	완벽해요 .
+it's serious .	심각해요 .
+it's snowing .	눈이 온다 .
+it's so easy .	너무 쉽습니다 .
+it's started .	그것은 시작되었습니다 .
+it's suicide .	자살이야 .
+it's the law .	그것은 법이다 .
+it's too big .	너무 커요 .
+it's too hot .	너무 덥다 .
+just say yes .	그냥 그렇다고 대답하세요 .
+keep driving .	계속 운전해 .
+keep it warm .	따뜻하게 유지하세요 .
+keep looking .	계속 찾아보세요 .
+keep reading .	계속 읽으십시오 .
+keep running .	계속 달려라 .
+keep singing .	계속 노래해 .
+keep talking .	계속 얘기해 .
+keep working .	계속 일하세요 .
+keep writing .	계속 쓰세요 .
+ladies first .	숙녀 우선 .
+lead the way .	길을 인도하다 .
+let go of it .	그것을 놓아라 .
+let go of me .	나를 놓아 줘 .
+let me check .	확인해 보겠습니다 .
+let me leave !	나 떠나게 해주세요 !
+let me sleep .	자게 해줘 .
+let's all go .	모두 가자 .
+let's bounce .	튀자 .
+let's go now .	지금 가자 .
+let's listen .	들어 보자 .
+let's not go .	가지 말자 .
+let's try it .	시도해 보자 .
+life goes on .	삶은 계속된다 .
+life is hard .	인생은 힘들다 .
+look at that !	저거 좀 봐 !
+look at this .	이것 좀 봐 .
+look closely .	자세히 보세요 .
+make a guess .	추측해 보세요 .
+mary is cute .	메리는 귀여워요 .
+may i cut in ?	내가 끼어들어도 될까요 ?
+may i try it ?	내가 시도해봐도 될까 ?
+meat , please .	고기 주세요 .
+men are pigs .	남자는 돼지야 .
+must i go on ?	계속해야 합니까 ?
+must i hurry ?	서둘러야 하나 ?
+my arm hurts .	팔이 아파요 .
+my eyes hurt .	눈이 아프다 .
+my feet hurt .	발이 아파요 .
+my hip hurts .	엉덩이가 아파요 .
+need i go on ?	계속해야 합니까 ?
+no one cared .	아무도 신경 쓰지 않았습니다 .
+no one cares .	아무도 신경 쓰지 않습니다 .
+no one knows .	아무도 모른다 .
+no one moved .	아무도 움직이지 않았습니다 .
+no one spoke .	아무도 말하지 않았습니다 .
+nobody asked .	아무도 묻지 않았습니다 .
+nobody knows .	아무도 모른다 .
+now drink up .	이제 마셔 .
+now fix that .	이제 그 문제를 해결하세요 .
+now fix that .	이제 문제를 해결하세요 .
+now leave us .	이제 우리를 떠나세요 .
+ok . go ahead .	좋아요 . 어서 가세요 .
+our eyes met .	우리의 눈이 마주쳤다 .
+play it cool .	시원하게 놀아라 .
+please hurry .	서둘러 주세요 .
+please leave .	떠나주세요 .
+please relax .	긴장을 풀어주세요 .
+please smile .	웃어주세요 .
+see you soon !	곧 봐요 !
+set tom free .	톰을 자유롭게 해주세요 .
+shame on you !	부끄러워요 !
+shame on you .	부끄러워요 .
+she can swim .	그녀는 수영을 할 수 있어요 .
+she helps us .	그녀는 우리를 도와줍니다 .
+she is a fox .	그녀는 여우예요 .
+she is lucky .	그녀는 운이 좋다 .
+she is quiet .	그녀는 조용해요 .
+she is sharp .	그녀는 날카롭다 .
+she is wrong .	그녀는 틀렸다 .
+she is young .	그녀는 어리다 .
+she knows me .	그 사람은 나를 알아요 .
+she liked it .	그녀는 그것을 좋아했다 .
+she loves me .	그녀는 나를 사랑합니다 .
+she may come .	그녀가 올 수도 있습니다 .
+she shot him .	그녀는 그를 쐈다 .
+she shrieked .	그녀는 비명을 질렀다 .
+she stood up .	그녀는 일어섰다 .
+she sued him .	그녀는 그를 고소했습니다 .
+she was busy .	그녀는 바빴다 .
+she went out .	그녀는 나갔다 .
+should we go ?	우리 갈까 ?
+someone came .	누군가가 왔습니다 .
+stay a while .	잠시 머물다 .
+stay with me .	나와 함께있어 .
+stay with us .	우리와 함께있어 .
+step forward .	앞으로 나아가다 .
+stop arguing .	논쟁을 멈추십시오 .
+stop filming .	촬영을 중단하세요 .
+stop gawking .	그만 멍하니 .
+stop reading .	읽기를 중지하세요 .
+stop smoking .	담배를 끊어라 .
+stop staring .	그만 쳐다봐 .
+stop talking .	말 좀 그만해 .
+stop the car .	차를 멈춰라 .
+stop whining .	그만 징징거리세요 .
+stop yelling !	그만 소리쳐 !
+stop yelling .	그만 소리지르세요 .
+sweet dreams !	좋은 꿈 꿔 !
+take a break .	휴식을 취하십시오 .
+take a whiff .	냄새를 맡아보세요 .
+take it easy !	진정하세요 !
+take it easy .	진정하세요 .
+take me home .	나를 집에 데려다주세요 .
+take my hand .	내 손을 잡아라 .
+tell me more .	더 말해주세요 .
+thanks a lot .	정말 감사합니다 .
+thanks again .	다시 한번 감사드립니다 .
+that is mine .	그건 내꺼야 .
+that will do .	그러면 됩니다 .
+that's a lie .	그건 거짓말이에요 .
+that's a lot !	그거 정말 많아요 !
+that's clear .	그건 분명해요 .
+that's crazy .	그건 말도 안돼 .
+that's funny .	그거 재밌네요 .
+that's great !	훌륭해요 !
+that's right !	좋아요 !
+that's right .	좋아요 .
+that's weird .	그거 이상해요 .
+they approve .	그들은 승인합니다 .
+they crashed .	그들은 추락했습니다 .
+they escaped .	그들은 탈출했다 .
+they gave up .	그들은 포기했다 .
+they hate us .	그들은 우리를 싫어합니다 .
+they know us .	그들은 우리를 알고 있습니다 .
+they laughed .	그들은 웃었다 .
+they refused .	그들은 거절했다 .
+they relaxed .	그들은 편안했다 .
+they said no .	그들은 거절했다 .
+they sweated .	그들은 땀을 흘렸다 .
+they'll grow .	그들은 성장할 것입니다 .
+they're back .	그들은 돌아왔다 .
+they're boys .	그들은 소년입니다 .
+they're cold .	그들은 추워요 .
+they're cool .	그들은 멋지다 .
+they're cops .	그들은 경찰이에요 .
+they're cute .	그들은 귀엽다 .
+they're dead .	그들은 죽었어 .
+they're done .	다 끝났어 .
+they're free .	그들은 무료입니다 .
+they're gone .	그들은 사라졌습니다 .
+they're here .	그들은 여기 있어요 .
+they're mine .	그들은 내 꺼야 .
+they're rich .	그들은 부자예요 .
+they're safe .	그들은 안전해요 .
+they're weak .	그들은 약해요 .
+things break .	상황이 깨졌습니다 .
+this is cool .	이거 멋지다 .
+this is easy .	이것은 쉽습니다 .
+this is fine .	괜찮아요 .
+this is food .	이것은 음식입니다 .
+this is free .	이것은 무료입니다 .
+this is gold .	이것은 금이다 .
+this is hers .	이것은 그녀의 것입니다 .
+this is huge .	이것은 엄청납니다 .
+this is lame .	이것은 절름발이입니다 .
+this is life !	이것이 인생이다 !
+this is love .	이것은 사랑입니다 .
+this is mine .	이건 내꺼야 .
+this is nice .	이거 좋은데 .
+this is ours .	이것은 우리 것입니다 .
+this is sick .	이건 아프다 .
+this is ugly .	이건 추악하다 .
+tom approves .	톰은 승인합니다 .
+tom can stay .	톰은 머물 수 있어요 .
+tom can walk .	톰은 걸을 수 있어요 .
+tom finished .	톰 끝났어 .
+tom got weak .	톰이 약해졌어 .
+tom hates me .	톰은 나를 싫어해요 .
+tom insisted .	톰이 주장했다 .
+tom is a spy .	톰은 스파이에요 .
+tom is awful .	톰은 정말 끔찍해요 .
+tom is blind .	톰은 눈이 멀었어요 .
+tom is cruel .	톰은 잔인해요 .
+tom is drunk .	톰은 취했어요 .
+tom is dying .	톰이 죽어가고 있어요 .
+tom is happy .	톰은 행복해요 .
+tom is lying .	톰이 거짓말을 하고 있어요 .
+tom is naive .	톰은 순진해요 .
+tom is quiet .	톰은 조용해요 .
+tom is small .	톰은 작아요 .
+tom is there .	톰이 거기 있어요 .
+tom listened .	톰은 들었다 .
+tom loved it .	톰은 그것을 좋아했습니다 .
+tom needs me .	톰은 내가 필요해요 .
+tom saw mary .	톰은 메리를 봤어 .
+tom shrugged .	톰은 어깨를 으쓱했다 .
+tom stole it .	톰이 그것을 훔쳤어요 .
+tom stutters .	톰이 말을 더듬는다 .
+tom was poor .	톰은 가난했어요 .
+tom was safe .	톰은 안전했어요 .
+tom was shot .	톰은 총에 맞았습니다 .
+tom will cry .	톰은 울 것이다 .
+tom's afraid .	톰은 두려워요 .
+tom's asleep .	톰은 자고 있어 .
+tom's coming .	톰이 온다 .
+tom's eating .	톰이 먹어요 .
+tom's famous .	톰은 유명해요 .
+tom's guilty .	톰은 유죄야 .
+tom's hungry .	톰은 배고프다 .
+tom's polite .	톰은 예의바르네 .
+tom's scared .	톰은 무서워요 .
+tom's stoned .	톰이 취했어요 .
+trust no one .	아무도 믿지 마세요 .
+try it again .	다시 시도해 보세요 .
+try to sleep .	잠을 자려고 노력해 보세요 .
+unbelievable !	믿을 수 없어 !
+use them all .	모두 사용하세요 .
+wait a while .	잠시만 기다려주세요 .
+wait for tom .	톰 기다려요 .
+wake up , tom .	일어나 봐요, 탐 .
+want a drink ?	한잔 할래 ?
+was it funny ?	재미있었어 ?
+we all cried .	우리 모두는 울었습니다 .
+we apologize .	사과드립니다 .
+we are arabs .	우리는 아랍인입니다 .
+we are happy .	우리는 행복합니다 .
+we can't win .	우리는 이길 수 없습니다 .
+we could die .	우리는 죽을 수도 있어요 .
+we felt good .	우리는 기분이 좋았다 .
+we get on ok .	우리는 괜찮아요 .
+we got lucky .	우리는 운이 좋았습니다 .
+we got ready .	우리는 준비했어요 .
+we have hope .	우리에게는 희망이 있습니다 .
+we have room .	우리에겐 공간이 있어요 .
+we have wine .	우리에겐 와인이 있어요 .
+we knew that .	우리는 그것을 알고 있었습니다 .
+we live here .	우리는 여기에 산다 .
+we love them .	우리는 그들을 사랑합니다 .
+we loved you .	우리는 당신을 사랑했습니다 .
+we met today .	우리 오늘 만났어요 .
+we might die .	우리는 죽을 수도 있습니다 .
+we must obey .	우리는 순종해야 합니다 .
+we must talk .	우리는 얘기해야 해요 .
+we must wait .	우리는 기다려야 한다 .
+we need both .	우리는 둘 다 필요합니다 .
+we need help .	우리는 도움이 필요해요 .
+we need more .	우리는 더 필요합니다 .
+we need rest .	우리는 휴식이 필요합니다 .
+we need time .	시간이 필요해요 .
+we needed it .	우리는 그것이 필요했습니다 .
+we overslept .	우리는 늦잠을 잤다 .
+we sat there .	우리는 거기에 앉아 있었다 .
+we should go .	우리는 가야 해요 .
+we succeeded !	우리는 성공했습니다 !
+we succeeded .	우리는 성공했습니다 .
+we surrender .	우리는 항복합니다 .
+we trust him .	우리는 그를 신뢰합니다 .
+we want jobs .	우리는 일자리를 원해요 .
+we were busy .	우리는 바빴다 .
+we'll attack .	우리는 공격할 것이다 .
+we'll attend .	우리는 참석할 것입니다 .
+we'll decide .	우리가 결정하겠습니다 .
+we'll follow .	우리는 따라갈 것이다 .
+we'll manage .	우리가 관리할게 .
+we'll starve .	우리는 굶어 죽을 것이다 .
+we're a team .	우리는 팀이에요 .
+we're adults .	우리는 어른이에요 .
+we're all ok .	우리 모두 괜찮아요 .
+we're at war .	우리는 전쟁 중입니다 .
+we're biased .	우리는 편견이 있어요 .
+we're buying .	우리는 사고 있어요 .
+we're closed .	우리는 문을 닫았습니다 .
+we're coming .	우리는 간다 .
+we're dating .	우리는 데이트 중이야 .
+we're doomed .	우리는 운명이다 .
+we're hiding .	우리는 숨어 있어요 .
+we're inside .	우리는 안에 있어요 .
+we're joking .	농담이에요 .
+we're losing .	우리는지고있다 .
+we're moving .	우리는 이사 중이야 .
+we're normal .	우리는 정상이야 .
+we're paying .	우리는 지불하고 있습니다 .
+we're pooped .	우리는 똥을 쌌어 .
+we're ruined .	우리는 망했어요 .
+we're shaken .	우리는 흔들렸다 .
+we're sneaky .	우리는 교활해요 .
+we're strong .	우리는 강하다 .
+we're trying .	우리는 노력하고 있습니다 .
+welcome back .	다시 오신 것을 환영합니다 .
+welcome home .	집에 오신 것을 환영합니다 .
+what a loser !	정말 패배자야 !
+what a nerve !	정말 신경이 쓰이네요 !
+what a night !	정말 좋은 밤이야 !
+what a phony !	정말 가짜야 !
+what a shame !	정말 부끄러운 일이야 !
+what a shock !	정말 충격이었습니다 !
+what a waste !	정말 낭비야 !
+what a woman !	정말 여자야 !
+what is love ?	사랑은 무엇입니까 ?
+what is that ?	저게 뭐에요 ?
+what is this ?	이게 뭔가요 ?
+what's wrong ?	무슨 일이야 ?
+where is tom ?	톰은 어디 있어 ?
+who are they ?	그들은 누구입니까 ?
+who broke it ?	누가 깨뜨렸어 ?
+who built it ?	누가 만들었나요 ?
+who did this ?	누가 그랬어 ?
+who has come ?	누가 왔어 ?
+who is there ?	거기 누구야 ?
+who sent you ?	누가 당신을 보냈나요 ?
+who told you ?	누가 말했어 ?
+who vanished ?	누가 사라졌나요 ?
+who wants it ?	누가 그걸 원해 ?
+who was here ?	여기에 누가 있었나요 ?
+who was that ?	그 사람은 누구였나요 ?
+who will pay ?	누가 지불할 것인가 ?
+who will win ?	누가 이길까 ?
+who's coming ?	누가 와 ?
+who's hungry ?	누가 배고파 ?
+why not both ?	왜 둘 다 안 되지 ?
+will he live ?	그 사람 살까 ?
+wish me luck .	행운을 빕니다 .
+won't you go ?	안 갈 거야 ?
+write in ink .	잉크로 쓰세요 .
+write to tom .	톰에게 편지를 보내세요 .
+years passed .	몇 년이 지났습니다 .
+you amuse me .	당신은 나를 즐겁게합니다 .
+you are good .	당신은 좋습니다 .
+you are late .	당신은 늦었어요 .
+you are rich .	당신은 부자입니다 .
+you can come .	당신은 올 수 있습니다 .
+you can help .	당신이 도울 수 있습니다 .
+you can rest .	쉬어도 돼 .
+you did that .	당신이 그랬어요 .
+you did this .	당신이 이걸 했어요 .
+you go first .	너 먼저 가 .
+you hurt him .	당신은 그 사람에게 상처를 입혔습니다 .
+you look fat .	너 뚱뚱해 보여 .
+you may swim .	수영해도 돼요 .
+you must run .	당신은 실행해야합니다 .
+you promised .	약속했잖아 .
+you scare me .	당신은 나를 놀라게합니다 .
+you were shy .	당신은 수줍어했어요 .
+you will die .	당신은 죽을 것이다 .
+you'll be ok .	괜찮을 거예요 .
+you're a pig .	당신은 돼지입니다 .
+you're bossy .	당신은 강력해요 .
+you're crazy .	당신은 미쳤어요 .
+you're cruel .	당신은 잔인해요 .
+you're dirty .	너 더러워 .
+you're drunk .	너 취했어 .
+you're early .	당신은 일찍입니다 .
+you're fired .	당신은 해고되었습니다 .
+you're first .	당신이 처음이에요 .
+you're funny .	당신은 재밌어요 .
+you're fussy .	당신은 까다 롭습니다 .
+you're gross !	넌 정말 심해 !
+you're lying !	당신은 거짓말을하고 있습니다 !
+you're lying .	당신은 거짓말을하고 있습니다 .
+you're moody .	당신은 변덕스러워요 .
+you're naive .	당신은 순진해요 .
+you're quiet .	당신은 조용해요 .
+you're right .	당신 말이 맞아요 .
+you're silly .	당신은 바보입니다 .
+you're stuck .	당신은 붙어 있습니다 .
+you're tired .	너 피곤해 .
+you're tough .	당신은 힘든입니다 .
+you're upset .	당신은 화가 났어요 .
+you're weird .	너 이상해 .
+you're wrong .	당신은 틀렸어 .
+you're young .	당신은 젊습니다 .
+you've tried .	당신은 시도했습니다 .
+a car hit tom .	차가 톰을 쳤어요 .
+a car went by .	차가 지나갔다 .
+ain't he cute ?	그 사람 귀엽지 않아 ?
+air the futon .	이불을 환기시키세요 .
+am i approved ?	나 승인됐어 ?
+am i dreaming ?	내가 꿈을 꾸고 있는 걸까 ?
+am i included ?	나도 포함되어 있나요 ?
+am i mistaken ?	내가 착각한 걸까 ?
+am i talented ?	내가 재능이 있는 걸까 ?
+any questions ?	질문 있나요 ?
+anything else ?	다른 건 없어 ?
+are they busy ?	그 사람들 바빠 ?
+are they cops ?	그 사람들은 경찰이에요 ?
+are they dead ?	그 사람들 죽었나요 ?
+are they tall ?	그 사람들 키가 크니 ?
+are you a cop ?	당신은 경찰입니까 ?
+are you alone ?	너 혼자야 ?
+are you angry ?	화났어 ?
+are you awake ?	일어났어 ?
+are you blind ?	너 장님이야 ?
+are you bored ?	심심해 ?
+are you crazy ?	제정신이에요 ?
+are you happy ?	당신은 행복합니까 ?
+are you ready ?	준비됐어 ?
+are you there ?	여보세요 ?
+are you tired ?	피곤해요 ?
+are you upset ?	화났어 ?
+are you young ?	당신은 어리나요 ?
+be a good boy .	좋은 소년이 되십시오 .
+be reasonable .	합리적이다 .
+be respectful .	존중해라 .
+beat it , kids !	이겨내라, 얘들아 !
+beat the eggs .	계란을 치십시오 .
+beware of dog .	개를 조심하세요 .
+break it down .	그것을 무너뜨려라 .
+bring a lunch .	점심을 가져오세요 .
+bring it here .	여기로 가져와 .
+bring the key .	열쇠를 가져오세요 .
+burn the body .	몸을 태워라 .
+call a doctor .	의사에게 전화하세요 .
+call security !	보안팀에 전화하세요 !
+call the cops .	경찰에 전화하세요 .
+can i ask who ?	누구인지 물어봐도 될까요 ?
+can i ask why ?	왜인지 물어봐도 될까요 ?
+can i come in ?	내가 들어갈 수 있나요 ?
+can he see me ?	그 사람이 나를 볼 수 있나요 ?
+can he see us ?	그 사람이 우리를 볼 수 있나요 ?
+can you drive ?	운전할 수 있어요 ?
+can you pitch ?	피칭할 수 있어 ?
+can you skate ?	스케이트 탈 수 있어 ?
+cats are cute .	고양이는 귀여워요 .
+check , please .	확인해 주세요 .
+clean that up .	그거 청소해 .
+close the box .	상자를 닫으세요 .
+come right in .	바로 들어와 .
+cook the rice .	밥을 짓다 .
+could i do it ?	내가 할 수 있을까 ?
+could we walk ?	우리 걸을 수 있을까 ?
+crime is down .	범죄가 감소했습니다 .
+dance with me .	나와 함께 춤을 춰요 .
+did i ask you ?	내가 너한테 물어봤어 ?
+did i blow it ?	내가 날려버렸어 ?
+did i do that ?	내가 그랬어 ?
+did tom drown ?	톰이 익사했나요 ?
+did tom fight ?	톰이 싸웠나요 ?
+did that work ?	그거 효과가 있었어 ?
+did you do it ?	당신이 그것을 했나요 ?
+do i know tom ?	나 톰 알아 ?
+do i know him ?	내가 그 사람을 아나요 ?
+do i know you ?	내가 당신을 아나요 ?
+do i look fat ?	내가 뚱뚱해 보여 ?
+do i look old ?	내가 늙어 보이나요 ?
+do cats dream ?	고양이는 꿈을 꾸나요 ?
+do fish sleep ?	물고기는 자나요 ?
+do it at once .	즉시 하세요 .
+do it quickly .	빨리 해라 .
+do me a favor .	부탁 좀 해주세요 .
+do what i say .	내가 말한대로 해 .
+do you follow ?	당신은 팔로우합니까 ?
+do you gamble ?	도박을 하시나요 ?
+do you get it ?	당신은 그것을 이해합니까 ?
+do you see me ?	나 보여 ?
+dogs can swim .	개는 수영을 할 수 있습니다 .
+don't be late .	늦지 마세요 .
+don't be long .	오래 기다리지 마세요 .
+don't be mean .	못된 소리 하지 마 .
+don't be rude .	무례하게 굴지 마세요 .
+don't call me .	나에게 전화하지 마세요 .
+don't deny it .	그것을 부정하지 마십시오 .
+don't despair .	절망하지 마십시오 .
+don't do that .	그러지 마세요 .
+don't do this .	이러지 마세요 .
+don't get fat .	살찌지 마 .
+don't give up !	포기하지 마세요 !
+don't give up .	포기하지 마세요 .
+don't hurt me .	나에게 상처를 주지 마세요 .
+don't kill me .	나를 죽이지 마세요 .
+don't mock me .	나를 조롱하지 마십시오 .
+don't push it .	밀지 마세요 .
+don't push me !	나를 밀지 마세요 !
+don't push me .	나를 밀지 마세요 .
+don't sass me .	나한테 화내지 마 .
+don't tell me .	나에게 말하지 마세요 .
+don't wait up .	기다리지 마세요 .
+draw a circle .	원을 그립니다 .
+drink it down .	그것을 마셔 라 .
+drop your gun !	총을 버려라 !
+dry your eyes .	눈을 말리세요 .
+eat and drink .	먹고 마시다 .
+eat something .	뭔가를 먹어라 .
+eat your peas .	완두콩을 먹어라 .
+even tom lied .	심지어 톰도 거짓말을 했어요 .
+everyone dies .	모두가 죽는다 .
+everyone sang .	모두가 노래를 불렀습니다 .
+everyone wins .	모두가 승리합니다 .
+feed the bird !	새에게 먹이를 주세요 !
+feed the bird .	새에게 먹이를 주세요 .
+get a haircut .	이발을 하세요 .
+get back here .	여기로 돌아오세요 .
+get off of me .	나에게서 떨어져 .
+get some rest .	좀 쉬세요 .
+get your coat .	코트 가져와 .
+get your gear .	장비를 챙기세요 .
+give him time .	그에게 시간을 줘 .
+give it to me !	나에게 줘 !
+give it to me .	나에게 줘 .
+give me a few .	나에게 몇 가지를 줘 .
+give me a hug .	나를 안아주세요 .
+give me a sec .	잠시만 기다려 주세요 .
+god bless you !	신의 축복이 있기를 !
+god knows why .	신은 이유를 알고 있습니다 .
+guess who won .	누가 이겼는지 맞춰보세요 .
+hand it to me .	나한테 건네줘 .
+hang on tight !	꽉 잡아 !
+hang on tight .	꽉 잡아 .
+have a cookie .	쿠키를 가지고 있어요 .
+have him come .	그 사람을 오라고 하세요 .
+have some ham .	햄 좀 드세요 .
+he broke them .	그는 그것을 깨뜨렸다 .
+he can't sing .	그 사람은 노래를 못해요 .
+he can't swim .	그는 수영을 할 수 없습니다 .
+he cheated me .	그는 나를 속였습니다 .
+he cracked up .	그는 깨졌다 .
+he drank beer .	그는 맥주를 마셨다 .
+he dropped it .	그는 그것을 떨어뜨렸다 .
+he dug a hole .	그는 구멍을 팠다 .
+he eats a lot .	그는 많이 먹는다 .
+he feels hurt .	그는 상처받았다고 느낀다 .
+he fooled her .	그는 그녀를 속였습니다 .
+he got caught .	그는 잡혔어요 .
+he has a book .	그는 책을 가지고 있어요 .
+he has a cold .	그는 감기에 걸렸어요 .
+he has a maid .	그에겐 하녀가 있어요 .
+he has braces .	그는 교정기를 가지고 있어요 .
+he hugged her .	그는 그녀를 안아주었다 .
+he ignored me .	그는 나를 무시했습니다 .
+he is british .	그는 영국인이에요 .
+he is english .	그는 영어예요 .
+he is a thief .	그는 도둑이다 .
+he is awesome .	그는 굉장해요 .
+he is foolish .	그는 어리석다 .
+he is my boss .	그 사람은 내 상사예요 .
+he is my type !	그는 내 타입이야 !
+he is no fool .	그는 바보가 아니다 .
+he is out now .	그는 지금 밖에 있어요 .
+he is reading .	그는 책을 읽고 있어요 .
+he is running .	그는 달리고 있다 .
+he is skating .	그는 스케이트를 타고 있어요 .
+he is too old .	그는 너무 늙었어요 .
+he killed him .	그는 그를 죽였습니다 .
+he left early .	그는 일찍 떠났어요 .
+he lied to me .	그 사람은 나에게 거짓말을 했어요 .
+he liked that .	그는 그것을 좋아했다 .
+he looks pale .	그는 창백해 보인다 .
+he looks well .	그는 괜찮아 보인다 .
+he loves toys .	그는 장난감을 좋아해요 .
+he made me go .	그는 나를 가게 만들었다 .
+he never lies .	그는 결코 거짓말을 하지 않습니다 .
+he pinched me !	그 사람이 나를 꼬집었어 !
+he seems kind .	그 사람은 친절한 것 같아 .
+he sells cars .	그는 차를 팔아요 .
+he shot at me .	그 사람이 나한테 총을 쐈어요 .
+he smells bad .	그 사람 냄새가 안 좋아 .
+he talks well .	그는 말을 잘해요 .
+he touched me .	그는 나를 만졌다 .
+he tricked me .	그는 나를 속였습니다 .
+he tries hard .	그는 열심히 노력합니다 .
+he walks fast .	그는 빨리 걷는다 .
+he wants more .	그는 더 많은 것을 원합니다 .
+he was crying .	그는 울고 있었다 .
+he was stoned .	그는 돌에 맞았습니다 .
+he went blind .	그는 눈이 멀었습니다 .
+he's a grouch .	그 사람은 투덜대는 사람이야 .
+he's a jesuit .	그 사람은 예수회 신자예요 .
+he's a senior .	그는 선배입니다 .
+he's a senior .	그 사람은 선배예요 .
+he's a tycoon .	그는 거물입니다 .
+he's addicted .	그는 중독되었습니다 .
+he's adorable .	그는 사랑스럽다 .
+he's after me .	그 사람이 나를 쫓고 있어요 .
+he's annoying .	그 사람 짜증나 .
+he's demented .	그 사람은 치매야 .
+he's in tokyo .	그 사람은 도쿄에 있어요 .
+he's innocent .	그는 결백합니다 .
+he's insecure .	그는 불안해요 .
+he's no saint .	그는 성자가 아닙니다 .
+he's not home .	그 사람은 집에 없어요 .
+he's not sick .	그 사람은 아프지 않아요 .
+he's outraged .	그는 분노했습니다 .
+he's ruthless .	그는 무자비해요 .
+he's so young .	그는 너무 어려요 .
+he's studying .	그 사람은 공부 중이야 .
+he's too busy .	그 사람은 너무 바빠요 .
+he's too slow .	그 사람은 너무 느려요 .
+he's very ill .	그는 매우 아파요 .
+he's your son .	그 사람은 당신의 아들이에요 .
+help yourself .	스스로 도와주세요 .
+here he comes .	여기 그가 온다 .
+here or to go ?	여기 아니면 갈까 ?
+his nose bled .	그의 코피가 났다 .
+hold the door .	문을 잡아라 .
+hold the line .	줄을 잡아라 .
+hold the rope .	밧줄을 잡아라 .
+how about you ?	당신은 어떤가요 ?
+how beautiful !	얼마나 아름다운가 !
+how big is he ?	그 사람은 얼마나 큽니까 ?
+how big is it ?	얼마나 크나요 ?
+how can i pay ?	어떻게 지불할 수 있나요 ?
+how can it be ?	어떻게 그럴 수 있지 ?
+how do i look ?	나 어때 보여 ?
+how old is he ?	그 사람은 몇 살이에요 ?
+how thrilling !	얼마나 짜릿한가 !
+how was class ?	수업은 어땠어요 ?
+how's the dog ?	개는 어때 ?
+i acquired it .	나는 그것을 얻었다 .
+i almost died .	나는 거의 죽을 뻔했다 .
+i already ate .	나는 이미 먹었다 .
+i always lose .	나는 항상 진다 .
+i always walk .	나는 항상 걷는다 .
+i am american .	나는 미국인입니다 .
+i am japanese .	나는 일본인입니다 .
+i am a muslim .	나는 무슬림입니다 .
+i am a runner .	나는 주자입니다 .
+i am all ears .	나는 모두 귀입니다 .
+i am diabetic .	나는 당뇨병에 걸렸습니다 .
+i am divorced .	나는 이혼했다 .
+i am in paris .	나는 파리에 있어요 .
+i am new here .	나는 여기에 처음 왔어요 .
+i am not deaf .	나는 귀머거리가 아니다 .
+i am so sorry .	정말 미안해요 .
+i am very sad .	나는 매우 슬프다 .
+i ate a donut .	나는 도넛을 먹었다 .
+i ate quickly .	나는 빨리 먹었다 .
+i baked a pie .	나는 파이를 구웠다 .
+i became rich .	나는 부자가 되었다 .
+i believe you .	나는 당신을 믿습니다 .
+i belong here .	나는 여기에 속한다 .
+i borrowed it .	나는 그것을 빌렸다 .
+i bribed them .	나는 그들에게 뇌물을 주었다 .
+i burned them .	내가 태웠어 .
+i called home .	나는 집에 전화했다 .
+i called them .	내가 그들에게 전화했어요 .
+i can buy one .	내가 하나 살 수 있어요 .
+i can do this .	나는 이것을 할 수 있다 .
+i can explain .	내가 설명할 수 있어요 .
+i can feel it .	나는 그것을 느낄 수 있다 .
+i can survive .	나는 살아남을 수 있다 .
+i can't dance .	나는 춤을 못 춰요 .
+i can't do it .	난 할 수 없어 .
+i can't leave .	나는 떠날 수 없다 .
+i can't sleep .	잠이 안 와요 .
+i can't smoke .	나는 담배를 피울 수 없습니다 .
+i canceled it .	내가 취소했어 .
+i caused this .	내가 이런 일을 일으켰다 .
+i contributed .	나는 기여했다 .
+i cough a lot .	기침을 많이 해요 .
+i cried a lot .	나는 많이 울었다 .
+i cut classes .	나 수업 빼먹었어 .
+i deserved it .	나는 그럴 자격이 있었다 .
+i designed it .	내가 디자인했어요 .
+i despise tom .	난 톰을 경멸해요 .
+i despise you .	나는 당신을 경멸합니다 .
+i did it once .	내가 한 번 했어 .
+i did my best .	나는 최선을 다했다 .
+i did my part .	나는 내 역할을 다했다 .
+i did nothing .	나는 아무것도 하지 않았다 .
+i did see him .	나는 그를 보았다 .
+i didn't call .	나는 전화하지 않았다 .
+i didn't care .	나는 상관하지 않았다 .
+i didn't know .	나는 몰랐다 .
+i didn't look .	나는 보지 않았다 .
+i didn't move .	나는 움직이지 않았다 .
+i didn't stop .	나는 멈추지 않았다 .
+i didn't vote .	나는 투표하지 않았다 .
+i didn't walk .	나는 걷지 않았다 .
+i do like you .	나는 당신을 정말 좋아합니다 .
+i do love you .	나는 당신을 사랑합니다 .
+i do remember .	나는 기억한다 .
+i don't agree .	나는 동의하지 않습니다 .
+i don't dance .	나는 춤을 추지 않는다 .
+i don't dream .	나는 꿈을 꾸지 않는다 .
+i don't drink .	나는 술을 마시지 않는다 .
+i don't smoke .	나는 담배를 피우지 않습니다 .
+i don't snore .	나는 코를 골지 않는다 .
+i don't steal .	나는 훔치지 않습니다 .
+i drank a lot .	나는 많이 마셨다 .
+i dream a lot .	나는 꿈을 많이 꾼다 .
+i enjoy chess .	나는 체스를 즐긴다 .
+i enjoy music .	나는 음악을 즐긴다 .
+i enjoy poker .	나는 포커를 좋아해요 .
+i exaggerated .	나는 과장했다 .
+i fear no one .	나는 아무도 두려워하지 않습니다 .
+i fed the dog .	나는 개에게 먹이를 주었다 .
+i feel better .	기분이 좋아졌어 .
+i feel guilty .	나는 죄책감을 느낀다 .
+i feel hungry .	배고파요 .
+i feel it now .	나는 지금 그것을 느낀다 .
+i feel lonely .	나는 외로움을 느낀다 .
+i feel my age .	나는 내 나이를 느낀다 .
+i feel normal .	나는 정상이라고 느낀다 .
+i feel queasy .	메스꺼워요 .
+i feel so bad .	기분이 너무 나빠요 .
+i feel stupid .	나는 바보 같은 느낌이 든다 .
+i feel unwell .	몸이 안 좋아 .
+i fell asleep .	나는 잠들었다 .
+i fell for it .	나는 그것에 빠졌다 .
+i felt guilty .	나는 죄책감을 느꼈다 .
+i felt lonely .	나는 외로움을 느꼈다 .
+i felt reborn .	나는 다시 태어난 느낌이 들었습니다 .
+i felt scared .	나는 겁이 났어요 .
+i felt strong .	나는 강한 느낌이 들었습니다 .
+i finally won .	나는 마침내 이겼다 .
+i finished it .	내가 끝냈어 .
+i forbid that .	나는 그것을 금지합니다 .
+i forgive you .	나는 당신을 용서합니다 .
+i fought back .	나는 반격했다 .
+i found a job .	나는 일자리를 찾았어요 .
+i found these .	내가 이걸 찾았어 .
+i freaked out .	나는 놀랐다 .
+i got a bonus .	나 보너스 받았어 .
+i got it free .	나는 그것을 무료로 얻었다 .
+i got married .	나는 결혼했다 .
+i got nothing .	난 아무것도 없어 .
+i got scammed .	나는 사기를 당했어요 .
+i got shot at .	나는 총에 맞았습니다 .
+i got thirsty .	목이 말랐어 .
+i had an idea .	나한테 아이디어가 있었어 .
+i had no clue .	나는 전혀 몰랐다 .
+i had no idea .	나는 전혀 몰랐다 .
+i had to hide .	나는 숨어야 했다 .
+i had to stay .	나는 머물러야 했다 .
+i had to stop .	나는 멈춰야 했다 .
+i had to work .	나는 일을 해야 했어요 .
+i hate celery .	나는 셀러리를 싫어한다 .
+i hate coffee .	나는 커피를 싫어한다 .
+i hate crowds .	나는 군중을 싫어한다 .
+i hate flying .	나는 비행을 싫어한다 .
+i hate losing .	나는지는 것을 싫어한다 .
+i hate moving .	나는 움직이는 것을 싫어한다 .
+i hate myself .	나 자신이 싫어 .
+i hate school .	나는 학교를 싫어한다 .
+i hate soccer .	나는 축구를 싫어한다 .
+i hate winter .	나는 겨울을 싫어한다 .
+i have a cold .	나 감기에 걸렸어 .
+i have a date .	나 데이트 있어 .
+i have a plan .	나에겐 계획이 있어요 .
+i have a ring .	나한테는 반지가 있어요 .
+i have a twin .	나에겐 쌍둥이가 있어요 .
+i have a visa .	나에겐 비자가 있어요 .
+i have a wife .	나에겐 아내가 있어요 .
+i have cancer .	나는 암에 걸렸습니다 .
+i have doubts .	나는 의심이 든다 .
+i have failed .	나는 실패했습니다 .
+i have had it .	나는 그것을 가지고 있다 .
+i have orders .	나한테는 명령이 있어 .
+i have rights .	나에게는 권리가 있습니다 .
+i have tenure .	나에겐 재직권이 있어요 .
+i have to run .	나는 달려야 해요 .
+i have to try .	나는 노력해야 해 .
+i have to win .	나는 이겨야 해 .
+i hear sirens .	사이렌 소리가 들려요 .
+i ignored tom .	난 톰을 무시했어요 .
+i ignored him .	나는 그를 무시했다 .
+i just did it .	방금 했어요 .
+i just got up .	나 방금 일어났어 .
+i just smiled .	난 그냥 웃었어 .
+i kid you not .	농담이 아니야 .
+i know french .	나는 프랑스어를 알아요 .
+i know myself .	나는 나 자신을 안다 .
+i know people .	나는 사람들을 알고 있습니다 .
+i know things .	나는 여러 가지를 알고 있다 .
+i let it fall .	나는 그것을 떨어뜨렸다 .
+i let them go .	나는 그들을 놓아주었다 .
+i like french .	나는 프랑스어를 좋아해요 .
+i like camels .	나는 낙타를 좋아해요 .
+i like cities .	나는 도시를 좋아해요 .
+i like clocks .	나는 시계를 좋아해요 .
+i like garlic .	나는 마늘을 좋아해요 .
+i like grapes .	나는 포도를 좋아해요 .
+i like movies .	나는 영화를 좋아해요 .
+i like my job .	나는 내 일을 좋아한다 .
+i like salmon .	나는 연어를 좋아해요 .
+i like skiing .	나는 스키를 좋아해요 .
+i like spring .	나는 봄을 좋아한다 .
+i like sweets .	나는 과자를 좋아해요 .
+i like to eat .	나는 먹는 것을 좋아한다 .
+i like to run .	나는 달리기를 좋아한다 .
+i like trains .	나는 기차를 좋아해요 .
+i like winter .	나는 겨울을 좋아해요 .
+i like yellow .	나는 노란색을 좋아해요 .
+i live nearby .	나는 근처에 산다 .
+i looked away .	나는 멀리 보았다 .
+i looked down .	나는 아래를 내려다보았다 .
+i lost my dog .	나는 내 개를 잃었습니다 .
+i lost my key .	열쇠를 잃어버렸어요 .
+i love arabic .	나는 아랍어를 좋아해요 .
+i love boston .	나는 보스턴을 좋아해요 .
+i love french .	나는 프랑스어를 좋아해요 .
+i love monday !	나는 월요일을 좋아한다 !
+i love apples .	나는 사과를 좋아해요 .
+i love autumn .	나는 가을을 좋아해요 .
+i love baking .	나는 베이킹을 좋아해요 .
+i love camels .	나는 낙타를 좋아해요 .
+i love coffee .	나는 커피를 좋아해요 .
+i love hiking .	나는 하이킹을 좋아해요 .
+i love horses .	나는 말을 좋아해요 .
+i love movies .	나는 영화를 좋아해요 .
+i love my job .	나는 내 일을 사랑해요 .
+i love my mom .	나는 엄마를 사랑해요 .
+i love myself .	나는 나 자신을 사랑합니다 .
+i love nature .	나는 자연을 사랑합니다 .
+i love poetry .	나는 시를 좋아해요 .
+i love spring .	나는 봄을 좋아해요 .
+i love summer .	나는 여름을 좋아해요 .
+i love winter .	나는 겨울을 좋아해요 .
+i made a copy .	내가 복사했어요 .
+i made a deal .	나는 거래를 했다 .
+i made a list .	나는 목록을 만들었습니다 .
+i made coffee .	나는 커피를 만들었습니다 .
+i made dinner .	내가 저녁을 만들었어요 .
+i made him go .	내가 그를 가게 했어요 .
+i miss boston .	보스턴이 그리워요 .
+i miss my cat .	나는 내 고양이를 그리워합니다 .
+i miss my mom .	엄마가 그리워요 .
+i must fix it .	내가 고쳐야 해 .
+i must go now .	나 지금 가야 해 .
+i must go out .	나 나가야 해 .
+i must insist .	나는 주장해야한다 .
+i must object .	나는 반대해야 한다 .
+i must refuse .	거절해야 해요 .
+i must resist .	나는 저항해야 한다 .
+i nearly died .	나는 거의 죽을 뻔했다 .
+i need a bath .	목욕이 필요해 .
+i need a coat .	코트가 필요해 .
+i need a crew .	승무원이 필요해 .
+i need a lamp .	램프가 필요해요 .
+i need a plan .	나에겐 계획이 필요해 .
+i need a ride .	차 좀 태워줘야 해 .
+i need a room .	방이 필요해 .
+i need a week .	일주일이 필요해 .
+i need advice .	조언이 필요해요 .
+i need my key .	내 열쇠가 필요해 .
+i needed help .	나는 도움이 필요했어요 .
+i never drink .	난 절대 술을 마시지 않아요 .
+i never spoke .	난 말한 적 없어 .
+i never worry .	나는 결코 걱정하지 않는다 .
+i ought to go .	나는 가야 해 .
+i outrank you .	내가 너보다 순위가 높아 .
+i owe you one .	나는 당신에게 빚을 졌어요 .
+i own a horse .	나는 말을 소유하고 있습니다 .
+i own a yacht .	나는 요트를 소유하고 있습니다 .
+i play violin .	나는 바이올린을 연주해요 .
+i prefer dogs .	나는 개를 더 좋아해요 .
+i quit my job .	나는 직장을 그만뒀다 .
+i quite agree .	나는 전적으로 동의한다 .
+i ran outside .	나는 밖으로 달려갔다 .
+i remember it .	나는 그것을 기억한다 .
+i rescheduled .	나는 일정을 다시 잡았다 .
+i rescued her .	내가 그녀를 구했어요 .
+i rescued him .	내가 그를 구해줬어요
+i rescued you .	내가 당신을 구했어요 .
+i resent that .	나는 그것이 분하다 .
+i respect you .	나는 당신을 존경합니다 .
+i said thanks .	나는 고맙다고 말했다 .
+i saw a mouse !	나 쥐 봤어 !
+i saw a plane .	나는 비행기를 보았다 .
+i saw nothing .	나는 아무것도 보지 못했다 .
+i saw someone .	나는 누군가를 보았다 .
+i see a light .	나는 빛을 본다 .
+i see a queen .	나는 여왕을 본다 .
+i see someone .	나는 누군가를 본다 .
+i see the boy .	나는 그 소년을 봅니다 .
+i should quit .	그만둬야겠어 .
+i slapped him .	나는 그 사람을 때렸다 .
+i slept a lot .	나는 많이 잤다 .
+i smell bacon .	베이컨 냄새가 나 .
+i smell blood .	피 냄새가 나 .
+i smell smoke .	연기 냄새가 나요 .
+i stole a gun .	내가 총을 훔쳤어요 .
+i support him .	나는 그를 지지한다 .
+i surrendered .	나는 항복했다 .
+i think i can .	내 생각엔 할 수 있을 것 같아 .
+i told you so .	내가 그렇게 말했잖아 .
+i took a bath .	나는 목욕을 했다 .
+i tricked you .	내가 당신을 속였어 .
+i tried again .	나는 다시 시도했다 .
+i trusted you .	나는 당신을 믿었습니다 .
+i use firefox .	나는 파이어폭스를 사용한다 .
+i volunteered .	나는 자원했다 .
+i walked here .	나는 여기로 걸어갔다 .
+i want a book .	나는 책을 원해요 .
+i want a pony .	나는 조랑말을 원해요 .
+i want a pool .	나는 수영장을 원해요 .
+i want it all .	나는 그것을 모두 원한다 .
+i want to cry .	나는 울고 싶다 .
+i want to die .	나는 죽고 싶다 .
+i want to run .	나는 달리고 싶다 .
+i want to try .	나는 시도하고 싶다 .
+i wanted this .	나는 이것을 원했다 .
+i was ashamed .	나는 부끄러웠다 .
+i was at home .	나는 집에 있었다 .
+i was at work .	나는 일하고 있었다 .
+i was careful .	나는 조심했다 .
+i was crushed .	나는 짓밟혔다 .
+i was curious .	나는 궁금했다 .
+i was dancing .	나는 춤을 추고 있었다 .
+i was drugged .	나는 약을 먹었다 .
+i was elected .	나는 당선됐다 .
+i was excited .	나는 흥분했다 .
+i was furious .	나는 화가 났다 .
+i was invited .	나는 초대받았다 .
+i was kidding .	농담이었어 .
+i was patient .	나는 참을성이 있었다 .
+i was pleased .	나는 기뻤다 .
+i was relaxed .	나는 편안했다 .
+i was singing .	나는 노래하고 있었다 .
+i was stunned .	나는 깜짝 놀랐다 .
+i was tempted .	나는 유혹을 받았다 .
+i was too shy .	나는 너무 수줍어했다 .
+i was trapped .	나는 갇혀 있었다 .
+i was unarmed .	나는 비무장 상태였습니다 .
+i was unlucky .	나는 운이 좋지 않았다 .
+i was worried .	나는 걱정했다 .
+i wasn't done .	난 아직 끝나지 않았어 .
+i wasn't home .	나는 집에 없었다 .
+i went aboard .	나는 탑승했다 .
+i went hiking .	나는 하이킹을 갔다 .
+i went inside .	나는 안으로 들어갔다 .
+i will behave .	나는 행동할 것이다 .
+i will return .	나는 돌아올 것이다 .
+i woke you up .	내가 당신을 깨웠어요 .
+i wore a mask .	나는 마스크를 썼다 .
+i work nights .	나는 밤에 일해요 .
+i worked hard .	나는 열심히 일했다 .
+i write poems .	나는 시를 쓴다 .
+i'd better go .	난 가는 게 좋을 것 같아 .
+i'll allow it .	허락할게요 .
+i'll be brief .	간략하게 말씀드리겠습니다 .
+i'll be going .	나는 갈 것이다 .
+i'll be ready .	난 준비될 거야 .
+i'll be there .	내가 거기 있을게 .
+i'll buy that .	내가 그걸 살게 .
+i'll buy this .	내가 이걸 살게 .
+i'll call him .	내가 그 사람에게 전화할게 .
+i'll call you .	내가 전화할게 .
+i'll check in .	내가 체크인할게 .
+i'll clean up .	내가 청소할게 .
+i'll eat here .	나는 여기서 먹을 것이다 .
+i'll find you .	내가 당신을 찾을게요 .
+i'll get help .	내가 도움을 받을게 .
+i'll get lost .	나는 길을 잃을 것이다 .
+i'll get some .	내가 좀 가져올게 .
+i'll get them .	내가 사줄게 .
+i'll get this .	내가 이걸 가져올게 .
+i'll go ahead .	내가 먼저 갈게 .
+i'll go check .	내가 가서 확인해 볼게 .
+i'll go first .	내가 먼저 갈게 .
+i'll help you .	내가 도와줄게 .
+i'll join you .	나도 함께 할게 .
+i'll kill him .	내가 그를 죽일거야 .
+i'll kill you .	내가 당신을 죽일 것이다 .
+i'll miss you .	나는 당신을 그리워 할 것입니다 .
+i'll prove it .	내가 증명할게 .
+i'll save you .	내가 당신을 구해줄 게요 .
+i'll show you .	내가 보여줄게 .
+i'll stop now .	이제 그만할게 .
+i'll take him .	내가 그를 데려갈게 .
+i'll take one .	내가 하나 가져갈게 .
+i'll tell you .	내가 말해주지 .
+i'll try that .	내가 그렇게 해볼게 .
+i'll warn tom .	내가 톰에게 경고할게 .
+i'll watch tv .	나는 TV를 볼 것이다 .
+i'll watch it .	내가 지켜볼게 .
+i'm a dentist .	나는 치과 의사입니다 .
+i'm a patient .	나는 환자입니다 .
+i'm a student .	나는 학생이에요 .
+i'm a teacher .	나는 교사입니다 .
+i'm a tourist .	나는 관광객이다 .
+i'm a trainee .	나는 연습생이에요 .
+i'm adaptable .	나는 적응력이 있어요 .
+i'm afraid so .	유감이지만요 .
+i'm all alone .	난 혼자야 .
+i'm all right .	난 괜찮아 .
+i'm all yours .	나는 모두 당신 것입니다 .
+i'm ambitious .	나는 야심적이다 .
+i'm an artist .	나는 예술가입니다 .
+i'm an orphan .	나는 고아입니다 .
+i'm attentive .	나는 세심하다 .
+i'm available .	나는 시간이 있어요 .
+i'm beautiful .	나는 아름답습니다 .
+i'm bilingual .	나는 이중 언어를 구사합니다 .
+i'm busy , too .	나도 바빠요 .
+i'm committed .	나는 헌신적이다 .
+i'm concerned .	걱정돼요 .
+i'm confident .	나는 확신한다 .
+i'm contented .	나는 만족한다 .
+i'm convinced .	나는 확신한다 .
+i'm dedicated .	나는 헌신적이다 .
+i'm delighted .	나는 기쁘다 .
+i'm depressed .	나 우울해 .
+i'm desperate .	나는 필사적이다 .
+i'm different .	나는 다르다 .
+i'm disgusted .	나는 역겹다 .
+i'm easygoing .	나는 태평해요 .
+i'm exhausted .	나는 지쳤어요 .
+i'm expecting .	나는 기대하고있다 .
+i'm forgetful .	나는 건망증이 있어요 .
+i'm home , tom .	나 집에 왔어요, 톰 .
+i'm hung over .	난 매달렸어 .
+i'm impatient .	나는 참을성이 없다 .
+i'm important .	나는 중요하다 .
+i'm impressed .	나는 감동했다 .
+i'm impulsive .	나는 충동적이에요 .
+i'm in boston .	나는 보스턴에 있어요 .
+i'm in danger .	나는 위험에 빠졌습니다 .
+i'm intrigued .	나는 흥미가 있습니다 .
+i'm just lazy .	난 그냥 게으르다 .
+i'm listening .	나는 듣고 있다 .
+i'm miserable .	나는 비참하다 .
+i'm motivated .	나는 동기가 부여되었습니다 .
+i'm no expert .	나는 전문가가 아니다 .
+i'm not a cop .	나는 경찰이 아니다 .
+i'm not a fan .	나는 팬이 아니다 .
+i'm not a kid .	나는 어린아이가 아니다 .
+i'm not alone .	나는 혼자가 아니다 .
+i'm not angry !	나 화난거 아니야 !
+i'm not angry .	난 화나지 않았어 .
+i'm not armed .	나는 무장하지 않았습니다 .
+i'm not blind .	나는 장님이 아니다 .
+i'm not crazy .	나 미친 게 아니야 .
+i'm not dying .	난 죽지 않아 .
+i'm not going .	난 안 갈 거야 .
+i'm not happy .	나는 행복하지 않다 .
+i'm not lying .	나는 거짓말을 하지 않습니다 .
+i'm not naive .	나는 순진하지 않다 .
+i'm not obese .	나는 비만이 아니다 .
+i'm not ready .	난 아직 준비가 안됐어 .
+i'm not short .	난 키가 작지 않아 .
+i'm not tired .	나 피곤하지 않아 .
+i'm not weird .	난 이상한 게 아니야 .
+i'm not young .	나는 어리지 않습니다 .
+i'm observant .	나는 관찰력이 뛰어나다 .
+i'm on a diet .	나 다이어트 중이야 .
+i'm on my way .	지금 가는 중이에요 .
+i'm on parole .	난 가석방 중이야 .
+i'm on strike .	나 파업 중이야 .
+i'm plastered .	나는 회 반죽을 입었다 .
+i'm powerless .	나는 무력하다 .
+i'm realistic .	나는 현실적이다 .
+i'm resentful .	나는 분개한다 .
+i'm resilient .	나는 탄력적이다 .
+i'm satisfied .	나는 만족한다 .
+i'm saying no .	난 아니오라고 말하고 있어요 .
+i'm sensitive .	나는 예민해요 .
+i'm so hungry .	너무 배고파요 .
+i'm so lonely .	나 너무 외로워 .
+i'm so stupid .	난 정말 바보 같아 .
+i'm surprised .	나는 놀랐다 .
+i'm surviving .	나는 살아남았다 .
+i'm terrified .	나는 겁이 난다 .
+i'm the coach .	내가 코치야 .
+i'm tired now .	나 지금 피곤해 .
+i'm too drunk .	나 너무 취했어 .
+i'm uninsured .	나는 보험이 없습니다 .
+i'm unmarried .	나는 미혼이에요 .
+i'm very busy .	나는 매우 바빠요 .
+i'm very cold .	나는 매우 추워요 .
+i'm very lazy .	나는 매우 게으르다 .
+i'm very poor .	나는 매우 가난합니다 .
+i'm voting no .	나는 반대에 투표할 거야 .
+i'm your boss .	나는 당신의 상사입니다 .
+i've finished .	나는 끝났다 .
+i've found it .	나는 그것을 찾았습니다 .
+i've got eyes .	나한테는 눈이 있어 .
+is tom around ?	톰이 근처에 있어요 ?
+is he at home ?	그 사람 집에 있어요 ?
+is he correct ?	그 사람 맞나요 ?
+is he looking ?	그 사람이 찾고 있어요 ?
+is it damaged ?	손상되었나요 ?
+is it genuine ?	진짜인가요 ?
+is it helping ?	도움이 되나요 ?
+is it my turn ?	내 차례야 ?
+is it painful ?	고통스럽나요 ?
+is it raining ?	비가 오나요 ?
+is it serious ?	심각해요 ?
+is it snowing ?	눈이 오나요 ?
+is it too big ?	너무 크나요 ?
+is that a bat ?	그거 박쥐야 ?
+is that a cat ?	저거 고양이야 ?
+is that a fox ?	그거 여우야 ?
+is that right ?	그렇죠 ?
+is that weird ?	그게 이상해요 ?
+is that yours ?	그거 네 거야 ?
+is there more ?	더 있나요 ?
+is this a gag ?	이거 개그야 ?
+is this legal ?	이게 합법적인가요 ?
+is this yours ?	이게 네 거야 ?
+isn't it nice ?	좋지 않아 ?
+isn't it true ?	사실이 아닌가 ?
+it came apart .	그것은 무너졌다 .
+it can't wait .	기다릴 수가 없어 .
+it feels good .	기분이 좋아 .
+it gets worse .	상황은 더욱 악화됩니다 .
+it had snowed .	눈이 내렸습니다 .
+it has a flaw .	결함이 있습니다 .
+it has a leak .	누출이 있습니다 .
+it hurts here .	여기가 아파요 .
+it is a curse .	그것은 저주이다 .
+it is no joke .	농담이 아닙니다 .
+it is snowing .	눈이 온다 .
+it is the law .	그것은 법이다 .
+it is too hot .	너무 덥습니다 .
+it looks fine .	괜찮아 보이는데요 .
+it looks good .	좋아 보인다 .
+it looks nice .	좋아 보인다 .
+it made sense .	말이 되었어요 .
+it sickens me .	그것은 나를 아프게 한다 .
+it smells bad .	냄새가 안 좋아 .
+it takes time .	시간이 걸립니다 .
+it was a bomb .	그것은 폭탄이었다 .
+it was a gift .	그것은 선물이었습니다 .
+it was a hoax .	그것은 사기였습니다 .
+it was a joke .	농담이었어요 .
+it was a mess .	그것은 엉망이었다 .
+it was a test .	그것은 테스트였습니다 .
+it was boring .	지루했어요 .
+it was broken .	그것은 부서졌다 .
+it was locked .	잠겨 있었어요 .
+it was simple .	그것은 간단했다 .
+it was superb .	그것은 훌륭했습니다 .
+it wasn't him .	그 사람이 아니 었습니다 .
+it went viral .	그것은 입소문이 났다 .
+it won't hurt .	아프지 않을 거야 .
+it won't work .	그것은 작동하지 않습니다 .
+it works fine .	잘 작동해요 .
+it works well .	그것은 잘 작동합니다 .
+it'll be easy .	쉬울 거예요 .
+it'll go away .	그것은 사라질 것이다 .
+it's a parody .	그것은 패러디입니다 .
+it's a relief .	다행이다 .
+it's a rental .	그것은 임대입니다 .
+it's a sequel .	그것은 속편입니다 .
+it's a weapon .	그것은 무기입니다 .
+it's adorable .	사랑스럽다 .
+it's all gone .	다 없어졌어 .
+it's all here .	다 여기에 있어요 .
+it's all mine .	그것은 모두 내 것입니다 .
+it's all over .	다 끝났어 .
+it's all true .	그것은 모두 사실입니다 .
+it's business .	그것은 사업이다 .
+it's close by .	근처에 있어요 .
+it's exciting .	그것은 흥미 롭습니다 .
+it's fall now .	지금은 가을이에요 .
+it's for free .	그것은 무료입니다 .
+it's gorgeous .	정말 멋져요 .
+it's instinct .	그것은 본능이다 .
+it's midnight .	자정이야 .
+it's my treat .	그건 내 선물이야 .
+it's not cool .	멋지지 않아 .
+it's not easy .	쉽지 않습니다 .
+it's not fair .	그건 불공평해요 .
+it's not fake .	그것은 가짜가 아닙니다 .
+it's not hard .	어렵지 않아요 .
+it's not here .	여기 없어요 .
+it's not mine .	그것은 내 것이 아닙니다 .
+it's not real .	그것은 진짜가 아니다 .
+it's not safe .	안전하지 않습니다 .
+it's not true .	그것은 사실이 아닙니다 .
+it's now 2:30 .	지금은 2시 30분이에요 .
+it's obsolete .	그것은 쓸모가 없습니다 .
+it's occupied .	그것은 점유되어 있습니다 .
+it's our duty .	그것은 우리의 의무입니다 .
+it's outdated .	그것은 구식입니다 .
+it's pathetic .	한심하다 .
+it's personal .	그것은 개인적인 것입니다 .
+it's possible .	그것은 가능하다 .
+it's so clean .	너무 깨끗해요 .
+it's stealing .	그것은 훔치는 것입니다 .
+it's suicidal .	그것은 자살이다 .
+it's terrible .	정말 끔찍해요 .
+it's the best .	최고야 .
+it's the cops !	경찰이에요 !
+it's too cold .	너무 추워요 .
+it's too dark .	너무 어두워요 .
+it's too easy .	너무 쉽습니다 .
+it's too hard .	너무 힘들어요 .
+it's too late .	너무 늦었어 .
+it's too loud .	너무 시끄러워요 .
+it's too thin .	너무 얇아요 .
+it's unlikely .	그럴 것 같지 않습니다 .
+it's unlocked .	잠금이 해제되었습니다 .
+it's upstairs .	위층에 있어요 .
+it's very big .	그것은 매우 크다 .
+it's very dry .	매우 건조해요 .
+it's very low .	매우 낮습니다 .
+it's worth it .	그만한 가치가 있습니다 .
+just a minute .	잠시만요 .
+just be quiet .	그냥 조용히 하세요 .
+just leave it .	그냥 놔둬 .
+just trust me .	그냥 나를 믿어 .
+keep tom safe .	톰을 안전하게 지켜주세요 .
+keep in touch !	계속 연락하세요 !
+keep in touch .	계속 연락하세요 .
+learn italian .	이탈리아어를 배우세요 .
+let tom sleep .	톰을 자게 해주세요 .
+let her sleep .	그녀를 자게 해주세요 .
+let me finish .	마무리하겠습니다 .
+let me see it .	좀 볼까 .
+let me try it .	내가 한번 해볼게 .
+let's ask him .	그에게 물어보자 .
+let's do this .	이렇게 해보자 .
+let's drop it .	그것을 버리자 .
+let's go away .	떠나자 .
+let's go , tom .	가자 , 탐 .
+let's proceed .	계속하자 .
+life is crazy .	인생은 미쳤다 .
+life is short .	인생은 짧습니다 .
+life is sweet .	인생은 달콤합니다 .
+lock the door !	문을 잠그세요 !
+lock the door .	문을 잠그세요 .
+look up there .	거기 좀 봐봐 .
+love is blind .	사랑은 눈이 먼 것입니다 .
+luck is blind .	행운은 눈이 먼 것입니다 .
+make a choice .	선택을 하십시오 .
+make an offer .	제안을 하세요 .
+make it quick .	빨리 해 .
+make me happy .	나를 행복하게 해주세요 .
+make your bed .	침대를 정리하세요 .
+man is mortal .	사람은 죽는다 .
+mary is weird .	메리가 이상해 .
+may i ask why ?	이유를 물어봐도 될까요 ?
+may i come in ?	내가 들어가도 될까요 ?
+may i go home ?	집에 가도 될까요 ?
+men never cry .	남자들은 절대 울지 않아요 .
+my back aches .	허리가 아파요 .
+my dog ate it .	내 개가 먹었어 .
+my dog is big .	내 개는 커요 .
+my feet stink .	내 발에서 악취가 난다 .
+my foot hurts .	발이 아파요 .
+my name's tom .	내 이름은 톰이에요 .
+never give up .	절대 포기하지 마세요 .
+no one saw me .	아무도 나를 보지 못했습니다 .
+no one saw us .	아무도 우리를 보지 못했습니다 .
+no one's here .	여기에는 아무도 없어요 .
+no one's home .	집에 아무도 없어 .
+no , he didn't .	아니, 그는 그러지 않았어 .
+no , you can't .	아니, 그럴 수 없어 .
+nobody got up .	아무도 일어나지 않았습니다 .
+nobody saw me .	아무도 나를 보지 못했습니다 .
+nobody's busy .	아무도 바쁘지 않아요 .
+now means now .	지금은 지금을 의미합니다 .
+oh , i'm sorry .	아, 미안해요 .
+open the door .	문을 열어라 .
+open the safe .	금고를 열어보세요 .
+our team lost .	우리 팀은 졌다 .
+out of my way !	비켜 !
+pick a number .	번호를 선택하세요 .
+pick a weapon .	무기를 선택하세요 .
+please fix it .	고쳐주세요 .
+please get in .	들어가세요 .
+quiet , please .	조용히 해주세요 .
+quit gambling .	도박을 끊다 .
+read after me .	나를 따라 읽어라 .
+read it to me .	나한테 읽어줘 .
+read this now .	지금 이것을 읽어보세요 .
+red is better .	빨간색이 더 좋습니다 .
+rest in peace .	편히 쉬세요 .
+ring the bell .	벨을 울려라 .
+russia is big .	러시아는 크다 .
+save yourself .	자신을 구하십시오 .
+seal the room .	방을 봉인해라 .
+see you again .	또 만나요 ​​ .
+see you later .	나중에 봐요 .
+see you there .	거기서 봐요 .
+shake my hand .	악수 하세요 .
+shall i begin ?	시작해볼까 ?
+she avoids me .	그녀는 나를 피한다 .
+she came last .	그녀는 마지막에 왔어요 .
+she can skate .	그녀는 스케이트를 탈 수 있어요 .
+she can't ski .	그 사람은 스키를 못 타요 .
+she could die .	그녀는 죽을 수도 있습니다 .
+she dumped me .	그녀는 나를 차버렸다 .
+she got angry .	그녀는 화를 냈습니다 .
+she had twins .	그녀는 쌍둥이를 낳았습니다 .
+she hated him .	그녀는 그를 싫어했다 .
+she hates him .	그녀는 그를 싫어합니다 .
+she hired him .	그녀는 그를 고용했습니다 .
+she is french .	그녀는 프랑스 사람이에요 .
+she is a twin .	그녀는 쌍둥이예요 .
+she is active .	그녀는 활동적입니다 .
+she is crying .	그녀는 울고 있다 .
+she is gentle .	그녀는 온화하다 .
+she is strong .	그녀는 강하다 .
+she just left .	그녀는 방금 떠났어요 .
+she likes him .	그녀는 그를 좋아해요 .
+she looks sad .	그녀는 슬퍼 보인다 .
+she loves tom .	그녀는 톰을 사랑해요 .
+she loves him .	그녀는 그를 사랑합니다 .
+she needs you .	그녀는 당신이 필요합니다 .
+she obeys him .	그녀는 그에게 순종합니다 .
+she overslept .	그녀는 늦잠을 잤다 .
+she seems sad .	그녀는 슬퍼 보인다 .
+she wants him .	그녀는 그를 원해요 .
+she was brave .	그녀는 용감했습니다 .
+she was livid .	그녀는 분노했다 .
+she was lying .	그녀는 거짓말을 하고 있었습니다 .
+she was naive .	그녀는 순진했어요 .
+she went home .	그녀는 집에 갔다 .
+she's a cutie .	그녀는 귀염둥이입니다 .
+she's a model .	그녀는 모델이에요 .
+she's awesome .	그녀는 굉장해요 .
+she's dieting .	그녀는 다이어트 중이야 .
+she's my type .	그녀는 내 타입이에요 .
+should i come ?	내가 와야 하나 ?
+should i wait ?	기다려야 하나요 ?
+show it to me .	나에게 보여주세요 .
+show it to us .	우리에게 보여주세요 .
+show yourself .	자신을 보여주세요 .
+shut the door .	문을 닫아라 .
+sit beside me .	내 옆에 앉아 .
+sit down , tom !	앉으세요, 톰 !
+sit down , tom .	앉으세요, 탐 .
+sit near here .	이 근처에 앉으세요 .
+speak clearly .	명확하게 말하십시오 .
+speak quietly .	조용히 말해라 .
+start running .	달리기 시작하세요 .
+start the car .	차를 시동하십시오 .
+start writing .	쓰기 시작 .
+stay a moment .	잠시만 기다려주세요 .
+stay positive .	긍정적인 태도를 유지하세요 .
+stay together .	함께있어 .
+stir the soup .	수프를 저어주세요 .
+stop bragging .	자랑하지 마세요 .
+stop dreaming .	꿈을 꾸지 마세요 .
+stop frowning .	얼굴을 찡그리지 마세요 .
+stop shooting .	촬영을 중지하세요 .
+stop shouting .	그만 소리쳐 .
+stop that now .	이제 그만해 .
+stop worrying .	걱정하지 마세요 .
+straighten up .	곧게 펴다 .
+stuff happens .	일이 일어납니다 .
+suit yourself .	자신에게 맞게 .
+sweep my room .	내 방을 쓸어라 .
+take a breath .	숨을 쉬어 라 .
+take a chance .	기회를 잡아라 .
+take a cookie .	쿠키를 먹어라 .
+take a number .	번호를 받아라 .
+take a shower .	샤워를 하세요 .
+tastes differ .	취향은 다릅니다 .
+thanks a heap .	고마워요 .
+thanks anyway .	어쨌든 고마워요 .
+that meant no .	그것은 아니오를 의미했습니다 .
+that suits me .	그게 나에게 어울린다 .
+that was cool .	그거 멋있었어 .
+that was easy .	그건 쉬웠어요 .
+that was mean .	그건 정말 의미 있는 일이었어 .
+that was nice .	그거 좋았어 .
+that was ours .	그건 우리 것이었어 .
+that's saturn .	그건 토성이야 .
+that's a boat .	저건 보트야 .
+that's a book .	그건 책이에요 .
+that's a copy .	그건 사본이에요 .
+that's a doll .	그거 인형이에요 .
+that's a fact .	그것은 사실입니다 .
+that's a fake .	그건 가짜예요 .
+that's a joke .	그거 농담이에요 .
+that's a myth .	그것은 신화입니다 .
+that's a pity .	안타깝네요 .
+that's a plan .	그게 계획이야 .
+that's a risk .	그것은 위험합니다 .
+that's a sign .	그것은 표시입니다 .
+that's a tree .	그건 나무야 .
+that's clever .	그거 영리한데…
+that's enough .	그것으로 충분합니다 .
+that's lovely .	정말 멋지네요 .
+that's my boy .	그 사람은 내 아들이야 .
+that's my car .	그건 내 차야 .
+that's my cat .	그건 내 고양이야 .
+that's my dog .	그건 내 개야 .
+that's no fun .	그거 재미없어 .
+that's normal .	그것은 정상입니다 .
+that's pretty .	정말 예쁘네요 .
+that's simple .	그건 간단해요 .
+that's so rad .	정말 대단해요 .
+that's so sad .	정말 슬프다 .
+that's stupid .	그건 바보야 .
+that's unfair .	그건 불공평해요 .
+that's untrue .	그건 사실이 아닙니다 .
+the girls won .	여자애들이 이겼어 .
+there is hope .	희망이 있습니다 .
+there you are .	거기 있어요 .
+they all died .	그들 모두는 죽었습니다 .
+they all knew .	그들 모두는 알고 있었다 .
+they all know .	그들 모두는 알고 있습니다 .
+they are here .	그들은 여기 있습니다 .
+they canceled .	그들은 취소했다 .
+they embraced .	그들은 포옹했다 .
+they found it .	그들은 그것을 발견했습니다 .
+they found us .	그들이 우리를 찾았어요 .
+they know him .	그들은 그를 알고 있습니다 .
+they look sad .	그들은 슬퍼 보인다 .
+they love tom .	그들은 톰을 사랑해요 .
+they need him .	그들에게는 그가 필요해요 .
+they said yes .	그들은 그렇다고 말했다 .
+they saved us .	그들은 우리를 구했습니다 .
+they're asian .	그들은 아시아 사람이에요 .
+they're alive .	그들은 살아있다 .
+they're angry .	그들은 화가 났습니다 .
+they're armed .	그들은 무장했어요 .
+they're awake .	그들은 깨어 있어요 .
+they're brave .	그들은 용감해요 .
+they're broke .	그들은 파산했습니다 .
+they're clean .	깨끗해요 .
+they're crazy .	그들은 미쳤어 .
+they're drunk .	그들은 취했어요 .
+they're dying .	그들은 죽어가고 있어요 .
+they're early .	일찍 왔어요 .
+they're happy .	그들은 행복해요 .
+they're lying .	그들은 거짓말을 하고 있어요 .
+they're small .	그들은 작습니다 .
+they're spies .	그들은 스파이입니다 .
+they're there .	거기 있어요 .
+they're tired .	그들은 피곤해요 .
+they're twins .	그들은 쌍둥이예요 .
+they're weird .	그들은 이상해요 .
+they're wrong .	그들은 틀렸어 .
+this is italy .	여기는 이탈리아예요 .
+this is japan .	여기는 일본이에요 .
+this is a dvd .	이건 DVD야 .
+this is a dog .	이것은 개입니다 .
+this is a map .	이것은 지도입니다 .
+this is a pen .	이것은 펜입니다 .
+this is a pun .	이것은 말장난이다 .
+this is a wig .	이것은 가발입니다 .
+this is awful .	이건 정말 끔찍해요 .
+this is cheap .	이것은 싸다 .
+this is crazy .	이건 미쳤어 .
+this is funny .	이거 재밌어 .
+this is great .	이것은 훌륭합니다 .
+this is legal .	이것은 합법적입니다 .
+this is my cd .	이건 내 CD야 .
+this is silly .	이것은 어리석은 일입니다 .
+this is sweet .	이것은 달콤하다 .
+this is weird .	이건 이상해요 .
+this is wrong .	이건 틀렸어 .
+this is yours .	이것은 당신 것입니다 .
+this was easy .	이건 쉬웠어요 .
+tie your shoe .	신발끈을 묶어라 .
+time is money .	시간은 돈이다 .
+tom can do it .	톰은 할 수 있어요 .
+tom can drive .	톰은 운전할 수 있어요 .
+tom can't ski .	톰은 스키를 못 타요 .
+tom can't win .	톰은 이길 수 없어 .
+tom confessed .	톰이 고백했어요 .
+tom disagreed .	톰은 동의하지 않았습니다 .
+tom dumped me .	톰이 나를 버렸어 .
+tom felt safe .	톰은 안전하다고 느꼈어요 .
+tom felt sick .	톰은 기분이 나빴어요 .
+tom got stuck .	톰이 갇혔어요 .
+tom graduated .	톰은 졸업했어요 .
+tom had a gun .	톰은 총을 갖고 있었어요 .
+tom has a dog .	톰은 개가 있어요 .
+tom has a son .	톰에게는 아들이 있어요 .
+tom has plans .	톰은 계획이 있어요 .
+tom hates you .	톰은 당신을 싫어해요 .
+tom hesitated .	톰은 망설였다 .
+tom is ok now .	톰은 이제 괜찮아요 .
+tom is a hero .	톰은 영웅이에요 .
+tom is a monk .	톰은 수도사예요 .
+tom is afraid .	톰은 두려워요 .
+tom is boring .	톰은 지루해요 .
+tom is chubby .	톰은 통통해요 .
+tom is eating .	톰은 먹고 있어요 .
+tom is guilty .	톰은 유죄입니다 .
+tom is hiding .	톰이 숨어 있어요 .
+tom is hungry .	톰은 배고프다 .
+tom is in bed .	톰은 침대에 있어요 .
+tom is joking .	톰이 농담해요 .
+tom is skiing .	톰은 스키를 타요 .
+tom is voting .	톰이 투표 중이에요 .
+tom is vulgar .	톰은 저속해요 .
+tom just died .	톰이 방금 죽었어 .
+tom left town .	톰은 마을을 떠났어요 .
+tom let us go .	톰 우리 가자 .
+tom likes her .	톰은 그녀를 좋아해요 .
+tom likes him .	톰은 그 사람을 좋아해요 .
+tom looks sad .	톰은 슬퍼 보여요 .
+tom lost hope .	톰은 희망을 잃었어요 .
+tom loves you .	톰은 당신을 사랑해요 .
+tom missed it .	톰이 그것을 놓쳤어요 .
+tom overslept .	톰은 늦잠을 잤어요 .
+tom runs fast .	톰은 빨리 달린다 .
+tom said that .	톰이 그렇게 말했어요 .
+tom shot mary .	톰이 메리를 쐈어요 .
+tom trusts me .	톰은 나를 믿어요 .
+tom walked in .	톰이 들어왔다 .
+tom wanted it .	톰은 그것을 원했어요 .
+tom was alive .	톰은 살아있었어 .
+tom was cruel .	톰은 잔인했어요 .
+tom was dying .	톰은 죽어가고 있었어요 .
+tom was fired .	톰이 해고됐어요 .
+tom was lucky .	톰은 운이 좋았어 .
+tom was scary .	톰은 무서웠어요 .
+tom was tense .	톰은 긴장했어요 .
+tom was third .	톰은 세 번째였어요 .
+tom was upset .	톰은 화가 났어요 .
+tom went pale .	톰의 얼굴이 창백해졌어 .
+tom will obey .	톰은 순종할 거예요 .
+tom will swim .	톰은 수영할 거야 .
+tom won't eat .	톰은 안 먹을 거야 .
+tom's adopted .	톰이 입양했어요 .
+tom's arrived .	톰이 도착했어요 .
+tom's cooking .	톰이 요리해요 .
+tom's excited .	톰은 신난다 .
+tom's healthy .	톰은 건강해요 .
+tom's helping .	톰이 도와주고 있어 .
+tom's married .	톰은 결혼했어요 .
+tom's packing .	톰이 짐을 싸고 있어요 .
+tom's unarmed .	톰은 비무장이에요 .
+tom's violent .	톰은 폭력적이에요 .
+tom's working .	톰은 일해요 .
+tom's wounded .	톰이 다쳤어요 .
+try this cake .	이 케이크를 먹어보세요 .
+try to resist .	저항하려고 노력하십시오 .
+turn the page .	페이지를 넘기세요 .
+wait a minute .	잠깐 기다려요 .
+wait a second .	잠깐만요 .
+wait till six .	6시까지 기다리세요 .
+wake the kids .	아이들을 깨워라 .
+walk this way .	이쪽으로 걸어가세요 .
+was i snoring ?	내가 코를 골고 있었어 ?
+was tom there ?	톰 거기 있었어 ?
+was it a joke ?	농담이었나요 ?
+was that a no ?	그게 아니었어 ?
+watch closely .	자세히 관찰해 보세요 .
+watch my back .	내 뒤를 조심해 .
+water , please .	물 주세요 .
+wax the floor .	바닥에 왁스를 바르세요 .
+we admire you .	우리는 당신을 존경합니다 .
+we all agreed .	우리 모두 동의했어요 .
+we all change .	우리 모두는 변합니다 .
+we are at war .	우리는 전쟁 중입니다 .
+we are doomed .	우리는 운명을 정했습니다 .
+we can try it .	우리는 그것을 시도할 수 있습니다 .
+we can't fail .	우리는 실패할 수 없습니다 .
+we can't lose .	우리는 잃을 수 없습니다 .
+we caught you .	우리가 당신을 잡았어요 .
+we could read .	우리는 읽을 수 있습니다 .
+we could wait .	우리는 기다릴 수 있었다 .
+we could walk .	우리는 걸을 수 있었다 .
+we don't know .	우리는 모른다 .
+we had a deal .	우리는 거래를 했어요 .
+we have a car .	우리는 차가 있어요 .
+we have plans .	우리에겐 계획이 있어요 .
+we have rules .	우리에게는 규칙이 있습니다 .
+we have to go .	우리는 가야 해요 .
+we kept quiet .	우리는 조용히 지냈다 .
+we meant well .	우리는 좋은 뜻이었습니다 .
+we met before .	우리는 전에 만났어요 .
+we missed you .	우리는 당신을 그리워했습니다 .
+we must check .	우리는 확인해야합니다 .
+we must focus .	우리는 집중해야합니다 .
+we must hurry .	우리는 서둘러야 해요 .
+we must leave .	우리는 떠나야 해요 .
+we must speak .	우리는 말해야 합니다 .
+we need a car .	우리는 차가 필요해요 .
+we need a map .	우리는 지도가 필요해요 .
+we need money .	우리는 돈이 필요해요 .
+we need proof .	우리는 증거가 필요합니다 .
+we need rules .	우리는 규칙이 필요합니다 .
+we need sleep .	우리는 잠이 필요해요 .
+we need to go .	우리는 가야 해요 .
+we need tools .	우리는 도구가 필요합니다 .
+we need water .	우리는 물이 필요해요 .
+we never lose .	우리는 결코 잃지 않습니다 .
+we should eat .	우리는 먹어야 해 .
+we took a cab .	우리는 택시를 탔어요 .
+we understand .	우리는 이해합니다 .
+we want candy .	우리는 사탕을 원해요 .
+we want peace .	우리는 평화를 원합니다 .
+we want to go .	우리는 가고 싶어 .
+we wanted you .	우리는 당신을 원했어요 .
+we were alone .	우리는 혼자였습니다 .
+we were bored .	우리는 지루했다 .
+we were close .	우리는 가까웠어요 .
+we were lucky .	우리는 운이 좋았습니다 .
+we were right .	우리가 옳았어 .
+we were there .	우리는 거기에 있었다 .
+we will fight .	우리는 싸울 것입니다 .
+we wonder why .	우리는 왜 그런지 궁금해합니다 .
+we'll all die .	우리는 모두 죽을 것이다 .
+we'll both go .	우리 둘 다 갈 거야 .
+we'll explain .	우리는 설명할 것입니다 .
+we'll find it .	우리는 그것을 찾을 것입니다 .
+we'll rebuild .	우리는 재건할 것입니다 .
+we'll respond .	우리는 응답할 것입니다 .
+we'll succeed .	우리는 성공할 것이다 .
+we'll survive .	우리는 살아남을 것이다 .
+we're a group .	우리는 그룹입니다 .
+we're anxious .	우리는 불안합니다 .
+we're ashamed .	우리는 부끄러워요 .
+we're baffled .	우리는 당황했습니다 .
+we're careful .	우리는 조심해요 .
+we're certain .	우리는 확신합니다 .
+we're cousins .	우리는 사촌이에요 .
+we're dancing .	우리는 춤을 추고 있어요 .
+we're dieting .	우리는 다이어트 중이에요 .
+we're doctors .	우리는 의사예요 .
+we're enemies .	우리는 적입니다 .
+we're engaged .	우리는 약혼했어요 .
+we're fasting .	우리는 금식 중입니다 .
+we're friends .	우리는 친구예요 .
+we're in love .	우리는 사랑에 빠졌어요 .
+we're in luck .	우리는 운이 좋다 .
+we're in pain .	우리는 고통스러워요 .
+we're in sync .	우리는 동기화되어 있습니다 .
+we're in town .	우리는 시내에 있어요 .
+we're jealous .	우리는 질투 해요 .
+we're kidding .	농담이에요 .
+we're leaving .	우리는 떠날거야 .
+we're married .	우리는 결혼했어요 .
+we're not fit .	우리는 적합하지 않습니다 .
+we're not mad .	우리는 화나지 않았습니다 .
+we're not old .	우리는 늙지 않았습니다 .
+we're reading .	우리는 읽고 있어요 .
+we're relaxed .	우리는 편안합니다 .
+we're serious .	우리는 심각해요 .
+we're shocked .	우리는 충격을 받았습니다 .
+we're sincere .	우리는 진심입니다 .
+we're sinking .	우리는 가라앉고 있어요 .
+we're sloshed .	우리는 출렁거렸다 .
+we're smashed .	우리는 박살났다 .
+we're special .	우리는 특별해요 .
+we're stalled .	우리는 멈췄습니다 .
+we're starved .	우리는 배고프다 .
+we're staying .	우리는 머물고 있어요 .
+we're stuffed .	우리는 꽉 차 있어요 .
+we're stunned .	우리는 놀랐습니다 .
+we're through .	우리는 끝났어 .
+we're too old .	우리는 너무 늙었어요 .
+we're touched .	우리는 감동 받았습니다 .
+we're trapped !	우리는 갇혀있습니다 !
+we're trapped .	우리는 갇혀 있어요 .
+we're unhappy .	우리는 불행해요 .
+we're unlucky .	우리는 운이 좋지 않습니다 .
+we're useless .	우리는 쓸모가 없습니다 .
+we're waiting .	우리는 기다리고 있습니다 .
+we're wealthy .	우리는 부자입니다 .
+we're winners .	우리는 승자입니다 .
+we're winning .	우리가 이기고 있어요 .
+we're working .	우리는 일하고 있어요 .
+we're worried .	우리는 걱정됩니다 .
+we've arrived .	우리는 도착했습니다 .
+we've no time .	시간이 없어 .
+we've refused .	우리는 거절했습니다 .
+we've seen it .	우리는 그것을 보았습니다 .
+were you busy ?	바빴어 ?
+were you hurt ?	다쳤어요 ?
+were you shot ?	총에 맞았어 ?
+what a bummer !	정말 안타까운 일이야 !
+what a fiasco !	정말 큰 실패였습니다 !
+what a hassle !	정말 번거 롭습니다 !
+what a relief !	정말 다행이에요 !
+what a scream !	정말 비명소리야 !
+what about us ?	우리는 어떻습니까 ?
+what an idiot !	정말 바보야 !
+what did i do ?	내가 무슨 짓을 한 거지 ?
+what do i get ?	나는 무엇을 얻나요 ?
+what happened ?	무슨 일이에요 ?
+what is a ufo ?	UFO가 뭐야 ?
+what'll we do ?	우리는 무엇을 할 것인가 ?
+what's inside ?	안에는 무엇이 있나요 ?
+when was that ?	그게 언제였지 ?
+where are you ?	어디세요 ?
+where were we ?	우리는 어디에 있었나요 ?
+which is mine ?	어느 것이 내 거야 ?
+who hates you ?	누가 당신을 싫어해요 ?
+who helps her ?	누가 그녀를 도와주나요 ?
+who hired you ?	누가 당신을 고용했어요 ?
+who is absent ?	결석한 사람은 누구입니까 ?
+who is hungry ?	배고픈 사람은 누구입니까 ?
+who said that ?	누가 그런 말을 했어 ?
+who says that ?	누가 그런 말을 합니까 ?
+who wants tea ?	누가 차 먹을래 ?
+who washed it ?	누가 씻었어 ?
+who won today ?	오늘은 누가 이겼나요 ?
+who's at home ?	집에 누구 있어 ?
+who's dieting ?	누가 다이어트 중이야 ?
+who's driving ?	운전하는 사람은 누구야 ?
+who's talking ?	누가 말하는거야 ?
+who's winning ?	누가 이기고 있나요 ?
+who's with me ?	나와 함께 있는 사람은 누구입니까 ?
+whose is this ?	이건 누구야 ?
+will she come ?	그 사람이 올까 ?
+you all right ?	괜찮아 ?
+you are crazy .	당신은 미쳤어요 .
+you are drunk !	너 취했어 !
+you are early .	당신은 일찍입니다 .
+you are lying .	당신은 거짓말을하고 있습니다 .
+you are wrong .	당신은 틀렸어 .
+you can do it .	할 수 있어요 .
+you have mail .	당신은 메일을 가지고 있습니다 .
+you look busy .	너 바빠 보여요 .
+you look fine .	당신은 괜찮아 보인다 .
+you look pale .	창백해 보여요 .
+you look sick .	너 아픈 것 같아 .
+you must come .	당신은 와야합니다 .
+you must rest .	쉬어야 해 .
+you must stay .	당신은 머물러야합니다 .
+you need this .	당신은 이것이 필요합니다 .
+you needed me .	당신은 내가 필요했습니다 .
+you seem busy .	당신은 바쁜 것 같아요 .
+you should go .	너는 가야 해 .
+you stay here .	너는 여기 있어라 .
+you want this ?	너 이거 원해 ?
+you were mine .	당신은 내 것이었어 .
+you work hard .	당신은 열심히 일합니다 .
+you'd love it .	당신은 그것을 좋아할 것입니다 .
+you'll go far .	당신은 멀리 갈 것입니다 .
+you're a doll !	너는 인형이야 !
+you're a liar .	당신은 거짓말쟁이입니다 .
+you're a nerd .	당신은 괴짜입니다 .
+you're a slob .	너는 멍청이야 .
+you're a snob .	당신은 속물이에요 .
+you're a star .	당신은 스타입니다 .
+you're biased .	당신은 편견이 있어요 .
+you're boring .	너 지루해 .
+you're bright .	당신은 밝습니다 .
+you're clever .	당신은 영리해요 .
+you're crafty .	당신은 교활해요 .
+you're creepy .	당신은 소름 끼치는군요 .
+you're famous .	당신은 유명해요 .
+you're greedy .	당신은 욕심이 많아요 .
+you're grumpy .	당신은 심술쟁이입니다 .
+you're insane .	당신은 미쳤어요 .
+you're joking !	농담하는 거야 !
+you're loaded .	당신은로드되었습니다 .
+you're losing .	당신은지고 있어요 .
+you're no fun .	당신은 재미 없어 .
+you're pretty .	당신은 예뻐요 .
+you're single .	당신은 싱글이에요 .
+you're skinny .	당신은 말랐어요 .
+you're sleepy .	당신은 졸려요 .
+you're sneaky .	당신은 교활해요 .
+you're stupid .	당신은 바보입니다 .
+you're unfair .	당신은 불공평해요 .
+you've failed .	당신은 실패했습니다 .
+a beer , please .	맥주 한 잔 주세요 .
+a coke , please .	콜라 주세요 .
+act like a man .	남자답게 행동해 .
+ain't she cute ?	그 사람 귀엽지 않아 ?
+allow me to go .	내가 갈 수 있게 해주세요 .
+am i intruding ?	내가 방해하고 있는 걸까 ?
+am i not right ?	내가 맞지 않니 ?
+am i qualified ?	내가 자격이 있나요 ?
+apples are red .	사과는 빨갛다 .
+are there kids ?	아이들이 있나요 ?
+are we friends ?	우리는 친구인가요 ?
+are we leaving ?	우리 떠나는 거야 ?
+are we sinking ?	우리 가라앉고 있어 ?
+are you afraid ?	두렵나요 ?
+are you coming ?	당신은 오고 있나요 ?
+are you crying ?	너 울고 있니 ?
+are you famous ?	당신은 유명합니까 ?
+are you hiring ?	당신은 채용 중입니까 ?
+are you honest ?	당신은 정직합니까 ?
+are you hungry ?	배고프니 ?
+are you insane ?	너 미쳤어 ?
+are you joking ?	농담하는 거야 ?
+are you lonely ?	외로워요 ?
+are you single ?	당신은 싱글인가요 ?
+are you sleepy ?	너 졸려 ?
+aren't you hot ?	너 안 덥니 ?
+autumn is here .	가을이 왔습니다 .
+be a good girl .	좋은 여자가 되십시오 .
+be nice to her .	그녀에게 잘 대해주세요 .
+blow your nose .	코를 풀어라 .
+boats can sink .	보트가 가라앉을 수 있습니다 .
+both are alive .	둘 다 살아 있어요 .
+bring a camera .	카메라를 가져오세요 .
+bring a shovel .	삽을 가져와 .
+bring it to me .	나에게 가져와 .
+bring the kids .	아이들을 데리고 와요 .
+buy him a beer .	그에게 맥주를 사주세요 .
+buy me a drink .	나한테 한잔 사줘 .
+call a plumber .	배관공을 불러요 .
+can i eat that ?	나 그거 먹어도 돼 ?
+can i eat this ?	나 이거 먹어도 돼 ?
+can i go first ?	나 먼저 가도 돼 ?
+can i have one ?	하나 가질 수 있나요 ?
+can i help you ?	내가 도와드릴까요 ?
+can i join you ?	나도 같이 할 수 있어 ?
+can i kiss you ?	키스해도 될까요 ?
+can i see that ?	내가 그걸 볼 수 있나요 ?
+can i see this ?	나 이거 볼 수 있어 ?
+can i see , too ?	나도 볼 수 있나요 ?
+can i sit down ?	나 앉아도 돼 ?
+can i sit here ?	나 여기 앉아도 돼 ?
+can i touch it ?	만져봐도 돼 ?
+can tom see us ?	톰이 우리를 볼 수 있나요 ?
+can we come in ?	우리 들어갈 수 있어 ?
+can you cancel ?	취소할 수 있어 ?
+can you juggle ?	저글링 할 수 있어 ?
+can you see it ?	당신은 그것을 볼 수 있습니까 ?
+cash is better .	현금이 더 좋습니다 .
+catch the ball .	공을 잡아라 .
+cats are smart .	고양이는 똑똑해요 .
+change is good .	변화는 좋다 .
+check that out .	확인해 보세요 .
+check this out .	이것을 확인해 보세요 .
+close the door .	문을 닫으세요 .
+close the gate .	문을 닫으세요 .
+coffee , please .	커피 주세요 .
+come back here .	여기로 돌아오세요 .
+come back home .	집으로 돌아오세요 .
+come back soon .	곧 돌아오세요 .
+come down here .	여기로 내려오세요 .
+contact my son .	내 아들에게 연락해 .
+cows eat grass .	소는 풀을 먹습니다 .
+cows give milk .	소는 우유를 줍니다 .
+cut it in half .	반으로 자르세요 .
+did i break it ?	내가 그걸 깨뜨렸어 ?
+did i hurt you ?	내가 당신을 다치게 했나 ?
+did i say that ?	내가 그렇게 말했나 ?
+did i wake you ?	내가 당신을 깨웠나요 ?
+did tom buy it ?	톰이 그것을 샀나요 ?
+did she say it ?	그 사람이 말했어 ?
+did you forget ?	잊어버렸어 ?
+did you get it ?	당신은 그것을 얻었나요 ?
+did you go out ?	나갔어 ?
+did you say 30 ?	30이라고 했어 ?
+did you see it ?	봤어 ?
+dinner's ready .	저녁 준비됐어 .
+do i annoy you ?	내가 당신을 짜증나게 합니까 ?
+do i need this ?	나한테 이게 필요해 ?
+do as you like .	마음대로 하세요 .
+do as you want .	원하는 대로 하세요 .
+do it this way .	이렇게 하세요 .
+do it tomorrow .	내일 하세요 .
+do it yourself .	스스로 해보세요 .
+do not do that .	그러지 마세요 .
+do tigers purr ?	호랑이는 가르랑거리나요 ?
+do we know you ?	우리는 당신을 알고 있나요 ?
+do you deny it ?	당신은 그것을 부정합니까 ?
+do you hate me ?	너 내가 싫어 ?
+do you hear me ?	내 말 들려 ?
+do you know me ?	너 나 알아 ?
+do you know us ?	우리를 아시나요 ?
+do you like it ?	당신은 그것을 좋아합니까 ?
+do you love me ?	당신은 나를 사랑합니까 ?
+do you mean us ?	우리 말인가요 ?
+do you miss it ?	그리워요 ?
+do you promise ?	약속해요 ?
+do you read me ?	내 말 읽어 ?
+do you recycle ?	당신은 재활용합니까 ?
+does tom drink ?	톰은 술을 마시나요 ?
+does tom smoke ?	톰은 담배를 피우나요 ?
+does it matter ?	그게 중요해 ?
+does this hurt ?	이거 아프니 ?
+dogs are smart .	개는 똑똑하다 .
+don't be angry .	화내지 마세요 .
+don't be crazy .	미친 짓 하지 마 .
+don't be crude .	거칠게 굴지 마세요 .
+don't be naive .	순진하게 굴지 마세요 .
+don't be silly .	바보 같은 소리 하지 마 .
+don't be sorry .	미안해하지 마세요 .
+don't be upset .	화내지 마세요 .
+don't blame me .	나를 비난하지 마십시오 .
+don't buy that .	그거 사지 마세요 .
+don't complain .	불평하지 마세요 .
+don't fall off !	떨어지지 마세요 !
+don't force it .	강요하지 마십시오 .
+don't judge me .	나를 판단하지 마십시오 .
+don't leave me .	나를 떠나지 마십시오 .
+don't leave us .	우리를 떠나지 마십시오 .
+don't mind her .	그녀는 신경 쓰지 마세요 .
+don't obey him .	그에게 복종하지 마십시오 .
+don't run here .	여기서 뛰지 마세요 .
+don't say that .	그런 말은 하지 마세요 .
+don't show off .	과시하지 마십시오 .
+don't stand up .	일어서지 마세요 .
+don't stop him .	그를 막지 마세요 .
+don't tease me .	나를 놀리지 마세요 .
+don't tempt me .	나를 유혹하지 마십시오 .
+don't touch it .	만지지 마세요 .
+don't touch me !	나를 만지지 마세요 !
+don't touch me .	나를 만지지 마세요 .
+don't you care ?	상관없어 ?
+drink some tea .	차 좀 마셔요 .
+drop me a line .	나에게 전화를 걸어주세요 .
+eat everything .	다 먹어라 .
+eat more fruit .	과일을 더 먹어라 .
+empty your bag .	가방을 비우세요 .
+enjoy the game .	게임을 즐기세요 .
+enjoy the show .	쇼를 즐기세요 .
+enjoy your day .	즐거운 하루 보내세요 .
+enter the room .	방에 들어가라 .
+everybody knew .	모두가 알고 있었어요 .
+everybody left .	모두가 떠났다 .
+everybody lies .	모두가 거짓말을 해요 .
+everybody paid .	모두가 지불했습니다 .
+everyone gasps .	모두가 헐떡거린다 .
+everyone's out .	다들 밖으로 나갔어 .
+fight like men .	남자처럼 싸워라 .
+fishing is fun .	낚시는 재미있어요 .
+form two lines .	두 줄을 이룬다 .
+get in the car .	차에 타세요 .
+get in the van .	밴에 타세요 .
+get off my car .	내 차에서 내려요 .
+get on a horse .	말을 타세요 .
+get on the bus .	버스를 타세요 .
+get on with it .	계속하세요 .
+get out of bed !	침대에서 일어나라 !
+get out of bed .	침대에서 일어나라 .
+get rid of her .	그녀를 제거하십시오 .
+get some sleep .	좀 자요 .
+get the camera .	카메라 가져와 .
+give him a hug .	그를 안아주세요 .
+give it a shot .	한번 시도해 보세요 .
+give it to her .	그녀에게 줘 .
+give it to him .	그에게 줘 .
+give me a beer .	나에게 맥주를 줘 .
+give me a hand .	나에게 도움을 주세요 .
+give me a hint .	나에게 힌트를 줘 .
+give me a kiss .	나에게 키스를 해주세요 .
+give me a week .	나에게 일주일을 줘 .
+go back to bed .	다시 자러 가세요 .
+go get changed .	가서 갈아입으세요 .
+go look for it .	가서 찾아보세요 .
+go right ahead .	바로 가세요 .
+go take a walk .	산책하러 가세요 .
+go to the park .	공원에 가세요 .
+good afternoon .	좋은 오후에요 .
+grab your gear .	장비를 챙기세요 .
+guess who i am .	내가 누구인지 맞춰보세요 .
+hand me my mug .	내 머그잔을 건네주세요 .
+happy new year !	새해 복 많이 받으세요 !
+happy birthday !	생일 축하해요 !
+happy holidays .	즐거운 휴일 보내세요 .
+have you eaten ?	식사하셨나요 ?
+have you slept ?	잤어 ?
+he almost died .	그는 거의 죽을 뻔했습니다 .
+he also saw it .	그는 또한 그것을 보았다 .
+he asked me to .	그는 나에게 물었다 .
+he became rich .	그는 부자가 되었습니다 .
+he bit his lip .	그는 입술을 깨물었다 .
+he came by bus .	그는 버스를 타고 왔어요 .
+he came by car .	그는 차로 왔다 .
+he can't count .	그는 셀 수 없습니다 .
+he can't do it .	그는 그것을 할 수 없습니다 .
+he can't drive .	그 사람은 운전을 못해요 .
+he cannot swim .	그는 수영을 할 수 없습니다 .
+he could do it .	그는 그것을 할 수 있었다 .
+he counts fast .	그는 빨리 계산합니다 .
+he deserved it .	그는 그럴 자격이 있었다 .
+he dislikes me .	그 사람은 나를 싫어해요 .
+he doesn't lie .	그는 거짓말을 하지 않습니다 .
+he doesn't tan .	그는 태닝을 하지 않아요 .
+he felt uneasy .	그는 불안감을 느꼈다 .
+he flew a kite .	그는 연을 날렸다 .
+he gazed at me .	그는 나를 쳐다보았다 .
+he got the job .	그는 일자리를 얻었습니다 .
+he has a beard .	그 사람은 수염이 있어요 .
+he has a lunch .	그는 점심을 먹습니다 .
+he has a point .	그는 요점이 있습니다 .
+he has a video .	그는 비디오를 갖고 있어요 .
+he has changed .	그는 변했다 .
+he has left us .	그는 우리를 떠났습니다 .
+he has no fear .	그는 두려움이 없습니다 .
+he has to come .	그는 와야 해요 .
+he hated lying .	그는 거짓말을 싫어했습니다 .
+he is american .	그는 미국인이에요 .
+he is canadian .	그는 캐나다 사람이에요 .
+he is japanese .	그는 일본인이에요 .
+he is a doctor .	그는 의사입니다 .
+he is a genius .	그는 천재입니다 .
+he is a writer .	그는 작가입니다 .
+he is an actor .	그는 배우입니다 .
+he is bankrupt .	그는 파산했습니다 .
+he is in tokyo .	그는 도쿄에 있어요 .
+he is my uncle .	그 사람은 내 삼촌이에요 .
+he is outgoing .	그는 외향적이다 .
+he is powerful .	그는 강력하다 .
+he is well off .	그는 잘 지내요 .
+he keeps a cat .	그는 고양이를 키우고 있어요 .
+he lay face up .	그는 얼굴을 위로 하고 누워 있었다 .
+he likes jelly .	그 사람은 젤리를 좋아해요 .
+he likes money .	그 사람은 돈을 좋아해요 .
+he lives alone .	그는 혼자 산다 .
+he looked back .	그는 뒤를 돌아보았다 .
+he looked well .	그는 괜찮아 보였다 .
+he looks tired .	그 사람 피곤해 보여요 .
+he looks young .	그는 젊어 보인다 .
+he lost a book .	그는 책을 잃어버렸어요 .
+he loves music .	그는 음악을 좋아해요 .
+he makes sense .	그는 말이 된다 .
+he needs money .	그 사람은 돈이 필요해요 .
+he owes me one .	그 사람은 나에게 빚을 졌어요 .
+he passed away .	그는 세상을 떠났습니다 .
+he respects me .	그는 나를 존경합니다 .
+he sang a song .	그는 노래를 불렀다 .
+he saw it also .	그 사람도 그걸 봤어 .
+he saw it , too .	그 사람도 그걸 봤어 .
+he scolded her .	그는 그녀를 꾸짖었다 .
+he seems angry .	그는 화난 것 같아요 .
+he seems happy .	그는 행복해 보인다 .
+he seems tired .	그는 피곤한 것 같아요 .
+he sells fruit .	그는 과일을 팔아요 .
+he should come .	그 사람이 와야 해 .
+he slapped her .	그는 그녀를 때렸다 .
+he sold us out .	그는 우리를 매진시켰어요 .
+he surrendered .	그는 항복했다 .
+he talks a lot .	그는 말을 많이 해요 .
+he trusted you .	그는 당신을 믿었습니다 .
+he walked away .	그는 떠났다 .
+he wants to go .	그는 가고 싶어한다 .
+he was english .	그는 영국인이었습니다 .
+he was in pain .	그는 고통을 겪고 있었습니다 .
+he was invited .	그는 초대받았습니다 .
+he was panting .	그는 헐떡거렸다 .
+he was patient .	그는 참을성이 있었습니다 .
+he was perfect .	그는 완벽했어요 .
+he was stunned .	그는 깜짝 놀랐다 .
+he went skiing .	그는 스키를 타러 갔다 .
+he went to bed .	그는 잠자리에 들었습니다 .
+he will not go .	그는 가지 않을 것이다 .
+he worked hard .	그는 열심히 일했습니다 .
+he works a lot .	그는 일을 많이 해요 .
+he's a big boy .	그는 큰 소년입니다 .
+he's a bit shy .	그 사람은 좀 수줍어해요 .
+he's a gambler .	그는 도박꾼이에요 .
+he's a man now .	그는 이제 남자입니다 .
+he's a slacker .	그는 게으른 사람이에요 .
+he's all right .	그는 괜찮아요 .
+he's an author .	그는 작가예요 .
+he's an ex-con .	그 사람은 전과자야 .
+he's an outlaw .	그는 무법자야 .
+he's depressed .	그는 우울해요 .
+he's henpecked .	그는 뾰루지가 났다 .
+he's in danger .	그는 위험에 빠졌습니다 .
+he's in prison .	그는 감옥에 있어요 .
+he's not going .	그 사람은 안 갈 거야 .
+he's not ready .	그는 아직 준비가 안 됐어요 .
+he's so stupid .	그 사람은 정말 바보야 .
+he's too drunk .	그 사람 너무 취했어요 .
+he's very open .	그는 매우 개방적이에요 .
+hello everyone !	여러분, 안녕하세요 !
+here comes tom .	톰이 왔어요 .
+here is a book .	여기 책이 있어요 .
+here is my key .	여기 내 열쇠가 있어요 .
+here she comes .	여기 그녀가 온다 .
+here's my room .	여기 내 방이야 .
+hey , what's up ?	안녕, 무슨 일이야 ?
+hi ! what's new ?	안녕 ! 새로운 소식은 무엇입니까 ?
+hide the money .	돈을 숨기세요 .
+his head ached .	그의 머리가 아팠다 .
+his name's tom .	그 사람 이름은 톰이에요 .
+how can i help ?	어떻게 도와드릴까요 ?
+how can i lose ?	내가 어떻게 잃을 수 있니 ?
+how deep is it ?	얼마나 깊나요 ?
+how did i look ?	나 어땠어 ?
+how did it end ?	어떻게 끝났어 ?
+how did you do ?	어떻게 지냈어 ?
+how good is he ?	그 사람은 얼마나 좋은데 ?
+how high is it ?	얼마나 높나요 ?
+how long is it ?	얼마나 걸리나요 ?
+how much is it ?	얼마입니까 ?
+how old is tom ?	톰은 몇 살이에요 ?
+how tall is he ?	그 사람 키가 얼마나 되니 ?
+how was boston ?	보스턴은 어땠어 ?
+how wide is it ?	얼마나 넓나요 ?
+how's it going ?	잘 지내요 ?
+how's your job ?	당신 직업은 어때요 ?
+hurry up , guys .	서둘러 , 얘들아 .
+i already know .	나는 이미 알고 있다 .
+i am hungarian .	나는 헝가리 사람이에요 .
+i am a shy boy .	나는 수줍음이 많은 소년이다 .
+i am a student .	나는 학생입니다 .
+i am a teacher .	나는 교사입니다 .
+i am a tourist .	나는 관광객이다 .
+i am an artist .	나는 예술가입니다 .
+i am exhausted .	나는 지쳤어요 .
+i am in london .	나는 런던에 있어요 .
+i am in a spot .	나는 지금 한 자리에 있다 .
+i am not happy .	나는 행복하지 않다 .
+i am off today .	나 오늘 휴가야 .
+i am too short .	나는 너무 키가 작아요 .
+i am very tall .	나는 키가 아주 크다 .
+i ate a banana .	나는 바나나를 먹었다 .
+i ate too much .	나는 너무 많이 먹었다 .
+i believe that .	나는 그것을 믿는다 .
+i believed you .	나는 당신을 믿었습니다 .
+i bike to work .	나는 자전거를 타고 출근한다 .
+i borrow money .	나는 돈을 빌린다 .
+i bought a hat .	나는 모자를 샀다 .
+i broke a nail .	내가 손톱을 부러뜨렸어 .
+i broke my arm .	팔이 부러졌어 .
+i broke my leg .	나는 다리를 부러뜨렸다 .
+i brought mine .	나는 내 것을 가져왔다 .
+i brought wine .	내가 와인을 가져왔어 .
+i called ahead .	내가 미리 전화했어 .
+i came for you .	나는 당신을 위해 왔습니다 .
+i can hear tom .	톰의 목소리가 들려요 .
+i can hear you .	나는 당신의 말을들을 수 있습니다 .
+i can help tom .	내가 톰을 도와줄 수 있어요 .
+i can help you .	내가 도와드릴 수 있어요 .
+i can prove it .	나는 그것을 증명할 수 있습니다 .
+i can't get in .	난 들어갈 수 없어 .
+i can't go out .	나는 나갈 수 없다 .
+i can't see it .	나는 그것을 볼 수 없습니다 .
+i can't use it .	나는 그것을 사용할 수 없습니다 .
+i changed that .	내가 그걸 바꿨어 .
+i corrected it .	나는 그것을 정정했다 .
+i cut the rope .	나는 밧줄을 끊었다 .
+i decorated it .	내가 장식했어 .
+i deserve that .	난 그럴 자격이 있어 .
+i deserve this .	난 그럴 자격이 있어 .
+i did have fun .	나는 재미 있었다 .
+i did warn you .	나는 당신에게 경고했다 .
+i didn't argue .	나는 논쟁하지 않았다 .
+i didn't cheat .	나는 속이지 않았습니다 .
+i didn't do it .	나는 그것을하지 않았다 .
+i didn't drive .	나는 운전하지 않았다 .
+i didn't flunk .	나는 낙제하지 않았다 .
+i didn't laugh .	나는 웃지 않았다 .
+i didn't sleep .	나는 잠을 자지 않았다 .
+i didn't speak .	나는 말을 하지 않았다 .
+i dislike eggs .	나는 계란을 싫어해요 .
+i do apologize .	나는 사과한다 .
+i do know that .	나도 그걸 알아요 .
+i don't belong .	나는 속하지 않습니다 .
+i don't follow .	나는 따르지 않습니다 .
+i don't gamble .	나는 도박을 하지 않습니다 .
+i don't get it .	이해가 안 돼요 .
+i don't gossip .	나는 험담하지 않습니다 .
+i drank a beer .	나는 맥주를 마셨다 .
+i enjoy movies .	나는 영화를 좋아해요 .
+i fed the pigs .	나는 돼지에게 먹이를 주었다 .
+i feel ashamed .	나는 부끄러움을 느낀다 .
+i feel blessed .	나는 축복받은 것 같아요 .
+i feel for you .	나는 당신을 위해 느낀다 .
+i feel honored .	영광이라고 생각해요 .
+i feel nothing .	나는 아무것도 느끼지 않는다 .
+i feel so cold .	너무 추워요 .
+i feel strange .	기분이 이상해요 .
+i feel trapped .	나는 갇혀있는 것 같아요 .
+i feel useless .	나는 쓸모없다고 느낀다 .
+i fell in love .	나는 사랑에 빠졌다 .
+i felt cheated .	나는 속았다는 것을 느꼈다 .
+i felt excited .	나는 기분이 좋았다 .
+i followed him .	나는 그를 따라 갔다 .
+i followed you .	나는 당신을 따랐다 .
+i gave it away .	나는 그것을 줬다 .
+i gave it back .	나는 그것을 돌려주었다 .
+i gave my word .	나는 약속했다 .
+i gave up hope .	나는 희망을 포기했다 .
+i get off here .	나 여기서 내리는데 .
+i get the idea .	나는 아이디어를 얻습니다 .
+i get up early .	나는 일찍 일어난다 .
+i give my word .	나는 약속한다 .
+i go to school .	나는 학교에 간다 .
+i got a suntan .	나 선탠했어 .
+i got arrested .	나는 체포됐다 .
+i got confused .	나는 혼란스러워졌다 .
+i got divorced .	나는 이혼했다 .
+i got expelled .	나 퇴학당했어 .
+i got nauseous .	메스꺼워 졌어 .
+i grew up here .	나는 여기서 자랐다 .
+i guarantee it .	나는 그것을 보장한다 .
+i had a mishap .	나한테 사고가 났어 .
+i had a stroke .	나는 뇌졸중을 앓았습니다 .
+i had a vision .	나는 비전을 가지고 있었다 .
+i had fun here .	난 여기서 즐거웠어 .
+i had some fun .	나는 좀 재미있었다 .
+i had to do it .	나는 그것을 해야 했다 .
+i hate mondays .	나는 월요일을 싫어한다 .
+i hate sundays .	나는 일요일을 싫어한다 .
+i hate dancing .	나는 춤추는 것을 싫어한다 .
+i hate dieting .	나는 다이어트를 싫어한다 .
+i hate driving .	나는 운전을 싫어한다 .
+i hate her now .	난 지금 그 사람이 싫어요 .
+i hate insects .	나는 곤충을 싫어해요 .
+i hate ironing .	나는 다림질을 싫어한다 .
+i hate it here .	난 여기가 싫어 .
+i hate karaoke .	나는 노래방을 싫어한다 .
+i hate lawyers .	나는 변호사를 싫어한다 .
+i hate my boss .	난 내 상사가 싫어 .
+i hate my life .	난 내 인생이 싫어 .
+i hate parties .	나는 파티를 싫어한다 .
+i hate secrets .	나는 비밀을 싫어한다 .
+i hate spiders .	나는 거미를 싫어한다 .
+i hate spinach .	나는 시금치를 싫어한다 .
+i hate to iron .	나는 다림질을 싫어한다 .
+i hate to lose .	나는지는 것을 싫어한다 .
+i hate to wait .	나는 기다리는 것을 싫어한다 .
+i hate working .	나는 일하는 것을 싫어한다 .
+i hate zealots .	나는 광신도를 싫어한다 .
+i hated school .	나는 학교를 싫어했다 .
+i have a dream .	나에겐 꿈이 있어요 .
+i have a horse .	나에겐 말이 있다 .
+i have a ranch .	나에겐 목장이 있어요 .
+i have a table .	나한테는 테이블이 있어요 .
+i have a truck .	나에겐 트럭이 있어요 .
+i have amnesia .	나는 기억상실증이 있어요 .
+i have an idea .	나한테 좋은 생각이 있어 .
+i have hiccups .	나한테 딸꾹질이 있어 .
+i have no clue .	나는 전혀 모른다 .
+i have no food .	나에겐 음식이 없어요 .
+i have no idea .	나는 모른다 .
+i have no kids .	나는 아이가 없습니다 .
+i have no time .	난 시간이 없어 .
+i have nothing .	나는 아무것도 없다 .
+i have sisters .	나에겐 자매가 있어요 .
+i have the flu .	나 독감에 걸렸어 .
+i have the key .	나한테 열쇠가 있어 .
+i have to stop .	그만둬야 해 .
+i have to wait .	나는 기다려야 한다 .
+i heard a thud .	나는 쿵 하는 소리를 들었다 .
+i heard voices .	나는 목소리를 들었다 .
+i hiccup a lot .	나는 딸꾹질을 많이 한다 .
+i hurried home .	나는 서둘러 집으로 돌아갔다 .
+i hurt my foot .	발을 다쳤어요 .
+i just gave up .	난 그냥 포기했어요 .
+i just guessed .	그냥 추측했어요 .
+i just met him .	방금 그 사람을 만났어요 .
+i keep a diary .	나는 일기를 쓴다 .
+i keep my word .	나는 약속을 지킨다 .
+i kept my word .	나는 약속을 지켰다 .
+i kept singing .	나는 계속 노래를 불렀다 .
+i know the boy .	나는 그 소년을 안다 .
+i left my wife .	나는 아내를 떠났다 .
+i left on time .	나는 정시에 떠났다 .
+i let you down .	나는 당신을 실망시켰다 .
+i like english .	나는 영어를 좋아해요 .
+i like castles .	나는 성을 좋아해요 .
+i like cookies .	나는 쿠키를 좋아해요 .
+i like cooking .	나는 요리를 좋아해요 .
+i like fishing .	나는 낚시를 좋아해요 .
+i like flowers .	나는 꽃을 좋아해요 .
+i like history .	나는 역사를 좋아해요 .
+i like jogging .	나는 조깅을 좋아해요 .
+i like lobster .	나는 랍스터를 좋아해요 .
+i like mahjong .	나는 마작을 좋아해요 .
+i like my life .	나는 내 인생을 좋아한다 .
+i like oysters .	나는 굴을 좋아해요 .
+i like picnics .	나는 피크닉을 좋아해요 .
+i like puzzles .	나는 퍼즐을 좋아해요 .
+i like reading .	나는 독서를 좋아한다 .
+i like running .	나는 달리기를 좋아한다 .
+i like sashimi .	나는 회를 좋아해요 .
+i like seafood .	나는 해산물을 좋아해요 .
+i like singing .	나는 노래하는 것을 좋아해요 .
+i like stories .	나는 이야기를 좋아해요 .
+i like talking .	나는 말하는 것을 좋아한다 .
+i like to sing .	나는 노래하는 것을 좋아해요 .
+i like to swim .	나는 수영을 좋아해요 .
+i like to talk .	나는 말하는 것을 좋아한다 .
+i like turtles .	나는 거북이를 좋아해요 .
+i like walking .	나는 걷는 것을 좋아한다 .
+i like working .	나는 일하는 것을 좋아한다 .
+i lit the fire .	내가 불을 붙였어 .
+i lit the oven .	내가 오븐에 불을 붙였어 .
+i live in kobe .	나는 고베에 살아요 .
+i live in town .	나는 도시에 산다 .
+i live upstate .	나는 북부에 산다 .
+i lost control .	나는 통제력을 잃었습니다 .
+i lost my keys .	열쇠를 잃어버렸어요 .
+i lost the bet .	나는 내기를 잃었다 .
+i love animals .	나는 동물을 사랑해요 .
+i love bananas .	나는 바나나를 좋아해요 .
+i love cookies .	나는 쿠키를 좋아해요 .
+i love cooking .	나는 요리를 좋아해요 .
+i love flowers .	나는 꽃을 좋아해요 .
+i love it here .	나는 여기를 좋아한다 .
+i love lasagna .	나는 라자냐를 좋아해요 .
+i love my home .	나는 내 집을 사랑 해요 .
+i love my kids .	나는 내 아이들을 사랑합니다 .
+i love my life .	나는 내 인생을 사랑합니다 .
+i love my work .	나는 내 일을 사랑합니다 .
+i love parties .	나는 파티를 좋아해요 .
+i love puzzles .	나는 퍼즐을 좋아해요 .
+i love reading .	나는 독서를 좋아합니다 .
+i love secrets .	나는 비밀을 좋아한다 .
+i love sunsets .	나는 일몰을 좋아해요 .
+i love the sun .	나는 태양을 사랑해요 .
+i love to cook .	나는 요리하는 것을 좋아합니다 .
+i love to read .	나는 읽는 것을 좋아합니다 .
+i love to swim .	나는 수영을 좋아해요 .
+i love winning .	나는 이기는 것을 좋아한다 .
+i love you all .	나는 당신을 모두 사랑합니다 .
+i made cookies .	나는 쿠키를 만들었습니다 .
+i made her cry .	내가 그녀를 울게 만들었어요 .
+i made him cry .	내가 그를 울게 만들었어요 .
+i made muffins .	나는 머핀을 만들었어요 .
+i may be wrong .	내가 틀렸을 수도 있습니다 .
+i mean no harm .	내 말은 해를 끼치 지 않는다는 뜻입니다 .
+i met a friend .	나는 친구를 만났습니다 .
+i met him once .	나는 그를 한 번 만났어요 .
+i miss college .	나는 대학이 그리워요 .
+i missed a lot .	나는 많이 그리워했다 .
+i must buy one .	나 하나 사야 해 .
+i must decline .	거절해야 해요 .
+i must protest .	나는 항의해야 한다 .
+i must see you .	꼭 만나야 해요 .
+i need a break .	난 휴식이 필요해 .
+i need a drink .	나는 마실 것이 필요하다 .
+i need a favor .	부탁이 필요해요 .
+i need a knife .	칼이 필요해 .
+i need a raise .	인상이 필요해요 .
+i need a snack .	간식이 필요해 .
+i need a stamp .	우표가 필요해요 .
+i need answers .	나는 대답이 필요해요 .
+i need friends .	나에겐 친구가 필요해 .
+i need it asap .	최대한 빨리 필요해요 .
+i need support .	나는 지원이 필요해요 .
+i need surgery .	수술이 필요해 .
+i need to know .	나는 알아야 해요 .
+i need to stop .	그만둬야 해 .
+i need you now .	난 지금 당신이 필요해요 .
+i needed money .	나는 돈이 필요했다 .
+i never go out .	난 절대 나가지 않아 .
+i noticed that .	나는 그것을 알아 차렸다 .
+i often hiccup .	나는 종종 딸꾹질을 한다 .
+i often travel .	나는 여행을 자주 한다 .
+i owe him $100 .	나는 그에게 100달러 빚을 졌어요 .
+i own this car .	나는 이 차를 소유하고 있습니다 .
+i paid in cash .	나는 현금으로 지불했다 .
+i paid nothing .	나는 아무것도 지불하지 않았습니다 .
+i painted that .	내가 그렸어 .
+i plead guilty .	나는 유죄를 인정합니다 .
+i predicted it .	나는 그것을 예측했다 .
+i promised tom .	나 톰한테 약속했어 .
+i quit smoking .	나는 담배를 끊었다 .
+i raise cattle .	나는 소를 키운다 .
+i ran upstairs .	나는 위층으로 달려갔다 .
+i realize that .	나는 그것을 알고 있습니다 .
+i really tried .	나는 정말로 노력했다 .
+i remember her .	나는 그녀를 기억한다 .
+i remember now .	나는 지금 기억한다 .
+i remember you .	나는 당신을 기억합니다 .
+i said get out .	내가 나가라고 했어 .
+i said not now .	내가 지금은 아니라고 했어 .
+i said nothing .	나는 아무 말도 하지 않았다 .
+i said shut up !	내가 닥치라고 했어 !
+i saw her home .	나는 그녀의 집을 보았다 .
+i saw her swim .	나는 그녀가 수영하는 것을 보았다 .
+i saw him jump .	나는 그가 점프하는 것을 보았다 .
+i saw him once .	나는 그를 한 번 봤어요 .
+i saw it first .	내가 먼저 봤어 .
+i saw it on tv .	TV에서 봤어 .
+i saw somebody .	나는 누군가를 보았다 .
+i saw the cook .	나는 요리사를 보았다 .
+i saw the file .	내가 그 파일을 봤어 .
+i saw the game .	나는 그 게임을 보았다 .
+i sell flowers .	나는 꽃을 팔아요 .
+i serve no one .	나는 아무에게도 봉사하지 않습니다 .
+i should do it .	나는 그것을 해야 한다 .
+i smell coffee .	커피 냄새가 나요 .
+i sneeze a lot .	재채기를 많이 해요 .
+i speak french .	나는 프랑스어를 해요 .
+i started that .	내가 그걸 시작했어 .
+i study french .	나는 프랑스어를 공부해요 .
+i study korean .	나는 한국어를 공부해요 .
+i sure am cold .	나 분명 추워요 .
+i sure hope so .	꼭 그랬으면 좋겠어 .
+i take it back .	내가 다시 가져갈게 .
+i teach french .	나는 프랑스어를 가르쳐요 .
+i think we can .	내 생각엔 우리가 할 수 있을 것 같아 .
+i thought hard .	나는 열심히 생각했다 .
+i took her arm .	나는 그녀의 팔을 잡았다 .
+i took the job .	나는 그 일을 맡았다 .
+i travel light .	나는 가볍게 여행한다 .
+i trusted them .	나는 그들을 믿었다 .
+i turned right .	나는 우회전했다 .
+i urge caution .	나는 주의를 촉구한다 .
+i usually walk .	나는 보통 걷는다 .
+i walked alone .	나는 혼자 걸었다 .
+i want a chair .	나는 의자를 원해요 .
+i want a donut .	나는 도넛을 원해요 .
+i want a drink .	나는 한잔하고 싶다 .
+i want a puppy .	나는 강아지를 원해요 .
+i want a raise .	나는 인상을 원해요 .
+i want answers .	나는 대답을 원해요 .
+i want details .	나는 세부사항을 원한다 .
+i want justice .	나는 정의를 원한다 .
+i want revenge .	나는 복수하고 싶다 .
+i want the fan .	나는 팬을 원해요 .
+i want to come .	나는 오고 싶다 .
+i want to help .	나는 돕고 싶다 .
+i want to live .	나는 살고 싶다 .
+i want to play .	나는 놀고 싶다 .
+i want to quit .	나는 그만두고 싶다 .
+i want to stay .	나는 머물고 싶다 .
+i want to talk .	나는 이야기하고 싶다 .
+i want to walk .	나는 걷고 싶다 .
+i want to work .	나는 일하고 싶다 .
+i wanted to go .	나는 가고 싶었다 .
+i was a doctor .	나는 의사였습니다 .
+i was a member .	나는 회원이었습니다 .
+i was attacked .	나는 공격을 받았습니다 .
+i was barefoot .	나는 맨발이었다 .
+i was bluffing .	내가 허세를 부리고 있었어 .
+i was captured .	나는 체포됐다 .
+i was careless .	나는 부주의했다 .
+i was cleaning .	나는 청소하고 있었어요 .
+i was detained .	나는 구금되었습니다 .
+i was grateful .	나는 감사했다 .
+i was hammered .	나는 망치질을 당했다 .
+i was impolite .	나는 무례했다 .
+i was offended .	나는 기분이 상했다 .
+i was outdoors .	나는 야외에 있었다 .
+i was pardoned .	나는 용서를 받았습니다 .
+i was so happy .	나는 너무 행복했다 .
+i was speaking .	나는 말하고 있었다 .
+i was starving .	나는 배고프다 .
+i was studying .	나는 공부하고 있었어요 .
+i was thinking .	나는 생각하고 있었다 .
+i was too fast .	내가 너무 빨랐어요 .
+i was unharmed .	나는 무사했다 .
+i was upstairs .	나는 위층에 있었다 .
+i was watching .	나는 보고 있었다 .
+i wasn't drunk .	난 취하지 않았어 .
+i wasn't hired .	나는 고용되지 않았습니다 .
+i wear glasses .	나는 안경을 쓴다 .
+i went fishing .	나는 낚시하러 갔다 .
+i will sue you .	나는 당신을 고소할 것입니다 .
+i will survive .	나는 살아남을 것이다 .
+i will take it .	내가 가져갈게 .
+i will testify .	내가 증언하겠습니다 .
+i wish i could .	그럴 수 있었으면 좋겠어 .
+i won't forget .	나는 잊지 않을 것이다 .
+i won't return .	나는 돌아오지 않을 것이다 .
+i work for tom .	나는 톰 밑에서 일해요 .
+i wrote a memo .	나는 메모를 썼다 .
+i'd be careful .	조심할게 .
+i'd be honored .	나는 영광일 것이다 .
+i'd like a hug .	나는 포옹을 원합니다 .
+i'd rather die .	차라리 죽고 싶어 .
+i'd rather not .	난 차라리 안 하고 싶어 .
+i'll apologize .	사과할게 .
+i'll ask later .	나중에 물어볼게 .
+i'll be around .	나는 곧 있을 것이다 .
+i'll be direct .	내가 직접 할게 .
+i'll be honest .	솔직하게 말할게 .
+i'll be inside .	난 안에 있을게 .
+i'll call them .	내가 전화할게 .
+i'll cancel it .	취소할게요 .
+i'll come back .	나는 돌아올 것이다 .
+i'll cooperate .	나는 협력할 것이다 .
+i'll do it now .	지금 할게요 .
+i'll get these .	내가 이걸 가져올게 .
+i'll go anyway .	어쨌든 갈게요 .
+i'll go change .	나 가서 갈아입을게 .
+i'll go myself .	내가 직접 갈게 .
+i'll guide you .	내가 안내해줄게 .
+i'll handle it .	내가 처리할게 .
+i'll just wait .	난 그냥 기다릴게 .
+i'll manage it .	내가 처리할게 .
+i'll marry you .	나는 당신과 결혼할 거예요 .
+i'll need that .	그게 필요해요 .
+i'll need this .	나한테는 이게 필요해 .
+i'll pay later .	나중에 지불할게요 .
+i'll pray hard .	열심히 기도하겠습니다 .
+i'll risk that .	내가 위험을 감수하겠습니다 .
+i'll scold him .	내가 그 사람을 꾸짖을 거야 .
+i'll see to it .	내가 처리할게 .
+i'll stay here .	난 여기 있을게요 .
+i'll stay home .	난 집에 있을게 .
+i'll take over .	내가 맡을게 .
+i'll take that .	내가 가져갈게 .
+i'll treat you .	내가 당신을 치료할 것입니다 .
+i'll trust you .	나는 당신을 믿을 것이다 .
+i'll try again .	다시 시도하겠습니다 .
+i'll wait here .	난 여기서 기다릴게 .
+i'll work hard .	나는 열심히 일할 것이다 .
+i'm a canadian .	나는 캐나다 사람이에요 .
+i'm a bit busy .	나 좀 바빠 .
+i'm a diabetic .	나는 당뇨병 환자입니다 .
+i'm a free man .	나는 자유인이다 .
+i'm a freshman .	나는 신입생이에요 .
+i'm a good guy .	나는 좋은 사람이다 .
+i'm a minister .	나는 장관이다 .
+i'm a musician .	나는 음악가입니다 .
+i'm a nice guy .	나는 좋은 사람이에요 .
+i'm a real man .	나는 진짜 남자 다 .
+i'm a salesman .	나는 세일즈맨이에요 .
+i'm afraid not .	안타깝지만…
+i'm against it .	나는 그것에 반대합니다 .
+i'm all thumbs .	난 완전 엄지손가락이야 .
+i'm an old man .	나는 노인이다 .
+i'm astonished .	나는 놀랐다 .
+i'm behind him .	나는 그 뒤에 있어요 .
+i'm being used .	나는 이용당하고 있어요 .
+i'm contagious .	나는 전염성이 있습니다 .
+i'm dead tired .	나 정말 피곤해 .
+i'm dehydrated .	나는 탈수 상태야 .
+i'm dependable .	나는 신뢰할 수 있습니다 .
+i'm devastated .	나는 망연자실하다 .
+i'm doing fine .	나는 잘 지내요 .
+i'm doing well .	나는 잘 지내요 .
+i'm downstairs .	나는 아래층에 있어요 .
+i'm eating now .	나 지금 먹고 있어 .
+i'm exercising .	나는 운동을 해요 .
+i'm farsighted .	나는 원시적이다 .
+i'm fascinated .	나는 매료됐다 .
+i'm firing you .	난 당신을 해고 해요 .
+i'm free today .	나 오늘은 시간 있어 .
+i'm from kyoto .	저는 교토 출신이에요 .
+i'm going back .	나는 돌아갈 것이다 .
+i'm going bald .	나 대머리가 될 거야 .
+i'm going home .	나는 집에 갈거야 .
+i'm happy here .	나는 여기서 행복하다 .
+i'm happy , too .	나도 기쁘다 .
+i'm having fun .	나는 재미있다 .
+i'm hungry now .	나 지금 배고파 .
+i'm illiterate .	나는 문맹이다 .
+i'm in the car .	나 차 안에 있어 .
+i'm interested .	나는 관심이 있다 .
+i'm just bored .	난 그냥 지루 해요 .
+i'm just tired .	난 그냥 피곤해요 .
+i'm mad at you .	너한테 화났어 .
+i'm making tea .	나는 차를 만들고 있어요 .
+i'm meditating .	나는 명상하고 있어요 .
+i'm methodical .	나는 체계적이야 .
+i'm no quitter .	난 포기하지 않아 .
+i'm not a fool .	나는 바보가 아니다 .
+i'm not a hero .	나는 영웅이 아니다 .
+i'm not a liar .	나는 거짓말쟁이가 아닙니다 .
+i'm not amused .	난 재미없어 .
+i'm not asleep .	나 안 자고 있어 .
+i'm not bitter .	나는 씁쓸하지 않다 .
+i'm not cranky .	난 까다롭지 않아요 .
+i'm not crying .	난 울지 않아요 .
+i'm not guilty .	난 무죄야 .
+i'm not insane .	난 제정신이 아니야 .
+i'm not joking .	농담하는 게 아니야 .
+i'm not lonely .	난 외롭지 않아요 .
+i'm not normal .	난 정상이 아니야 .
+i'm not pretty .	나는 예쁘지 않다 .
+i'm not racist .	나는 인종차별주의자가 아니다 .
+i'm not scared .	나는 두렵지 않다 .
+i'm not skinny .	나는 마른 편이 아니다 .
+i'm not sleepy .	나 안 졸려 .
+i'm not so old .	난 별로 안 늙었어 .
+i'm not strong .	나는 강하지 않다 .
+i'm old enough .	나는 충분히 나이가 들었다 .
+i'm on holiday .	나는 휴가 중이다 .
+i'm one of you .	나는 당신 중 하나입니다 .
+i'm optimistic .	나는 낙관적이다 .
+i'm out of gas .	기름이 떨어졌어 .
+i'm overweight .	나는 과체중이에요 .
+i'm overworked .	나 과로했어 .
+i'm prejudiced .	나는 편견을 가지고 있습니다 .
+i'm rather shy .	나는 오히려 수줍음이 많다 .
+i'm really old .	난 정말 늙었어 .
+i'm reasonable .	나는 합리적이다 .
+i'm remodeling .	나는 리모델링 중이야 .
+i'm right here .	난 바로 여기 있어요 .
+i'm sick of it .	난 지겨워요 .
+i'm so thirsty .	너무 목마르다 .
+i'm so unlucky !	난 정말 운이 좋지 않아 !
+i'm speechless .	나는 말문이 막혔다 .
+i'm still busy .	난 아직 바빠요 .
+i'm still here .	난 아직 여기 있어요 .
+i'm stuck here .	난 여기 갇혀 있어요 .
+i'm successful .	나는 성공했다 .
+i'm sure of it .	나는 그것을 확신한다 .
+i'm the killer .	내가 살인자야 .
+i'm the oldest .	나는 가장 나이가 많다 .
+i'm undressing .	나 옷을 벗고 있어 .
+i'm unemployed .	나는 실업자입니다 .
+i'm untalented .	나는 재능이 없습니다 .
+i'm used to it .	나는 그것에 익숙하다 .
+i'm vegetarian .	나는 채식주의자예요 .
+i'm very happy .	나는 매우 행복합니다 .
+i'm very short .	나는 매우 키가 작아요 .
+i'm very sorry .	정말 미안해요 .
+i'm very tired .	나는 매우 피곤하다 .
+i'm very upset .	나는 매우 화가 났다 .
+i'm wide awake .	나 완전히 깨어났어 .
+i've been busy .	나는 바빴다 .
+i've done that .	내가 그랬어 .
+i've forgotten .	나는 잊어버렸다 .
+i've got plans .	나에겐 계획이 있어 .
+i've messed up .	내가 망쳤어 .
+i've remarried .	나는 재혼했어요 .
+i've seen that .	나는 그것을 본 적이 있어요 .
+i've upset you .	내가 당신을 화나게 했어요 .
+if only i knew !	내가 알았더라면 !
+is tom jealous ?	톰이 질투해요 ?
+is tom working ?	톰은 일하고 있어 ?
+is anyone here ?	여기 누구 있어요 ?
+is anyone hurt ?	다친 사람 있어요 ?
+is he american ?	그 사람 미국인이에요 ?
+is he japanese ?	그 사람 일본인이에요 ?
+is he sleeping ?	그 사람 자고 있어 ?
+is it any good ?	괜찮나요 ?
+is it credible ?	믿을 만합니까 ?
+is it finished ?	끝났어 ?
+is it in there ?	거기 있어 ?
+is it reliable ?	믿을 수 있나요 ?
+is lunch ready ?	점심은 준비됐나요 ?
+is she at home ?	그 사람 집에 있어요 ?
+is she married ?	그 사람 결혼했어요 ?
+is that a bear ?	저거 곰이야 ?
+is that a bird ?	저거 새야 ?
+is that a fact ?	그게 사실인가요 ?
+is that a wolf ?	저거 늑대야 ?
+is that better ?	그게 더 낫지 ?
+is that enough ?	그것으로 충분합니까 ?
+is that for me ?	그게 나를 위한 거야 ?
+is that likely ?	그럴 가능성이 있나요 ?
+is that my hat ?	그거 내 모자야 ?
+is that normal ?	그게 정상인가요 ?
+is that so bad ?	그게 그렇게 나쁜거야 ?
+is that unfair ?	그거 불공평해 ?
+is this a date ?	이게 데이트야 ?
+is this a joke ?	이거 농담이야 ?
+is this a wine ?	이것은 와인입니까 ?
+is this enough ?	이 정도면 됐지 ?
+is this normal ?	이게 정상인가요 ?
+isn't it black ?	검은색 아니야 ?
+isn't it scary ?	무섭지 않아 ?
+isn't it weird ?	이상하지 않아 ?
+it all changed .	모든 것이 바뀌 었습니다 .
+it didn't help .	그것은 도움이 되지 않았습니다 .
+it didn't work .	작동하지 않았습니다 .
+it feels silly .	그것은 어리석은 느낌입니다 .
+it feels weird .	기분이 이상해요 .
+it gets better .	좋아진다 .
+it has to stop .	멈춰야 해 .
+it is saturday .	토요일이에요 .
+it is possible .	그것은 가능하다 .
+it is so early .	너무 이르다 .
+it is too late .	너무 늦었어요 .
+it looked real .	그것은 진짜처럼 보였다 .
+it makes sense .	그것은 의미가 있습니다 .
+it may be true .	그것은 사실일지도 모른다 .
+it smells good !	좋은 냄새야 !
+it sounds easy .	쉬운 것 같아요 .
+it was a dream .	그것은 꿈이었다 .
+it was a fluke .	그것은 우연이었다 .
+it was a rumor .	그것은 소문이었다 .
+it was awesome .	정말 굉장했어요 .
+it was perfect .	완벽했어요 .
+it was planned .	그것은 계획된 것이었습니다 .
+it was raining .	비가 내리고 있었다 .
+it was snowing .	눈이 내리고 있었다 .
+it was so dark .	너무 어두웠어요 .
+it was so good .	정말 좋았어 .
+it was working .	그것은 작동하고있었습니다 .
+it wasn't easy .	쉽지 않았어요 .
+it wasn't luck .	그것은 행운이 아니었다 .
+it wasn't mine .	그것은 내 것이 아니 었습니다 .
+it'll work now .	이제 작동할 거예요 .
+it's christmas .	크리스마스야 .
+it's wednesday .	수요일이에요 .
+it's a bargain .	그것은 거래입니다 .
+it's a big one .	그것은 큰 것입니다 .
+it's a classic .	그것은 고전이다 .
+it's a miracle .	그것은 기적이다 .
+it's a mistake .	그것은 실수입니다 .
+it's a problem .	그것은 문제입니다 .
+it's all clear .	모든 것이 명확합니다 .
+it's all right .	괜찮아요 .
+it's all there .	다 거기 있어요 .
+it's all white .	다 흰색이에요 .
+it's all wrong .	다 틀렸어 .
+it's all yours .	그것은 모두 당신 것입니다 .
+it's an ambush !	매복이야 !
+it's an excuse .	그것은 변명이다 .
+it's beautiful .	그것은 아름답습니다 .
+it's beyond me .	그것은 나를 넘어선 것입니다 .
+it's brand new .	그것은 아주 새로운 것입니다 .
+it's dangerous !	위험해요 !
+it's dangerous .	위험해요 .
+it's different .	그것은 다르다 .
+it's dishonest .	그것은 부정직하다 .
+it's expensive .	비싸다 .
+it's forbidden .	그것은 금지되어 있습니다 .
+it's important .	그것은 중요하다 .
+it's inspiring .	그것은 고무적입니다 .
+it's no secret .	그것은 비밀이 아닙니다 .
+it's not a dog .	그것은 개가 아닙니다 .
+it's not funny .	재미없어요 .
+it's not right .	그것은 옳지 않습니다 .
+it's not weird .	이상하지 않아요 .
+it's our fault .	그건 우리 잘못이에요 .
+it's redundant .	그것은 중복됩니다 .
+it's revolting .	그것은 반란이다 .
+it's safe here .	여기는 안전해요 .
+it's so pretty .	너무 예뻐요 .
+it's the truth .	그것은 진실입니다 .
+it's this book .	이 책이야 .
+it's too early .	너무 이르다 .
+it's too large .	너무 큽니다 .
+it's too quiet .	너무 조용해요 .
+it's too risky .	너무 위험해요 .
+it's too small .	너무 작습니다 .
+it's undamaged .	손상되지 않았습니다 .
+it's up to you .	그것은 당신에게 달려 있습니다 .

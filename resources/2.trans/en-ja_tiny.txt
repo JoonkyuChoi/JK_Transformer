@@ -1,0 +1,300 @@
+go .	行く 。
+hi .	こんにちは 。
+run !	走る ！
+who ?	誰が ？
+wow !	おお ！
+fire !	火 ！
+help !	ヘルプ ！
+jump .	ジャンプ 。
+stop !	停止 ！
+wait !	待って ！
+go on .	続けてください 。
+hello !	こんにちは ！
+i see .	なるほど 。
+i try .	試してみます 。
+i won !	私は勝ちました ！
+i won .	私が勝ちました 。
+oh no !	なんてこった ！
+attack !	攻撃 ！
+cheers !	乾杯 ！
+get up .	起きる 。
+go now .	今すぐ行きましょう 。
+got it !	わかった ！
+got it ?	わかった ？
+hop in .	飛び込みます 。
+hug me .	私を抱きしめて 。
+i fell .	私は落ちた 。
+i know .	知っている 。
+i left .	私は去った 。
+i lost .	負けました 。
+i paid .	支払いました 。
+i'm 19 .	私は19歳です 。
+i'm ok .	私は大丈夫 。
+listen .	聞く 。
+no way !	とんでもない ！
+really ?	本当に ？
+thanks .	ありがとう 。
+we try .	試してみます 。
+we won .	私たちは勝ちました 。
+ask tom .	トムに聞いてください 。
+awesome !	素晴らしい ！
+be calm .	落ち着いてください 。
+be cool .	クールであってください 。
+be fair .	公平であること 。
+be kind .	親切にしてください 。
+be nice .	よろしくね 。
+beat it .	失せろ 。
+call me .	電話してね 。
+call us .	お電話ください 。
+come in .	お入りください 。
+come on !	来て ！
+come on .	来て 。
+drop it !	落としてください ！
+get tom .	トムを入手します 。
+get out !	出て行け ！
+get out .	出て行け 。
+go away !	どこかに行って ！
+go away .	どこかに行って 。
+go home .	家に帰れ 。
+go slow .	ゆっくり行ってください 。
+goodbye !	さようなら ！
+hang on !	ちょっとまって ！
+hang on .	ちょっとまって 。
+he quit .	彼は辞めた 。
+he runs .	彼は走ります 。
+help me !	助けて ！
+help me .	助けて 。
+help us .	助けてください 。
+hold it !	待ってください ！
+hold on .	持続する 。
+hug tom .	トムを抱きしめて 。
+i agree .	同意します 。
+i cried .	私は泣いた 。
+i dozed .	居眠りしてしまいました 。
+i drive .	私は運転します 。
+i smoke .	私は喫煙します 。
+i snore .	いびきをかきます 。
+i stink .	臭いです 。
+i stood .	私は立っていた 。
+i swore .	私は誓った 。
+i tried .	私は試した 。
+i waved .	私は手を振った 。
+i'll go .	行きます 。
+i'm tom .	私はトムです 。
+i'm fat .	私は太っています 。
+i'm fit .	私は元気です 。
+i'm hit !	当たってるよ ！
+i'm ill .	私は病気です 。
+i'm sad .	私は悲しいです 。
+i'm shy .	恥ずかしいです 。
+i'm wet .	濡れています 。
+it's me !	それは私です ！
+join us .	参加しませんか 。
+keep it .	そのままにしておいてください 。
+kiss me .	キスして 。
+me , too .	私も 。
+open up .	開けてください 。
+perfect !	完璧 ！
+see you .	またね 。
+show me .	見せて 。
+shut up !	黙れ ！
+so long .	さよなら 。
+take it .	それを取ってください 。
+tell me .	教えて 。
+tom won .	トムが勝った 。
+wake up !	起きろ ！
+wake up .	起きろ 。
+wash up .	洗います 。
+we know .	私たちは知っています 。
+we lost .	私たちは負けました 。
+welcome .	いらっしゃいませ 。
+who won ?	誰が勝ったの ？
+you run .	あなたは走ります 。
+am i fat ?	私は太っていますか ？
+ask them .	彼らに尋ねてください 。
+back off !	下がってください ！
+back off .	後退してください 。
+be a man .	男になりなさい 。
+be still .	じっとしていてください 。
+beats me .	私を殴ります 。
+call tom .	トムに電話してください 。
+cheer up !	元気づける ！
+cool off !	クールダウン ！
+cuff him .	彼に手錠をかける 。
+drive on .	ドライブオン 。
+find tom .	トムを見つけてください 。
+fix this .	これを修正してください 。
+get down !	降りてください ！
+get down .	降りてください 。
+get lost !	迷子になる ！
+get real !	本物になる ！
+go ahead .	どうぞ 。
+good job !	よくやった ！
+grab him .	彼を捕まえてください 。
+have fun .	楽しむ 。
+he tries .	彼は試みます 。
+he's wet .	彼は濡れています 。
+help tom .	トムを助けて 。
+hi , guys .	こんにちは、みんな 。
+how cute !	なんて可愛いんだろう ！
+how deep ?	どのくらい深いですか ？
+how nice !	なんと素敵なことでしょう ！
+humor me .	ユーモア私 。
+hurry up .	急いで 。
+i am fat .	私は太っている 。
+i did ok .	大丈夫でした 。
+i did it .	やったよ 。
+i failed .	失敗しました 。
+i forgot .	忘れた 。
+i get it .	わかった 。
+i got it .	わかった 。
+i helped .	私は助けました 。
+i jumped .	飛び降りた 。
+i looked .	見ました 。
+i moaned .	私はうめきました 。
+i nodded .	私はうなずいた 。
+i obeyed .	私は従った 。
+i phoned .	電話しました 。
+i refuse .	お断りします 。
+i rested .	休みました 。
+i saw it .	見ました 。
+i sighed .	私はため息をつきました 。
+i stayed .	私は滞在しました 。
+i talked .	話しました 。
+i use it .	私はそれを使っています 。
+i'll pay .	私が支払います 。
+i'll try .	私が試してみます 。
+i'm back .	戻ってきました 。
+i'm bald .	私はハゲています 。
+i'm busy .	私は忙しいです 。
+i'm calm .	私は落ち着いています 。
+i'm cold .	寒いです 。
+i'm cool .	私はかっこいいです 。
+i'm deaf .	私は耳が聞こえません 。
+i'm done .	私は終わった 。
+i'm fair .	私は公正です 。
+i'm fast .	私は速いです 。
+i'm fine .	元気です 。
+i'm free !	私は自由だ ！
+i'm free .	私は自由だ 。
+i'm full .	お腹いっぱいです 。
+i'm game .	私はゲームです 。
+i'm glad .	私は嬉しい 。
+i'm home .	ただいま 。
+i'm late .	遅刻だ 。
+i'm lazy .	私は怠け者です 。
+i'm okay .	大丈夫です 。
+i'm rich .	私は金持ちです 。
+i'm safe .	私は安全です 。
+i'm sick .	私は病気です 。
+i'm sure .	私は確信しています 。
+i'm tall .	私は背が高いです 。
+i'm thin .	私は痩せています 。
+i'm tidy .	私はきちんとしています 。
+i'm ugly .	私は醜いです 。
+i'm weak .	私は弱いです 。
+i'm well .	私は元気です 。
+i've won .	私は勝ちました 。
+it helps .	それは助けになります 。
+it hurts .	それは痛い 。
+it works .	それは動作します 。
+it's tom .	トムです 。
+it's fun .	楽しいです 。
+it's his .	それは彼のです 。
+it's new .	新しいです 。
+it's odd .	それは奇妙です 。
+it's red .	赤です 。
+it's sad .	悲しいです 。
+keep out !	近づかないでください ！
+keep out .	近づかないでください 。
+kiss tom .	トムにキスして 。
+leave it .	放置してください 。
+leave me .	私に任せてください 。
+leave us .	私たちにお任せください 。
+let's go !	さあ行こう ！
+let's go .	さあ行こう 。
+look out !	外を見る ！
+marry me .	結婚してください 。
+may i go ?	行ってもいいですか ？
+save tom .	トムを救ってください 。
+she came .	彼女は来ました 。
+she died .	彼女は亡くなりました 。
+she runs .	彼女は走ります 。
+sit down !	座って下さい ！
+sit down .	座って下さい 。
+sit here .	ここに座ってください 。
+speak up !	話してください ！
+stop tom .	トムを止めてください 。
+taste it .	味わってください 。
+tell tom .	トムに伝えてください 。
+terrific !	素晴らしい ！
+they won .	彼らは勝ちました 。
+tom came .	トムが来た 。
+tom died .	トムが亡くなりました 。
+tom knew .	トムは知っていた 。
+tom left .	トム左 。
+tom lied .	トムは嘘をつきました 。
+tom lies .	トムは嘘をつく 。
+tom lost .	トムがいなくなった 。
+tom paid .	トムが支払いました 。
+too late .	遅すぎる 。
+trust me .	私を信じて 。
+try hard .	頑張ってください 。
+try some .	いくつか試してみてください 。
+try this .	これを試してみてください 。
+use this .	これを使用してください 。
+warn tom .	トムに警告してください 。
+watch me .	私を見てください 。
+watch us .	私たちを見守ってください 。
+we agree .	同意します 。
+we'll go .	行きます 。
+what for ?	何のために ？
+what fun !	なんて楽しいんだ ！
+who came ?	誰が来たの ？
+who died ?	誰が死んだの ？
+who fell ?	誰が落ちたの ？
+who quit ?	誰が辞めたの ？
+who's he ?	彼は誰ですか ？
+write me .	書いてください 。
+you lost .	あなたは負けました 。
+after you .	お先にどうぞ 。
+aim . fire !	標的 。火 ！
+am i late ?	私は遅れていますか ？
+answer me .	答えて下さい 。
+be seated .	座ってください 。
+birds fly .	鳥が飛びます 。
+bless you .	お大事に 。
+call home !	家に電話してください ！
+calm down !	落ち着け ！
+calm down .	落ち着け 。
+can we go ?	行ってもいいですか ？
+catch tom .	トムを捕まえる 。
+catch him .	彼を捕まえてください 。
+come back .	戻ってくる 。
+come here .	ここに来て 。
+come over !	やって来る ！
+come over .	やって来る 。
+come soon .	すぐに来てください 。
+cool down .	クールダウン 。
+did i win ?	私が勝ったんですか ？
+do it now .	今すぐやってください 。
+dogs bark .	犬が吠える 。
+don't ask .	質問しないでください 。
+don't cry .	泣かないで 。
+don't die .	死なないでください 。
+don't lie .	嘘をつかないでください 。
+don't run .	走らないでください 。
+excuse me .	すみません 。
+fantastic !	素晴らしい ！
+feel this .	これを感じてください 。
+follow me .	私に従ってください 。
+follow us .	私たちに従ってください 。
+forget it !	忘れて ！
+forget it .	忘れて 。
+get a job .	仕事を得る 。
+get ready .	準備をしてください 。
+go get it .	取りに行ってください 。
+go inside .	中に入ります 。
+go to bed .	寝る 。
+good luck .	幸運を 。
+grab that .	それを掴んでください 。
