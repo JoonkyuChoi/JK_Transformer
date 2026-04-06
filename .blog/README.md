@@ -7,7 +7,7 @@
 ## Title
 JK-Transformer
 
-## Sub-Title
+## Excerpt
 C++ Transformer Engine (Optimized for MSVC 2022 and gcc)
 
 ## Tag
@@ -29,7 +29,7 @@ portfolio
 
 ## 설명
 ```markdown
-본 게시물은 `Portfolio` 목적으로 [GitHub](https://github.com/JoonkyuChoi/JK-Transformer)에 공개하였으며, 현재 소스코드는 포함되어 있지 않습니다.
+본 게시물은 `Portfolio` 목적으로 [GitHub](https://github.com/JoonkyuChoi/JK_Transformer)에 공개하였으며, 현재 소스코드는 포함되어 있지 않습니다.
 License 검토 및 정비 단계에 있어, 소스코드를 직접 공개하지 않습니다.
 대신에, 개발 과정에서의 설계 역량과 결과물을 증명하기 위해, 아래의 **2차적 저작물** 및 산출물을 공개합니다.
 
